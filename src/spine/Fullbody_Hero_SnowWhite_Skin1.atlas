@@ -1,0 +1,1364 @@
+
+Fullbody_Hero_SnowWhite_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leyelashbottom
+  rotate: false
+  xy: 1302, 1565
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+Leyelashtop
+  rotate: false
+  xy: 1077, 1582
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+Leyelidtop
+  rotate: false
+  xy: 1853, 1593
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 2023, 1841
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 2032, 1873
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Reyelashbottom
+  rotate: false
+  xy: 31, 1632
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Reyelashtop
+  rotate: false
+  xy: 1732, 1547
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Reyelidtop
+  rotate: false
+  xy: 1115, 1582
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 2019, 1804
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 1980, 1758
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+apple1
+  rotate: false
+  xy: 1646, 746
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+apple1shadow
+  rotate: false
+  xy: 571, 707
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+apple2
+  rotate: false
+  xy: 1897, 431
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+apple2shadow
+  rotate: false
+  xy: 1646, 699
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+apple3
+  rotate: false
+  xy: 1549, 1208
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+apple4
+  rotate: false
+  xy: 1973, 240
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+apple5
+  rotate: false
+  xy: 930, 308
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+bird1_body
+  rotate: false
+  xy: 1147, 246
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+bird1_head
+  rotate: false
+  xy: 2020, 1824
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+bird1_wing
+  rotate: true
+  xy: 128, 1589
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+bird2_body
+  rotate: false
+  xy: 1980, 1667
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+bird2_wing1
+  rotate: 180
+  xy: 154, 588
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+bird2_wing2
+  rotate: false
+  xy: 673, 625
+  size: 55, 65
+  orig: 150, 105
+  offset: 95, 40
+  index: -1
+bird3_body
+  rotate: false
+  xy: 537, 1455
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+bird3_wing1
+  rotate: false
+  xy: 899, 209
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+bird3_wing2
+  rotate: false
+  xy: 960, 208
+  size: 104, 43
+  orig: 104, 43
+  offset: 0, 0
+  index: -1
+bird4_body
+  rotate: 270
+  xy: 1281, 207
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+bird4_wing1
+  rotate: false
+  xy: 600, 462
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+bird4_wing2
+  rotate: true
+  xy: 1993, 1393
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+bird5_body
+  rotate: false
+  xy: 1397, 268
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+bird5_wing1
+  rotate: false
+  xy: 0, 218
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+bird5_wing2
+  rotate: false
+  xy: 1497, 596
+  size: 89, 26
+  orig: 89, 26
+  offset: 0, 0
+  index: -1
+bird6
+  rotate: false
+  xy: 761, 1451
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+bird7
+  rotate: false
+  xy: 291, 238
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+guard1_Lshoulderplate
+  rotate: false
+  xy: 805, 656
+  size: 173, 215
+  orig: 173, 215
+  offset: 0, 0
+  index: -1
+guard1_Lshoulderplateback
+  rotate: false
+  xy: 223, 238
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+guard1_Rarm
+  rotate: false
+  xy: 1796, 911
+  size: 164, 291
+  orig: 164, 291
+  offset: 0, 0
+  index: -1
+guard1_Rshoulderplate
+  rotate: true
+  xy: 1296, 509
+  size: 113, 201
+  orig: 113, 201
+  offset: 0, 0
+  index: -1
+guard1_Rshoulderplateback
+  rotate: false
+  xy: 426, 410
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+guard1_blade
+  rotate: false
+  xy: 1174, 1062
+  size: 374, 206
+  orig: 374, 206
+  offset: 0, 0
+  index: -1
+guard1_foot
+  rotate: false
+  xy: 497, 711
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+guard1_hand
+  rotate: false
+  xy: 1265, 1286
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+guard1_handle
+  rotate: false
+  xy: 1082, 308
+  size: 130, 74
+  orig: 130, 74
+  offset: 0, 0
+  index: -1
+guard1_head
+  rotate: true
+  xy: 1296, 404
+  size: 105, 163
+  orig: 105, 163
+  offset: 0, 0
+  index: -1
+guard1_kneeplate
+  rotate: false
+  xy: 0, 348
+  size: 122, 106
+  orig: 122, 106
+  offset: 0, 0
+  index: -1
+guard1_leg
+  rotate: true
+  xy: 1646, 575
+  size: 170, 236
+  orig: 170, 236
+  offset: 0, 0
+  index: -1
+guard1_shield
+  rotate: true
+  xy: 820, 1624
+  size: 424, 389
+  orig: 424, 389
+  offset: 0, 0
+  index: -1
+guard1_thumb
+  rotate: false
+  xy: 1673, 1297
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+guard1_torso
+  rotate: false
+  xy: 1302, 1268
+  size: 371, 296
+  orig: 371, 296
+  offset: 0, 0
+  index: -1
+guard2_Larm1
+  rotate: true
+  xy: 944, 347
+  size: 99, 138
+  orig: 99, 138
+  offset: 0, 0
+  index: -1
+guard2_Larm2
+  rotate: true
+  xy: 1437, 621
+  size: 173, 209
+  orig: 173, 209
+  offset: 0, 0
+  index: -1
+guard2_Larm3
+  rotate: false
+  xy: 219, 1459
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+guard2_Lbackshoulderplate
+  rotate: false
+  xy: 316, 876
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+guard2_Lfingerback
+  rotate: true
+  xy: 1853, 1567
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+guard2_Lfingers
+  rotate: false
+  xy: 1321, 316
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+guard2_Lfoot
+  rotate: false
+  xy: 1989, 1205
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+guard2_Lhand
+  rotate: true
+  xy: 486, 227
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+guard2_Lhandle
+  rotate: true
+  xy: 1959, 1042
+  size: 159, 82
+  orig: 159, 82
+  offset: 0, 0
+  index: -1
+guard2_Lhip
+  rotate: true
+  xy: 1179, 643
+  size: 152, 257
+  orig: 152, 257
+  offset: 0, 0
+  index: -1
+guard2_Lleg
+  rotate: false
+  xy: 395, 1339
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+guard2_Rarm
+  rotate: false
+  xy: 1959, 913
+  size: 88, 130
+  orig: 88, 130
+  offset: 0, 0
+  index: -1
+guard2_Rbackshoulderplate
+  rotate: false
+  xy: 758, 826
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+guard2_Rleg1
+  rotate: false
+  xy: 1824, 334
+  size: 123, 90
+  orig: 123, 90
+  offset: 0, 0
+  index: -1
+guard2_Rleg2
+  rotate: false
+  xy: 273, 297
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+guard2_Rshoulderplate
+  rotate: true
+  xy: 600, 354
+  size: 96, 142
+  orig: 96, 142
+  offset: 0, 0
+  index: -1
+guard2_backcape
+  rotate: true
+  xy: 130, 492
+  size: 181, 200
+  orig: 181, 200
+  offset: 0, 0
+  index: -1
+guard2_foot
+  rotate: false
+  xy: 685, 246
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+guard2_helmet
+  rotate: true
+  xy: 127, 381
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+guard2_shield
+  rotate: false
+  xy: 1543, 1564
+  size: 309, 485
+  orig: 309, 485
+  offset: 0, 0
+  index: -1
+guard2_sword
+  rotate: false
+  xy: 820, 1335
+  size: 482, 245
+  orig: 482, 245
+  offset: 0, 0
+  index: -1
+guard2_torso
+  rotate: true
+  xy: 867, 1081
+  size: 255, 308
+  orig: 255, 308
+  offset: 0, 0
+  index: -1
+guard3_Larm1
+  rotate: true
+  xy: 1947, 407
+  size: 159, 96
+  orig: 159, 96
+  offset: 0, 0
+  index: -1
+guard3_Larm2
+  rotate: false
+  xy: 1078, 240
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+guard3_Lelbowplate
+  rotate: false
+  xy: 0, 721
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+guard3_Lshoulder
+  rotate: true
+  xy: 492, 406
+  size: 155, 107
+  orig: 155, 107
+  offset: 0, 0
+  index: -1
+guard3_Rshoulderplate
+  rotate: false
+  xy: 388, 244
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+guard3_cape1
+  rotate: true
+  xy: 524, 622
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+guard3_cape2
+  rotate: false
+  xy: 0, 921
+  size: 217, 120
+  orig: 217, 120
+  offset: 0, 0
+  index: -1
+guard3_foot
+  rotate: false
+  xy: 1513, 233
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+guard3_halberd
+  rotate: true
+  xy: 725, 871
+  size: 210, 268
+  orig: 210, 268
+  offset: 0, 0
+  index: -1
+guard3_hand
+  rotate: false
+  xy: 1673, 1370
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+guard3_head
+  rotate: false
+  xy: 330, 483
+  size: 162, 130
+  orig: 162, 130
+  offset: 0, 0
+  index: -1
+guard3_hip
+  rotate: false
+  xy: 797, 363
+  size: 147, 95
+  orig: 147, 95
+  offset: 0, 0
+  index: -1
+guard3_leg
+  rotate: false
+  xy: 1947, 308
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+guard3_shield1
+  rotate: true
+  xy: 467, 1361
+  size: 91, 354
+  orig: 91, 354
+  offset: 0, 0
+  index: -1
+guard3_shield2
+  rotate: true
+  xy: 1281, 794
+  size: 117, 416
+  orig: 117, 416
+  offset: 0, 0
+  index: -1
+guard3_shieldhandle
+  rotate: false
+  xy: 297, 1458
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+guard3_torso
+  rotate: true
+  xy: 320, 613
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+guard4_Larm1
+  rotate: true
+  xy: 0, 268
+  size: 80, 111
+  orig: 80, 111
+  offset: 0, 0
+  index: -1
+guard4_Larm2
+  rotate: false
+  xy: 343, 1166
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+guard4_Lfinger
+  rotate: false
+  xy: 168, 878
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+guard4_Lfoot
+  rotate: false
+  xy: 1681, 246
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+guard4_Lhand
+  rotate: false
+  xy: 1626, 1206
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+guard4_Lshoulder
+  rotate: false
+  xy: 1174, 1278
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+guard4_Lthumb
+  rotate: true
+  xy: 465, 1340
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+guard4_Rarm
+  rotate: false
+  xy: 1459, 348
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+guard4_Relbow
+  rotate: true
+  xy: 1091, 382
+  size: 112, 147
+  orig: 112, 147
+  offset: 0, 0
+  index: -1
+guard4_Rleg
+  rotate: true
+  xy: 1732, 481
+  size: 97, 215
+  orig: 97, 215
+  offset: 0, 0
+  index: -1
+guard4_Rshoulderplate
+  rotate: false
+  xy: 582, 267
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+guard4_backcape1
+  rotate: true
+  xy: 0, 623
+  size: 166, 321
+  orig: 166, 322
+  offset: 0, 1
+  index: -1
+guard4_backcape2
+  rotate: false
+  xy: 1497, 455
+  size: 169, 131
+  orig: 169, 131
+  offset: 0, 0
+  index: -1
+guard4_halberd
+  rotate: false
+  xy: 0, 1220
+  size: 395, 236
+  orig: 395, 236
+  offset: 0, 0
+  index: -1
+guard4_helmet
+  rotate: false
+  xy: 807, 457
+  size: 153, 119
+  orig: 153, 119
+  offset: 0, 0
+  index: -1
+guard4_shield1
+  rotate: true
+  xy: 805, 577
+  size: 80, 329
+  orig: 80, 329
+  offset: 0, 0
+  index: -1
+guard4_shield2
+  rotate: false
+  xy: 1853, 1651
+  size: 127, 398
+  orig: 127, 398
+  offset: 0, 0
+  index: -1
+guard4_shieldhandl2
+  rotate: false
+  xy: 823, 1097
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+guard4_shieldhandle1
+  rotate: false
+  xy: 87, 1589
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+guard4_torso
+  rotate: true
+  xy: 0, 1458
+  size: 129, 219
+  orig: 129, 219
+  offset: 0, 0
+  index: -1
+guard5_Larm
+  rotate: true
+  xy: 360, 1071
+  size: 83, 204
+  orig: 83, 204
+  offset: 0, 0
+  index: -1
+guard5_Rarm
+  rotate: true
+  xy: 273, 380
+  size: 102, 154
+  orig: 102, 154
+  offset: 0, 0
+  index: -1
+guard5_cape
+  rotate: true
+  xy: 0, 880
+  size: 341, 361
+  orig: 341, 361
+  offset: 0, 0
+  index: -1
+guard5_helmet
+  rotate: false
+  xy: 122, 287
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+guard5_shield
+  rotate: true
+  xy: 1697, 744
+  size: 166, 260
+  orig: 166, 260
+  offset: 0, 0
+  index: -1
+guard5_spear1
+  rotate: true
+  xy: 395, 1155
+  size: 181, 472
+  orig: 181, 472
+  offset: 0, 0
+  index: -1
+guard5_spear2
+  rotate: false
+  xy: 1980, 1906
+  size: 60, 143
+  orig: 60, 143
+  offset: 0, 0
+  index: -1
+guard5_torsoguard
+  rotate: false
+  xy: 1587, 305
+  size: 179, 131
+  orig: 179, 131
+  offset: 0, 0
+  index: -1
+guard6_Larm
+  rotate: true
+  xy: 1864, 231
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+guard6_Rarm
+  rotate: false
+  xy: 1673, 1430
+  size: 59, 134
+  orig: 59, 134
+  offset: 0, 0
+  index: -1
+guard6_Rarmorback1
+  rotate: false
+  xy: 812, 2018
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+guard6_Rarmorback2
+  rotate: true
+  xy: 0, 1634
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+guard6_Rarmplate
+  rotate: false
+  xy: 1009, 241
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+guard6_Rshoulderplate
+  rotate: true
+  xy: 1179, 797
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+guard6_cape
+  rotate: true
+  xy: 354, 875
+  size: 280, 371
+  orig: 280, 371
+  offset: 0, 0
+  index: -1
+guard6_helmet
+  rotate: true
+  xy: 1281, 925
+  size: 137, 251
+  orig: 137, 251
+  offset: 0, 0
+  index: -1
+guard6_shield
+  rotate: false
+  xy: 1549, 912
+  size: 247, 290
+  orig: 247, 290
+  offset: 0, 0
+  index: -1
+guard6_shoulder
+  rotate: true
+  xy: 1926, 1317
+  size: 191, 120
+  orig: 191, 122
+  offset: 0, 0
+  index: -1
+guard6_spear1
+  rotate: false
+  xy: 993, 663
+  size: 187, 212
+  orig: 187, 212
+  offset: 0, 0
+  index: -1
+guard6_spear2
+  rotate: true
+  xy: 1135, 493
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+guard7_Larm1
+  rotate: false
+  xy: 1957, 803
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+guard7_Larm2
+  rotate: false
+  xy: 782, 245
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+guard7_Lshoulderback
+  rotate: true
+  xy: 516, 1341
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+guard7_Rarm1
+  rotate: true
+  xy: 426, 313
+  size: 96, 155
+  orig: 96, 155
+  offset: 0, 0
+  index: -1
+guard7_Rarm2
+  rotate: false
+  xy: 1611, 228
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+guard7_Rshoulder
+  rotate: false
+  xy: 1212, 244
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+guard7_Rshoulderback
+  rotate: false
+  xy: 0, 1592
+  size: 87, 40
+  orig: 87, 40
+  offset: 0, 0
+  index: -1
+guard7_cape
+  rotate: 180
+  xy: 1670, 1201
+  size: 319, 363
+  orig: 319, 363
+  offset: 0, 0
+  index: -1
+guard7_halberd1
+  rotate: true
+  xy: 0, 789
+  size: 86, 508
+  orig: 86, 508
+  offset: 0, 0
+  index: -1
+guard7_halberd2
+  rotate: true
+  xy: 820, 1592
+  size: 32, 194
+  orig: 32, 194
+  offset: 0, 0
+  index: -1
+guard7_helmet
+  rotate: true
+  xy: 718, 1086
+  size: 68, 106
+  orig: 68, 106
+  offset: 0, 0
+  index: -1
+guard7_shield
+  rotate: true
+  xy: 993, 875
+  size: 187, 289
+  orig: 187, 289
+  offset: 0, 0
+  index: -1
+guard7_shoulder
+  rotate: false
+  xy: 1428, 272
+  size: 189, 80
+  orig: 189, 80
+  offset: 0, 0
+  index: -1
+gurad2_hip
+  rotate: true
+  xy: 497, 562
+  size: 142, 177
+  orig: 142, 177
+  offset: 0, 0
+  index: -1
+her_macefingers
+  rotate: false
+  xy: 556, 1340
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+hero_Lear
+  rotate: false
+  xy: 2021, 1783
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+hero_Lfinger1
+  rotate: false
+  xy: 702, 2018
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+hero_Lfingers2
+  rotate: false
+  xy: 563, 1105
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+hero_Lhandapple
+  rotate: false
+  xy: 359, 1036
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+hero_Lleg
+  rotate: false
+  xy: 26, 454
+  size: 101, 173
+  orig: 101, 173
+  offset: 0, 0
+  index: -1
+hero_Lleg2
+  rotate: true
+  xy: 0, 875
+  size: 47, 168
+  orig: 47, 168
+  offset: 0, 0
+  index: -1
+hero_Rarm
+  rotate: 270
+  xy: 741, 252
+  size: 134, 268
+  orig: 134, 268
+  offset: 0, 0
+  index: -1
+hero_Rarmx
+  rotate: true
+  xy: 1014, 1588
+  size: 37, 160
+  orig: 37, 160
+  offset: 0, 0
+  index: -1
+hero_Rleg
+  rotate: false
+  xy: 1882, 566
+  size: 140, 179
+  orig: 140, 179
+  offset: 0, 0
+  index: -1
+hero_backhair1
+  rotate: true
+  xy: 721, 1453
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+hero_backhair2
+  rotate: false
+  xy: 711, 1970
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+hero_backhair3
+  rotate: false
+  xy: 1174, 1600
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+hero_bangs1
+  rotate: true
+  xy: 577, 224
+  size: 27, 225
+  orig: 27, 225
+  offset: 0, 0
+  index: -1
+hero_bangs2
+  rotate: false
+  xy: 2035, 1638
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+hero_bangs3
+  rotate: false
+  xy: 1670, 494
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+hero_bangs4
+  rotate: false
+  xy: 850, 222
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+hero_bangs5
+  rotate: true
+  xy: 1281, 240
+  size: 55, 232
+  orig: 55, 232
+  offset: 0, 0
+  index: -1
+hero_bangs6
+  rotate: false
+  xy: 223, 299
+  size: 46, 81
+  orig: 46, 81
+  offset: 0, 0
+  index: -1
+hero_bangs7
+  rotate: true
+  xy: 98, 207
+  size: 52, 92
+  orig: 52, 92
+  offset: 0, 0
+  index: -1
+hero_bangs8
+  rotate: false
+  xy: 2032, 1520
+  size: 16, 59
+  orig: 20, 60
+  offset: 0, 1
+  index: -1
+hero_bangs9
+  rotate: false
+  xy: 1960, 1298
+  size: 31, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+hero_body
+  rotate: 180
+  xy: 640, 448
+  size: 166, 178
+  orig: 166, 178
+  offset: 0, 0
+  index: -1
+hero_chestmetal
+  rotate: false
+  xy: 2027, 1863
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+hero_coffin
+  rotate: false
+  xy: 0, 1450
+  size: 821, 598
+  orig: 821, 598
+  offset: 0, 0
+  index: -1
+hero_face
+  rotate: true
+  xy: 1761, 252
+  size: 83, 104
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+hero_headleaf1
+  rotate: false
+  xy: 2031, 1751
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+hero_headleaf2
+  rotate: false
+  xy: 2025, 1760
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+hero_headleaf3
+  rotate: false
+  xy: 1707, 704
+  size: 42, 42
+  orig: 110, 72
+  offset: 68, 0
+  index: -1
+hero_headleaf4
+  rotate: false
+  xy: 1160, 1586
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+hero_headleaf5
+  rotate: false
+  xy: 1980, 1654
+  size: 37, 24
+  orig: 37, 25
+  offset: 0, 1
+  index: -1
+hero_headpetal1
+  rotate: false
+  xy: 741, 1952
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+hero_headrose1
+  rotate: false
+  xy: 0, 1043
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+hero_headrose3
+  rotate: false
+  xy: 219, 1551
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+hero_headrose4
+  rotate: false
+  xy: 2018, 1658
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+hero_headrose5
+  rotate: false
+  xy: 1770, 358
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+hero_mace
+  rotate: true
+  xy: 1209, 1580
+  size: 468, 335
+  orig: 468, 335
+  offset: 0, 0
+  index: -1
+hero_maceleaf1
+  rotate: true
+  xy: 1582, 595
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+hero_maceleaf2
+  rotate: true
+  xy: 0, 665
+  size: 56, 68
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+hero_neck
+  rotate: false
+  xy: 741, 387
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+hero_necklacestrap
+  rotate: false
+  xy: 755, 1933
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+hero_staffleaf3
+  rotate: false
+  xy: 1853, 1640
+  size: 30, 12
+  orig: 31, 12
+  offset: 1, 0
+  index: -1
+hero_torso
+  rotate: false
+  xy: 960, 446
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+hero_veil1
+  rotate: 180
+  xy: 88, 217
+  size: 134, 70
+  orig: 134, 70
+  offset: 0, 0
+  index: -1
+hero_veil2
+  rotate: false
+  xy: 1238, 273
+  size: 198, 188
+  orig: 206, 202
+  offset: 2, 12
+  index: -1
+hero_veil3
+  rotate: false
+  xy: 1980, 1683
+  size: 66, 224
+  orig: 66, 224
+  offset: 0, 0
+  index: -1
+hero_veil4
+  rotate: false
+  xy: 74, 756
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+hero_veil5
+  rotate: false
+  xy: 1957, 749
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+hero_veil6
+  rotate: false
+  xy: 1867, 1413
+  size: 172, 239
+  orig: 172, 239
+  offset: 0, 0
+  index: -1
+hero_veil7
+  rotate: false
+  xy: 755, 1841
+  size: 66, 208
+  orig: 66, 208
+  offset: 0, 0
+  index: -1
+hero_veil8
+  rotate: 270
+  xy: 1666, 376
+  size: 129, 231
+  orig: 129, 231
+  offset: 0, 0
+  index: -1
+herp_Rear
+  rotate: true
+  xy: 695, 2030
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1

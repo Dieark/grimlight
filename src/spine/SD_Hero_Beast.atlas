@@ -1,0 +1,494 @@
+
+SD_Hero_Beast.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcape2
+  rotate: false
+  xy: 332, 245
+  size: 30, 87
+  orig: 30, 87
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 449, 230
+  size: 46, 103
+  orig: 46, 103
+  offset: 0, 0
+  index: -1
+Lshoulderspike
+  rotate: false
+  xy: 15, 216
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Lshouldertassel
+  rotate: false
+  xy: 495, 297
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+Lsideplate
+  rotate: false
+  xy: 29, 43
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 183, 202
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Rarmhair
+  rotate: false
+  xy: 332, 230
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 449, 38
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 245, 2
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: false
+  xy: 169, 42
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Rsideplate
+  rotate: false
+  xy: 184, 61
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 0, 54
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+SlamBlur
+  rotate: true
+  xy: 332, 332
+  size: 180, 139
+  orig: 201, 150
+  offset: 0, 11
+  index: -1
+armorskirt
+  rotate: false
+  xy: 365, 4
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+azehead
+  rotate: true
+  xy: 202, 37
+  size: 189, 163
+  orig: 189, 163
+  offset: 0, 0
+  index: -1
+backarmplate
+  rotate: true
+  xy: 0, 199
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+backmane
+  rotate: false
+  xy: 0, 41
+  size: 202, 185
+  orig: 202, 185
+  offset: 0, 0
+  index: -1
+backneckflap
+  rotate: true
+  xy: 471, 398
+  size: 115, 41
+  orig: 115, 41
+  offset: 0, 0
+  index: -1
+collar1
+  rotate: false
+  xy: 169, 6
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+collar2
+  rotate: true
+  xy: 471, 341
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 449, 141
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+handle
+  rotate: false
+  xy: 0, 23
+  size: 169, 19
+  orig: 169, 19
+  offset: 0, 0
+  index: -1
+mouthclosed
+  rotate: false
+  xy: 133, 4
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 96, 2
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+mouthopen
+  rotate: false
+  xy: 296, 5
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 15, 46
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+necktassel
+  rotate: false
+  xy: 495, 260
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 55, 3
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+sidebelt
+  rotate: false
+  xy: 437, 10
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: true
+  xy: 365, 37
+  size: 295, 84
+  orig: 301, 87
+  offset: 3, 2
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 226
+  size: 332, 286
+  orig: 337, 290
+  offset: 1, 2
+  index: -1
+waistrag1
+  rotate: true
+  xy: 0, 4
+  size: 19, 55
+  orig: 19, 55
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Beast2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 472, 137
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Lcape1
+  rotate: false
+  xy: 303, 120
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 339, 76
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 304, 87
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 469, 104
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Lkneeplate
+  rotate: false
+  xy: 155, 84
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Lkneeplatex
+  rotate: false
+  xy: 438, 77
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 438, 77
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 438, 132
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Lshoulderplate1
+  rotate: false
+  xy: 86, 95
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Lshoulderplate2
+  rotate: true
+  xy: 0, 111
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Rbracer
+  rotate: true
+  xy: 175, 112
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 0, 125
+  size: 95, 133
+  orig: 95, 133
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 217, 86
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: false
+  xy: 249, 86
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 0, 82
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 132, 112
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: true
+  xy: 188, 79
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+RoarBlurred
+  rotate: false
+  xy: 0, 219
+  size: 306, 293
+  orig: 336, 293
+  offset: 24, 0
+  index: -1
+Rshoulderplate1
+  rotate: true
+  xy: 124, 82
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: 270
+  xy: 306, 182
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1
+backskirt
+  rotate: false
+  xy: 426, 180
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 70, 165
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 353, 135
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 410, 412
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+mane1
+  rotate: true
+  xy: 409, 250
+  size: 161, 103
+  orig: 161, 103
+  offset: 0, 0
+  index: -1
+mane2
+  rotate: 270
+  xy: 40, 99
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+mane3
+  rotate: false
+  xy: 467, 301
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+mane4
+  rotate: true
+  xy: 397, 105
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+mouthmid
+  rotate: false
+  xy: 351, 105
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 306, 332
+  size: 180, 104
+  orig: 185, 109
+  offset: 3, 3
+  index: -1
+torso
+  rotate: false
+  xy: 228, 160
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+waistbelt
+  rotate: 180
+  xy: 222, 117
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+waistrag2
+  rotate: false
+  xy: 156, 150
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Beast3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slash3
+  rotate: false
+  xy: 254, 250
+  size: 252, 256
+  orig: 259, 262
+  offset: 3, 4
+  index: -1
+slash4
+  rotate: false
+  xy: 0, 210
+  size: 254, 296
+  orig: 259, 299
+  offset: 2, 1
+  index: -1

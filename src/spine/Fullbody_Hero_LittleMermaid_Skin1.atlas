@@ -1,0 +1,796 @@
+
+Fullbody_Hero_LittleMermaid_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Seagull 1
+  rotate: true
+  xy: 1873, 384
+  size: 211, 173
+  orig: 211, 173
+  offset: 0, 0
+  index: -1
+BG_Seagull 2
+  rotate: false
+  xy: 102, 13
+  size: 94, 25
+  orig: 94, 25
+  offset: 0, 0
+  index: -1
+BG_Seagull 3
+  rotate: false
+  xy: 157, 435
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+BG_Seagull 4
+  rotate: false
+  xy: 97, 415
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+BG_Seagull 5
+  rotate: false
+  xy: 257, 10
+  size: 62, 28
+  orig: 72, 28
+  offset: 10, 0
+  index: -1
+BG_Seagull 6
+  rotate: false
+  xy: 738, 9
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+BG_Seagull 7
+  rotate: false
+  xy: 1044, 363
+  size: 124, 84
+  orig: 124, 84
+  offset: 0, 0
+  index: -1
+BG_Seagull 8
+  rotate: false
+  xy: 0, 5
+  size: 102, 32
+  orig: 102, 32
+  offset: 0, 0
+  index: -1
+BG_Seagull 9
+  rotate: true
+  xy: 1943, 594
+  size: 125, 83
+  orig: 125, 83
+  offset: 0, 0
+  index: -1
+BG_star 2
+  rotate: false
+  xy: 1175, 41
+  size: 206, 197
+  orig: 206, 197
+  offset: 0, 0
+  index: -1
+B_ac
+  rotate: false
+  xy: 0, 1193
+  size: 1126, 856
+  orig: 1126, 856
+  offset: 0, 0
+  index: -1
+B_hair 1
+  rotate: true
+  xy: 1764, 836
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: -1
+Band 1
+  rotate: 180
+  xy: 812, 6
+  size: 317, 71
+  orig: 317, 71
+  offset: 0, 0
+  index: -1
+Band 3
+  rotate: false
+  xy: 908, 381
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+Band 4
+  rotate: false
+  xy: 1364, 5
+  size: 331, 89
+  orig: 331, 89
+  offset: 0, 0
+  index: -1
+EF 3
+  rotate: 270
+  xy: 1956, 845
+  size: 379, 86
+  orig: 379, 86
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 1
+  rotate: false
+  xy: 195, 15
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 1_leg
+  rotate: false
+  xy: 0, 243
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 1_wing 1
+  rotate: false
+  xy: 1626, 170
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 1_wing 2
+  rotate: false
+  xy: 878, 389
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 2 wing 2
+  rotate: false
+  xy: 1695, 4
+  size: 193, 51
+  orig: 193, 51
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 2_leg
+  rotate: true
+  xy: 1074, 9
+  size: 57, 92
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 3
+  rotate: true
+  xy: 1692, 1049
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 3_leg
+  rotate: false
+  xy: 1765, 1126
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 3_wing 2
+  rotate: false
+  xy: 1894, 873
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+F_hair 1
+  rotate: false
+  xy: 1086, 295
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+F_hair 2
+  rotate: false
+  xy: 0, 285
+  size: 39, 54
+  orig: 39, 55
+  offset: 0, 1
+  index: -1
+Face
+  rotate: true
+  xy: 0, 339
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+L_Eyelashes 1
+  rotate: false
+  xy: 770, 430
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+L_Eyelashes 2
+  rotate: false
+  xy: 1692, 1185
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+L_Eyelid
+  rotate: false
+  xy: 1006, 426
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+L_arm 1
+  rotate: 180
+  xy: 1692, 143
+  size: 152, 218
+  orig: 152, 218
+  offset: 0, 0
+  index: -1
+L_arm 2
+  rotate: false
+  xy: 1997, 1970
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 1537, 186
+  size: 112, 53
+  orig: 112, 53
+  offset: 0, 0
+  index: -1
+L_eyespark
+  rotate: false
+  xy: 1130, 1197
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+L_frill 1
+  rotate: true
+  xy: 1850, 265
+  size: 114, 56
+  orig: 114, 56
+  offset: 0, 0
+  index: -1
+L_frill 2
+  rotate: true
+  xy: 1971, 731
+  size: 113, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+L_hand 0
+  rotate: false
+  xy: 1380, 90
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: 270
+  xy: 1409, 41
+  size: 339, 617
+  orig: 339, 617
+  offset: 0, 0
+  index: -1
+L_pupil
+  rotate: false
+  xy: 0, 265
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+L_sclera
+  rotate: false
+  xy: 1125, 1200
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+L_waist_frill
+  rotate: false
+  xy: 834, 420
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+R_Eyelashes 1
+  rotate: false
+  xy: 35, 322
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+R_Eyelashes 2
+  rotate: false
+  xy: 1780, 1201
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+R_Eyelid
+  rotate: false
+  xy: 359, 9
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+R_L_dress 1
+  rotate: false
+  xy: 1692, 935
+  size: 309, 289
+  orig: 309, 289
+  offset: 0, 0
+  index: -1
+R_arm_dress 2
+  rotate: true
+  xy: 1692, 204
+  size: 764, 280
+  orig: 764, 289
+  offset: 0, 9
+  index: -1
+R_ear
+  rotate: true
+  xy: 1736, 219
+  size: 89, 63
+  orig: 92, 63
+  offset: 3, 0
+  index: -1
+R_eyespark
+  rotate: false
+  xy: 1130, 1194
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+R_frill 1
+  rotate: 270
+  xy: 1963, 4
+  size: 170, 85
+  orig: 170, 85
+  offset: 0, 0
+  index: -1
+R_frill 2
+  rotate: false
+  xy: 1838, 808
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+R_hair 1
+  rotate: 180
+  xy: 1692, 389
+  size: 52, 93
+  orig: 52, 93
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 1997, 1787
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+R_hand 1
+  rotate: false
+  xy: 1997, 1668
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+R_hand 2
+  rotate: false
+  xy: 319, 7
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+R_hand 3
+  rotate: false
+  xy: 104, 374
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+R_hand 4
+  rotate: false
+  xy: 38, 305
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+R_hand_dress 1
+  rotate: false
+  xy: 1564, 7
+  size: 80, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+R_pupil
+  rotate: false
+  xy: 1692, 1141
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+R_sclera
+  rotate: false
+  xy: 1692, 1024
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+SS_BG_wave 2
+  rotate: false
+  xy: 0, 37
+  size: 1175, 410
+  orig: 1175, 410
+  offset: 0, 0
+  index: -1
+SS_Cloud
+  rotate: true
+  xy: 1172, 239
+  size: 985, 520
+  orig: 985, 520
+  offset: 0, 0
+  index: -1
+SS_Rock
+  rotate: false
+  xy: 1125, 1223
+  size: 872, 826
+  orig: 872, 826
+  offset: 0, 0
+  index: -1
+SS_sky
+  rotate: false
+  xy: 0, 447
+  size: 1173, 746
+  orig: 1173, 746
+  offset: 0, 0
+  index: -1
+chain 1
+  rotate: false
+  xy: 1997, 1600
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+chain 2
+  rotate: false
+  xy: 1997, 1726
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+chain_shadow
+  rotate: false
+  xy: 2016, 1769
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+crown 1
+  rotate: false
+  xy: 1997, 1829
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+crown 3
+  rotate: false
+  xy: 1886, 929
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 1692, 1209
+  size: 88, 15
+  orig: 88, 15
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 157, 424
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1997, 1911
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1125, 1193
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+spear_shadow
+  rotate: false
+  xy: 1692, 877
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+
+Fullbody_Hero_LittleMermaid_Skin12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_star 1
+  rotate: false
+  xy: 910, 1056
+  size: 137, 163
+  orig: 137, 163
+  offset: 0, 0
+  index: -1
+B_hair 2
+  rotate: 180
+  xy: 1157, 1431
+  size: 891, 403
+  orig: 891, 403
+  offset: 0, 0
+  index: -1
+B_hair 4
+  rotate: false
+  xy: 1640, 373
+  size: 349, 190
+  orig: 349, 190
+  offset: 0, 0
+  index: -1
+Band 2
+  rotate: false
+  xy: 596, 261
+  size: 417, 230
+  orig: 417, 230
+  offset: 0, 0
+  index: -1
+Band 5
+  rotate: false
+  xy: 1327, 270
+  size: 482, 259
+  orig: 482, 260
+  offset: 0, 0
+  index: -1
+Band 6
+  rotate: 180
+  xy: 832, 332
+  size: 517, 153
+  orig: 517, 153
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 2
+  rotate: false
+  xy: 0, 828
+  size: 284, 137
+  orig: 284, 137
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 2 wing 1
+  rotate: 180
+  xy: 1069, 352
+  size: 313, 299
+  orig: 313, 299
+  offset: 0, 0
+  index: -1
+F_BG_Seagull 3_wing 1
+  rotate: false
+  xy: 1891, 1781
+  size: 156, 97
+  orig: 156, 97
+  offset: 0, 0
+  index: -1
+F_BG_star1
+  rotate: false
+  xy: 1771, 1858
+  size: 198, 191
+  orig: 198, 191
+  offset: 0, 0
+  index: -1
+F_hair 3
+  rotate: false
+  xy: 90, 1982
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+L_L_dress 1
+  rotate: false
+  xy: 53, 1080
+  size: 363, 280
+  orig: 363, 280
+  offset: 0, 0
+  index: -1
+L_L_dress 2
+  rotate: false
+  xy: 0, 1233
+  size: 514, 333
+  orig: 514, 333
+  offset: 0, 0
+  index: -1
+M_L_dress 1
+  rotate: 180
+  xy: 0, 480
+  size: 182, 358
+  orig: 182, 358
+  offset: 0, 0
+  index: -1
+M_L_dress 2
+  rotate: true
+  xy: 1330, 1217
+  size: 219, 361
+  orig: 219, 361
+  offset: 0, 0
+  index: -1
+M_L_dress 3
+  rotate: true
+  xy: 374, 1112
+  size: 190, 319
+  orig: 190, 319
+  offset: 0, 0
+  index: -1
+M_L_dress 4
+  rotate: true
+  xy: 1692, 541
+  size: 184, 355
+  orig: 184, 355
+  offset: 0, 0
+  index: -1
+M_L_dress 5
+  rotate: false
+  xy: 389, 1410
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+M_L_dress 6
+  rotate: 180
+  xy: 962, 919
+  size: 859, 554
+  orig: 859, 554
+  offset: 0, 0
+  index: -1
+R_L_dress 2
+  rotate: false
+  xy: 125, 548
+  size: 488, 437
+  orig: 488, 437
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 948, 1975
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+R_arm_dress 1
+  rotate: true
+  xy: 1690, 1181
+  size: 407, 357
+  orig: 414, 357
+  offset: 0, 0
+  index: -1
+R_hair 2
+  rotate: false
+  xy: 1593, 1950
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+R_hair 3
+  rotate: false
+  xy: 1000, 1989
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+R_hand 0
+  rotate: false
+  xy: 1695, 1967
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+R_hand_dress 2
+  rotate: false
+  xy: 1540, 1954
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1199, 1766
+  size: 283, 572
+  orig: 283, 572
+  offset: 0, 0
+  index: -1
+R_waist_frill
+  rotate: false
+  xy: 1059, 1911
+  size: 163, 138
+  orig: 163, 138
+  offset: 0, 0
+  index: -1
+SS_BG wave 1
+  rotate: false
+  xy: 0, 1623
+  size: 1199, 426
+  orig: 1199, 439
+  offset: 0, 13
+  index: -1
+SS_EF 1
+  rotate: 180
+  xy: 651, 451
+  size: 707, 534
+  orig: 718, 582
+  offset: 11, 48
+  index: -1
+SS_EF 2
+  rotate: false
+  xy: 0, 897
+  size: 963, 884
+  orig: 988, 884
+  offset: 25, 0
+  index: -1
+U_body
+  rotate: false
+  xy: 477, 540
+  size: 175, 282
+  orig: 184, 282
+  offset: 9, 0
+  index: -1
+crown 2
+  rotate: false
+  xy: 0, 1970
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+side_hair
+  rotate: false
+  xy: 301, 1636
+  size: 88, 178
+  orig: 88, 178
+  offset: 0, 0
+  index: -1
+spear 0
+  rotate: false
+  xy: 651, 593
+  size: 517, 425
+  orig: 518, 425
+  offset: 1, 0
+  index: -1
+spear 1
+  rotate: 180
+  xy: 1382, 513
+  size: 666, 596
+  orig: 666, 596
+  offset: 0, 0
+  index: -1
+spear 3
+  rotate: false
+  xy: 891, 1986
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+spear_s
+  rotate: false
+  xy: 49, 378
+  size: 769, 171
+  orig: 769, 171
+  offset: 0, 0
+  index: -1

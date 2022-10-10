@@ -1,0 +1,341 @@
+
+SD_Hero_WinterQueen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcrownchain
+  rotate: false
+  xy: 492, 452
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 492, 401
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Rcape3
+  rotate: true
+  xy: 384, 216
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+Rcrownchain
+  rotate: false
+  xy: 492, 419
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+Rcrownchainspike
+  rotate: false
+  xy: 403, 171
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 367, 2
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 304, 4
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 492, 485
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 0, 4
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 307, 37
+  size: 205, 324
+  orig: 205, 324
+  offset: 0, 0
+  index: -1
+bangs4x
+  rotate: false
+  xy: 476, 25
+  size: 35, 217
+  orig: 35, 217
+  offset: 0, 0
+  index: -1
+capeclip
+  rotate: false
+  xy: 476, 7
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 384, 377
+  size: 135, 107
+  orig: 135, 107
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 384, 260
+  size: 118, 71
+  orig: 118, 71
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 122, 17
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+iceball2
+  rotate: false
+  xy: 218, 20
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+icehairclip
+  rotate: true
+  xy: 412, 2
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+icering
+  rotate: false
+  xy: 0, 209
+  size: 385, 303
+  orig: 385, 303
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 492, 384
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 492, 387
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 346, 93
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 113
+  size: 400, 96
+  orig: 400, 96
+  offset: 0, 0
+  index: -1
+
+SD_Hero_WinterQueen2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 181, 97
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+Lcrownchainspike
+  rotate: false
+  xy: 480, 391
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Learring
+  rotate: false
+  xy: 361, 357
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 383, 369
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 68, 138
+  size: 42, 114
+  orig: 42, 114
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 481, 88
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 83, 89
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Rcape1
+  rotate: 180
+  xy: 119, 81
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+Rcape2
+  rotate: 270
+  xy: 424, 299
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+Rcape4
+  rotate: false
+  xy: 480, 435
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+Rearring
+  rotate: false
+  xy: 459, 91
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 181, 138
+  size: 42, 111
+  orig: 42, 111
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 256, 295
+  size: 94, 255
+  orig: 94, 255
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 0, 254
+  size: 211, 258
+  orig: 211, 258
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 211, 243
+  size: 89, 294
+  orig: 89, 294
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 386, 120
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 361, 180
+  size: 134, 69
+  orig: 134, 78
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 248, 186
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 182
+  size: 126, 72
+  orig: 126, 72
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 125, 179
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 211, 352
+  size: 150, 161
+  orig: 150, 161
+  offset: 0, 0
+  index: -1
+iceball1
+  rotate: false
+  xy: 0, 115
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+iceball3
+  rotate: false
+  xy: 361, 394
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+tailknot
+  rotate: true
+  xy: 263, 100
+  size: 38, 89
+  orig: 38, 89
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 296, 119
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1

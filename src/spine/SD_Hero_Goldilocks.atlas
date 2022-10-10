@@ -1,0 +1,341 @@
+
+SD_Hero_Goldilocks.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 0, 331
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 256, 22
+  size: 50, 147
+  orig: 50, 147
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 245, 352
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 459, 205
+  size: 51, 148
+  orig: 51, 148
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 473, 419
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 326
+  size: 266, 185
+  orig: 266, 185
+  offset: 0, 0
+  index: -1
+backhood
+  rotate: false
+  xy: 91, 21
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 304, 67
+  size: 138, 240
+  orig: 138, 240
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 94, 65
+  size: 244, 242
+  orig: 244, 242
+  offset: 0, 0
+  index: -1
+belt3
+  rotate: false
+  xy: 0, 370
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+coatbelt1
+  rotate: true
+  xy: 403, 8
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+coatbelt2
+  rotate: 270
+  xy: 232, 65
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+dagger
+  rotate: true
+  xy: 189, 15
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 0, 27
+  size: 157, 91
+  orig: 157, 91
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 266, 307
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 437, 38
+  size: 167, 69
+  orig: 167, 69
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 184
+  size: 257, 142
+  orig: 257, 142
+  offset: 0, 0
+  index: -1
+holsterbelt
+  rotate: true
+  xy: 316, 113
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+hood1
+  rotate: true
+  xy: 473, 454
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+hood2
+  rotate: false
+  xy: 193, 150
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+knottie
+  rotate: false
+  xy: 473, 353
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 257, 246
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 10, 382
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 39, 330
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 227, 326
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 100, 136
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+sprite_shotgunshell
+  rotate: true
+  xy: 257, 257
+  size: 50, 25
+  orig: 50, 26
+  offset: 0, 1
+  index: -1
+
+SD_Hero_Goldilocks2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 203, 69
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 0, 102
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 146, 57
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 58
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 446, 84
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+backcoat
+  rotate: false
+  xy: 284, 415
+  size: 186, 88
+  orig: 186, 88
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 261, 247
+  size: 132, 241
+  orig: 132, 241
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 0, 379
+  size: 163, 124
+  orig: 163, 124
+  offset: 0, 0
+  index: -1
+belt1
+  rotate: false
+  xy: 252, 73
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: false
+  xy: 46, 99
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+cape
+  rotate: 180
+  xy: 68, 190
+  size: 187, 99
+  orig: 187, 99
+  offset: 0, 0
+  index: -1
+chest
+  rotate: 270
+  xy: 339, 69
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+coat1
+  rotate: true
+  xy: 0, 118
+  size: 92, 187
+  orig: 92, 187
+  offset: 0, 0
+  index: -1
+coat2
+  rotate: true
+  xy: 65, 78
+  size: 71, 178
+  orig: 71, 178
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 347, 152
+  size: 145, 107
+  orig: 145, 107
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: false
+  xy: 113, 289
+  size: 148, 91
+  orig: 148, 91
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 0, 232
+  size: 147, 89
+  orig: 147, 89
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 255, 116
+  size: 131, 84
+  orig: 131, 84
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 284, 324
+  size: 155, 91
+  orig: 155, 91
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 163, 380
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,341 @@
+
+SD_Hero_Hina.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HinaBlur
+  rotate: false
+  xy: 0, 3
+  size: 217, 204
+  orig: 217, 204
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: true
+  xy: 328, 15
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Lshoulderdecor1
+  rotate: false
+  xy: 0, 298
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Lshoulderdecor2
+  rotate: false
+  xy: 0, 256
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 193, 270
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 384, 186
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 178, 208
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Rshoulderdecor1
+  rotate: false
+  xy: 479, 258
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Rshoulderdecor2
+  rotate: false
+  xy: 0, 279
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 0, 207
+  size: 211, 303
+  orig: 246, 303
+  offset: 35, 0
+  index: -1
+bangs1
+  rotate: 180
+  xy: 378, 9
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: 180
+  xy: 455, 141
+  size: 50, 232
+  orig: 50, 232
+  offset: 0, 0
+  index: -1
+behinddress
+  rotate: true
+  xy: 306, 170
+  size: 165, 149
+  orig: 165, 149
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 217, 31
+  size: 140, 213
+  orig: 172, 213
+  offset: 0, 0
+  index: -1
+crown1
+  rotate: true
+  xy: 466, 376
+  size: 133, 35
+  orig: 133, 35
+  offset: 0, 0
+  index: -1
+crown2
+  rotate: false
+  xy: 217, 8
+  size: 111, 23
+  orig: 111, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 306, 334
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 504
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+mouthshock
+  rotate: false
+  xy: 0, 345
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 0, 227
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 217, 108
+  size: 89, 401
+  orig: 89, 401
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 306, 133
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Hina2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 404, 153
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: 180
+  xy: 77, 332
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 60, 94
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 369, 265
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+Lwing1
+  rotate: true
+  xy: 126, 10
+  size: 68, 108
+  orig: 68, 108
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: true
+  xy: 339, 323
+  size: 97, 95
+  orig: 99, 95
+  offset: 2, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 273, 348
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 0, 233
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 406, 429
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+Rwing1
+  rotate: false
+  xy: 360, 179
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: true
+  xy: 279, 55
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: 180
+  xy: 199, 210
+  size: 115, 286
+  orig: 115, 286
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 180
+  xy: 346, 1
+  size: 67, 179
+  orig: 67, 179
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 65, 7
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 155, 318
+  size: 62, 111
+  orig: 62, 111
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 274, 163
+  size: 95, 183
+  orig: 95, 183
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 228, 34
+  size: 111, 177
+  orig: 111, 177
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 0, 157
+  size: 204, 338
+  orig: 204, 338
+  offset: 0, 0
+  index: -1
+dressfilm
+  rotate: 180
+  xy: 88, 78
+  size: 154, 107
+  orig: 154, 111
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 410
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 0, 46
+  size: 111, 60
+  orig: 111, 60
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 160, 184
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 0, 275
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 267, 393
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 365, 417
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,383 @@
+
+Fullbody_Hero_Alice_Skin3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leyelash_bottom
+  rotate: false
+  xy: 1955, 468
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+Leyelash_top
+  rotate: false
+  xy: 1352, 585
+  size: 107, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 1940, 1709
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+Leyelid_skin
+  rotate: false
+  xy: 1578, 1933
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 1959, 1340
+  size: 88, 100
+  orig: 88, 100
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 1628, 607
+  size: 409, 419
+  orig: 409, 419
+  offset: 0, 0
+  index: -1
+Lfringe2
+  rotate: 180
+  xy: 1889, 13
+  size: 160, 476
+  orig: 188, 476
+  offset: 20, 0
+  index: -1
+Lfringe4
+  rotate: false
+  xy: 1844, 1749
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 1976, 1553
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+Rarmx
+  rotate: true
+  xy: 397, 119
+  size: 289, 423
+  orig: 289, 423
+  offset: 0, 0
+  index: -1
+Rbutterfly2
+  rotate: false
+  xy: 1352, 1998
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Rhair3
+  rotate: false
+  xy: 1244, 166
+  size: 97, 242
+  orig: 97, 242
+  offset: 0, 0
+  index: -1
+Rhand_back
+  rotate: false
+  xy: 538, 25
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: true
+  xy: 820, 157
+  size: 250, 423
+  orig: 250, 423
+  offset: 0, 0
+  index: -1
+SS_bg2
+  rotate: false
+  xy: 0, 407
+  size: 1352, 1641
+  orig: 1352, 1644
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 806, 68
+  size: 90, 468
+  orig: 90, 469
+  offset: 0, 1
+  index: -1
+bust
+  rotate: false
+  xy: 1352, 65
+  size: 540, 512
+  orig: 540, 512
+  offset: 0, 0
+  index: -1
+butterflyL
+  rotate: false
+  xy: 1914, 349
+  size: 133, 448
+  orig: 133, 448
+  offset: 0, 0
+  index: -1
+collar_back
+  rotate: 180
+  xy: 1824, 1045
+  size: 223, 206
+  orig: 223, 206
+  offset: 0, 0
+  index: -1
+hairbraid2
+  rotate: false
+  xy: 1962, 1618
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+hairclips
+  rotate: false
+  xy: 397, 7
+  size: 141, 113
+  orig: 141, 113
+  offset: 0, 0
+  index: -1
+headband
+  rotate: false
+  xy: 0, 35
+  size: 397, 373
+  orig: 397, 373
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: false
+  xy: 1506, 1362
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 1637, 1868
+  size: 120, 180
+  orig: 120, 180
+  offset: 0, 0
+  index: -1
+ribbon_top
+  rotate: true
+  xy: 1352, 1267
+  size: 221, 154
+  orig: 221, 154
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: true
+  xy: 1352, 1365
+  size: 684, 628
+  orig: 699, 628
+  offset: 15, 0
+  index: -1
+skirt
+  rotate: 180
+  xy: 1352, 578
+  size: 605, 787
+  orig: 605, 787
+  offset: 0, 0
+  index: -1
+switchblade
+  rotate: true
+  xy: 1767, 1802
+  size: 246, 265
+  orig: 246, 265
+  offset: 0, 0
+  index: -1
+
+Fullbody_Hero_Alice_Skin32.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 1234, 1419
+  size: 371, 442
+  orig: 371, 442
+  offset: 0, 0
+  index: -1
+Lfringe
+  rotate: false
+  xy: 780, 6
+  size: 428, 808
+  orig: 428, 808
+  offset: 0, 0
+  index: -1
+Lfringe3
+  rotate: true
+  xy: 1138, 17
+  size: 183, 196
+  orig: 183, 218
+  offset: 0, 22
+  index: -1
+Lhand
+  rotate: false
+  xy: 948, 947
+  size: 469, 513
+  orig: 469, 513
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 1133, 646
+  size: 292, 415
+  orig: 292, 415
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1208, 34
+  size: 232, 613
+  orig: 232, 613
+  offset: 0, 0
+  index: -1
+Rbutterfly1
+  rotate: true
+  xy: 0, 6
+  size: 193, 216
+  orig: 196, 216
+  offset: 3, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 948, 1523
+  size: 286, 338
+  orig: 286, 340
+  offset: 0, 2
+  index: -1
+Rhair
+  rotate: true
+  xy: 1262, 1045
+  size: 301, 370
+  orig: 357, 387
+  offset: 10, 17
+  index: -1
+Rhair2
+  rotate: false
+  xy: 1234, 1490
+  size: 112, 213
+  orig: 112, 222
+  offset: 0, 9
+  index: -1
+Rhand
+  rotate: 180
+  xy: 321, 1
+  size: 250, 277
+  orig: 250, 277
+  offset: 0, 0
+  index: -1
+SS_desk
+  rotate: false
+  xy: 0, 563
+  size: 948, 1298
+  orig: 949, 1299
+  offset: 0, 1
+  index: -1
+bangs1
+  rotate: false
+  xy: 1612, 1388
+  size: 159, 336
+  orig: 159, 336
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 180
+  xy: 1405, 733
+  size: 291, 352
+  orig: 291, 352
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 1507, 614
+  size: 279, 401
+  orig: 279, 421
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 948, 1174
+  size: 273, 350
+  orig: 273, 355
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 1396, 1574
+  size: 288, 306
+  orig: 288, 306
+  offset: 0, 0
+  index: -1
+bangs5x
+  rotate: true
+  xy: 1457, 1143
+  size: 277, 376
+  orig: 280, 379
+  offset: 0, 3
+  index: -1
+bangs6
+  rotate: false
+  xy: 1376, 165
+  size: 230, 448
+  orig: 263, 448
+  offset: 0, 0
+  index: -1
+butterflyR
+  rotate: 180
+  xy: 1482, 17
+  size: 205, 354
+  orig: 205, 354
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 134
+  size: 441, 429
+  orig: 441, 429
+  offset: 0, 0
+  index: -1
+hairbraid
+  rotate: false
+  xy: 571, 148
+  size: 510, 800
+  orig: 640, 805
+  offset: 0, 5
+  index: -1
+hairbraid3
+  rotate: 270
+  xy: 1654, 27
+  size: 264, 158
+  orig: 264, 179
+  offset: 0, 21
+  index: -1
+neck
+  rotate: 180
+  xy: 441, 257
+  size: 329, 306
+  orig: 329, 306
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: true
+  xy: 1600, 286
+  size: 337, 184
+  orig: 337, 234
+  offset: 0, 50
+  index: -1

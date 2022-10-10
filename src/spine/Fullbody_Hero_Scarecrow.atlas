@@ -1,0 +1,552 @@
+
+Fullbody_Hero_Scarecrow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Labirdy2bodyyer 2
+  rotate: false
+  xy: 1502, 689
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 1568, 1817
+  size: 117, 232
+  orig: 117, 234
+  offset: 0, 2
+  index: -1
+Leye
+  rotate: false
+  xy: 1506, 1208
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 1587, 1803
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+Lfingers
+  rotate: false
+  xy: 1569, 1471
+  size: 52, 33
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 1713, 828
+  size: 155, 385
+  orig: 155, 385
+  offset: 0, 0
+  index: -1
+Lhairbow
+  rotate: false
+  xy: 1779, 1222
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+Lhairbowtassels
+  rotate: false
+  xy: 1803, 1242
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+Lponytail
+  rotate: false
+  xy: 1986, 811
+  size: 62, 265
+  orig: 62, 265
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 1503, 2020
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 1938, 1570
+  size: 89, 257
+  orig: 89, 265
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1847, 690
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: -1
+Reye
+  rotate: false
+  xy: 1662, 1892
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: false
+  xy: 1660, 1880
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 1999, 1840
+  size: 49, 33
+  orig: 102, 33
+  offset: 53, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 1872, 799
+  size: 176, 370
+  orig: 176, 370
+  offset: 0, 0
+  index: -1
+Rhairbow
+  rotate: false
+  xy: 1932, 1394
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Rhairbowtassels
+  rotate: false
+  xy: 1903, 1742
+  size: 50, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 1898, 1429
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+Rpalm
+  rotate: false
+  xy: 1429, 926
+  size: 82, 32
+  orig: 82, 32
+  offset: 0, 0
+  index: -1
+Rponytail
+  rotate: false
+  xy: 1999, 1427
+  size: 49, 226
+  orig: 49, 226
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 1566, 2022
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 1644, 920
+  size: 74, 243
+  orig: 74, 243
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 810, 728
+  size: 105, 102
+  orig: 105, 102
+  offset: 0, 0
+  index: -1
+Rsleeveback
+  rotate: false
+  xy: 1326, 1208
+  size: 57, 67
+  orig: 61, 67
+  offset: 4, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1428, 815
+  size: 123, 98
+  orig: 123, 98
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: false
+  xy: 941, 813
+  size: 126, 110
+  orig: 126, 134
+  offset: 0, 24
+  index: -1
+backdress
+  rotate: false
+  xy: 1172, 1034
+  size: 474, 174
+  orig: 474, 174
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 1844, 1167
+  size: 203, 255
+  orig: 203, 255
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 810, 940
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+bang3
+  rotate: true
+  xy: 1566, 649
+  size: 119, 181
+  orig: 119, 181
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 1304, 822
+  size: 126, 137
+  orig: 126, 137
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1017, 656
+  size: 118, 172
+  orig: 118, 172
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 1718, 1018
+  size: 34, 158
+  orig: 34, 158
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 1999, 1872
+  size: 32, 176
+  orig: 32, 176
+  offset: 0, 0
+  index: -1
+birdy1body
+  rotate: false
+  xy: 1970, 726
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+birdy1wing
+  rotate: false
+  xy: 1678, 1924
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+birdy2wing
+  rotate: false
+  xy: 1515, 1749
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+birdy3body
+  rotate: false
+  xy: 1945, 1490
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+birdy3tail
+  rotate: false
+  xy: 1446, 2028
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+birdy3talon1
+  rotate: false
+  xy: 1485, 2026
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+birdy3talon2
+  rotate: false
+  xy: 1588, 2031
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+birdy3wing1
+  rotate: false
+  xy: 1561, 1893
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+birdy3wing2
+  rotate: false
+  xy: 1866, 2007
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+bodyapron
+  rotate: false
+  xy: 1172, 1200
+  size: 425, 849
+  orig: 425, 849
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 180
+  xy: 1474, 1486
+  size: 473, 562
+  orig: 473, 562
+  offset: 0, 0
+  index: -1
+eyewhite
+  rotate: false
+  xy: 1531, 2023
+  size: 35, 26
+  orig: 102, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1152, 911
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+feather1
+  rotate: false
+  xy: 1230, 838
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+feather2
+  rotate: false
+  xy: 1845, 1952
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+flames
+  rotate: false
+  xy: 1518, 843
+  size: 106, 195
+  orig: 106, 195
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 915, 723
+  size: 118, 91
+  orig: 118, 91
+  offset: 0, 0
+  index: -1
+hat hood
+  rotate: false
+  xy: 1550, 1163
+  size: 349, 328
+  orig: 349, 328
+  offset: 0, 0
+  index: -1
+hatback
+  rotate: false
+  xy: 988, 909
+  size: 164, 190
+  orig: 164, 190
+  offset: 0, 0
+  index: -1
+hatflap
+  rotate: true
+  xy: 1130, 620
+  size: 198, 267
+  orig: 198, 267
+  offset: 0, 0
+  index: -1
+hattip
+  rotate: false
+  xy: 1781, 748
+  size: 107, 225
+  orig: 107, 225
+  offset: 0, 0
+  index: -1
+idleface
+  rotate: false
+  xy: 810, 830
+  size: 131, 111
+  orig: 131, 121
+  offset: 0, 10
+  index: -1
+lantern1
+  rotate: false
+  xy: 1899, 1826
+  size: 100, 222
+  orig: 100, 222
+  offset: 0, 0
+  index: -1
+lantern2
+  rotate: false
+  xy: 2031, 1974
+  size: 17, 36
+  orig: 17, 39
+  offset: 0, 2
+  index: -1
+lanternchain1
+  rotate: false
+  xy: 1685, 1959
+  size: 24, 89
+  orig: 24, 89
+  offset: 0, 0
+  index: -1
+lanternchain2
+  rotate: false
+  xy: 1538, 1424
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+lanternchain3
+  rotate: false
+  xy: 1709, 2023
+  size: 9, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+lanternchain4
+  rotate: false
+  xy: 1172, 1502
+  size: 22, 89
+  orig: 22, 89
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 1512, 1453
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 1526, 1781
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+mouthtwig
+  rotate: false
+  xy: 1510, 1236
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+openmouthtwigend
+  rotate: false
+  xy: 1172, 2040
+  size: 10, 8
+  orig: 10, 9
+  offset: 0, 1
+  index: -1
+sad
+  rotate: false
+  xy: 1240, 739
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1588, 798
+  size: 126, 102
+  orig: 126, 117
+  offset: 0, 15
+  index: -1
+stick
+  rotate: false
+  xy: 0, 596
+  size: 810, 1452
+  orig: 1072, 1454
+  offset: 0, 2
+  index: -1
+surprise
+  rotate: false
+  xy: 1116, 811
+  size: 126, 103
+  orig: 126, 103
+  offset: 0, 0
+  index: -1
+waistbelt
+  rotate: false
+  xy: 1304, 958
+  size: 214, 81
+  orig: 214, 82
+  offset: 0, 0
+  index: -1
+waistbow
+  rotate: false
+  xy: 1395, 680
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+waisttassel1
+  rotate: true
+  xy: 1386, 767
+  size: 30, 395
+  orig: 30, 395
+  offset: 0, 0
+  index: -1
+waisttassel2
+  rotate: false
+  xy: 1172, 1495
+  size: 54, 380
+  orig: 54, 380
+  offset: 0, 0
+  index: -1
+weaponback
+  rotate: false
+  xy: 1172, 1227
+  size: 154, 243
+  orig: 154, 243
+  offset: 0, 0
+  index: -1
+weaponexhaust
+  rotate: false
+  xy: 1225, 1470
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+weaponfront
+  rotate: false
+  xy: 810, 1098
+  size: 362, 950
+  orig: 362, 950
+  offset: 0, 0
+  index: -1

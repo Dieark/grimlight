@@ -1,0 +1,286 @@
+
+SD_Hero_Ozma.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 414, 340
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Lbacksleeve
+  rotate: true
+  xy: 1, 76
+  size: 33, 88
+  orig: 33, 88
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 460, 125
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 348, 158
+  size: 32, 90
+  orig: 32, 90
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 367, 466
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: true
+  xy: 198, 119
+  size: 33, 61
+  orig: 33, 62
+  offset: 0, 1
+  index: -1
+Lthumb
+  rotate: false
+  xy: 368, 444
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: false
+  xy: 236, 265
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 310, 211
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 127, 192
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 340, 335
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: false
+  xy: 274, 286
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 274, 85
+  size: 99, 228
+  orig: 99, 228
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 1, 270
+  size: 159, 242
+  orig: 159, 242
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 426, 318
+  size: 75, 194
+  orig: 75, 194
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 1, 93
+  size: 84, 199
+  orig: 84, 199
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 1, 159
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 61, 28
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 268, 249
+  size: 182, 263
+  orig: 182, 263
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 483, 463
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 382, 186
+  size: 129, 71
+  orig: 129, 71
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 180
+  xy: 224, 141
+  size: 117, 108
+  orig: 117, 108
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1, 41
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 180, 52
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 413, 268
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 413, 62
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 236, 316
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 331, 40
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+flowerpin
+  rotate: true
+  xy: 76, 130
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hairclip1
+  rotate: false
+  xy: 498, 329
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+hairclip2
+  rotate: false
+  xy: 425, 369
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 236, 377
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 490, 508
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 495, 449
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 439, 425
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 114, 145
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+pin
+  rotate: false
+  xy: 35, 37
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 162, 179
+  size: 72, 333
+  orig: 72, 333
+  offset: 0, 0
+  index: -1
+staffpart1
+  rotate: false
+  xy: 291, 53
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+staffpart2
+  rotate: false
+  xy: 139, 54
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1

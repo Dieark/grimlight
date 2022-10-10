@@ -1,0 +1,355 @@
+
+SD_Hero_Dracula_Skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 0, 5
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Lcoat
+  rotate: false
+  xy: 482, 241
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+Lforearm
+  rotate: true
+  xy: 227, 144
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 44, 8
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Llapel
+  rotate: false
+  xy: 366, 263
+  size: 14, 51
+  orig: 14, 51
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 291, 300
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 189, 8
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Rcoat
+  rotate: true
+  xy: 410, 50
+  size: 36, 94
+  orig: 36, 94
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 122, 125
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Rlapel
+  rotate: false
+  xy: 402, 160
+  size: 14, 58
+  orig: 14, 58
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 167, 13
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 282, 150
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 388, 249
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 444, 382
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 346, 8
+  size: 76, 130
+  orig: 76, 139
+  offset: 0, 9
+  index: -1
+bangs4
+  rotate: false
+  xy: 402, 190
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 71, 41
+  size: 157, 138
+  orig: 157, 138
+  offset: 0, 0
+  index: -1
+bladeglow
+  rotate: false
+  xy: 216, 25
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: -1
+bladespawn1
+  rotate: false
+  xy: 304, 262
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+bladespawn2
+  rotate: false
+  xy: 69, 8
+  size: 99, 33
+  orig: 99, 33
+  offset: 0, 0
+  index: -1
+bladespawn3
+  rotate: true
+  xy: 392, 349
+  size: 164, 52
+  orig: 164, 52
+  offset: 0, 0
+  index: -1
+bladespawn4
+  rotate: true
+  xy: 425, 86
+  size: 164, 42
+  orig: 164, 42
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 444, 415
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 173, 179
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+fork
+  rotate: false
+  xy: 444, 368
+  size: 66, 14
+  orig: 66, 14
+  offset: 0, 0
+  index: -1
+hair_bow
+  rotate: false
+  xy: 122, 101
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+hair_bow2
+  rotate: false
+  xy: 488, 339
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+monocle
+  rotate: false
+  xy: 69, 97
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+monocle_chain
+  rotate: false
+  xy: 476, 14
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 173, 314
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 188, 317
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 274, 301
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 304, 277
+  size: 61, 37
+  orig: 61, 98
+  offset: 0, 61
+  index: -1
+slash1
+  rotate: true
+  xy: 0, 31
+  size: 120, 69
+  orig: 125, 73
+  offset: 3, 3
+  index: -1
+slash2
+  rotate: false
+  xy: 228, 84
+  size: 197, 56
+  orig: 202, 58
+  offset: 2, 1
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 151
+  size: 170, 173
+  orig: 175, 176
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: false
+  xy: 222, 313
+  size: 170, 199
+  orig: 175, 202
+  offset: 2, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 321
+  size: 222, 191
+  orig: 226, 194
+  offset: 1, 2
+  index: -1
+swordblade
+  rotate: true
+  xy: 466, 89
+  size: 166, 29
+  orig: 166, 29
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Dracula_Skin22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: false
+  xy: 453, 400
+  size: 33, 87
+  orig: 33, 87
+  offset: 0, 0
+  index: -1
+Rforearm
+  rotate: true
+  xy: 100, 373
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 380
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 78, 404
+  size: 84, 139
+  orig: 84, 139
+  offset: 0, 0
+  index: -1
+coattail
+  rotate: false
+  xy: 387, 402
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 274, 398
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: true
+  xy: 334, 396
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 217, 395
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+faceshocked
+  rotate: false
+  xy: 0, 414
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+torso
+  rotate: 270
+  xy: 134, 391
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1

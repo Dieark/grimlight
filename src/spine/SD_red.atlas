@@ -1,0 +1,620 @@
+
+SD_red.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbow2
+  rotate: true
+  xy: 0, 3
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 145, 3
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 145, 3
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Lkneeplate1
+  rotate: true
+  xy: 198, 6
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Llhip
+  rotate: false
+  xy: 476, 465
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Lpigtail
+  rotate: true
+  xy: 476, 374
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Lshoulders
+  rotate: false
+  xy: 483, 170
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 158, 5
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 483, 98
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Rbeltfold1
+  rotate: false
+  xy: 211, 6
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Rbeltfold2
+  rotate: false
+  xy: 187, 4
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Rbow2
+  rotate: true
+  xy: 39, 3
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+RedRidingPassive3
+  rotate: false
+  xy: 0, 368
+  size: 333, 144
+  orig: 398, 153
+  offset: 22, 6
+  index: -1
+Relbowarmor
+  rotate: true
+  xy: 268, 210
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 476, 279
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+Rkneeplate1
+  rotate: false
+  xy: 501, 453
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Rpigtail
+  rotate: true
+  xy: 476, 332
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 483, 129
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 314, 220
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+backring
+  rotate: true
+  xy: 173, 5
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 268, 229
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 468, 15
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+earbelt2
+  rotate: false
+  xy: 483, 60
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+earbelt3
+  rotate: false
+  xy: 293, 219
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+earleaf2
+  rotate: true
+  xy: 107, 4
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+earleaf3
+  rotate: false
+  xy: 502, 498
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 296, 5
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 382, 5
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+flameslash4
+  rotate: false
+  xy: 0, 207
+  size: 268, 161
+  orig: 270, 163
+  offset: 1, 1
+  index: -1
+flameslash5
+  rotate: false
+  xy: 168, 15
+  size: 128, 40
+  orig: 130, 42
+  offset: 1, 1
+  index: -1
+hoodchain
+  rotate: false
+  xy: 80, 3
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 168, 60
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: true
+  xy: 501, 444
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 129, 3
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 476, 414
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 268, 266
+  size: 102, 59
+  orig: 106, 62
+  offset: 2, 2
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 17
+  size: 168, 47
+  orig: 171, 49
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 295, 55
+  size: 188, 162
+  orig: 191, 164
+  offset: 1, 1
+  index: -1
+swordflame1
+  rotate: true
+  xy: 333, 217
+  size: 295, 143
+  orig: 297, 145
+  offset: 1, 1
+  index: -1
+swordflame2
+  rotate: false
+  xy: 0, 64
+  size: 295, 143
+  orig: 297, 145
+  offset: 1, 1
+  index: -1
+waist
+  rotate: true
+  xy: 476, 217
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+
+SD_red2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 269, 308
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Lelbowplate
+  rotate: false
+  xy: 269, 262
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 491, 218
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Lkneeplate2
+  rotate: false
+  xy: 269, 288
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Rkneeplate2
+  rotate: false
+  xy: 269, 288
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 269, 334
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 269, 334
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Rbow1
+  rotate: 180
+  xy: 221, 6
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 491, 238
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Rsidepouch
+  rotate: false
+  xy: 279, 5
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 221, 23
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+bladeglow
+  rotate: false
+  xy: 0, 13
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 451, 427
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+earleaf1
+  rotate: false
+  xy: 269, 233
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: true
+  xy: 451, 342
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 451, 261
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 433, 10
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 433, 50
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+flameslash1
+  rotate: true
+  xy: 300, 116
+  size: 144, 191
+  orig: 156, 206
+  offset: 3, 14
+  index: -1
+flameslash2
+  rotate: true
+  xy: 295, 260
+  size: 251, 156
+  orig: 263, 159
+  offset: 1, 2
+  index: -1
+flameslash3
+  rotate: false
+  xy: 0, 218
+  size: 269, 150
+  orig: 271, 152
+  offset: 1, 1
+  index: -1
+hairclip
+  rotate: true
+  xy: 256, 6
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+hoodx
+  rotate: false
+  xy: 300, 9
+  size: 134, 107
+  orig: 134, 107
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 0, 112
+  size: 300, 106
+  orig: 300, 106
+  offset: 0, 0
+  index: -1
+swordflame3
+  rotate: false
+  xy: 0, 368
+  size: 295, 143
+  orig: 297, 145
+  offset: 1, 1
+  index: -1
+
+SD_red3.png
+size: 452,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbelt1
+  rotate: false
+  xy: 291, 342
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Lbelt2
+  rotate: false
+  xy: 278, 353
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Lbow1
+  rotate: false
+  xy: 275, 187
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Lbow3
+  rotate: false
+  xy: 348, 422
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: 180
+  xy: 367, 334
+  size: 67, 118
+  orig: 67, 118
+  offset: 0, 0
+  index: -1
+Rbelt1
+  rotate: false
+  xy: 333, 20
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+Rbelt2
+  rotate: false
+  xy: 275, 187
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Rbow3
+  rotate: false
+  xy: 337, 182
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: 270
+  xy: 278, 376
+  size: 76, 123
+  orig: 76, 123
+  offset: 0, 0
+  index: -1
+RedRidingPassive2
+  rotate: true
+  xy: 146, 1
+  size: 158, 123
+  orig: 186, 123
+  offset: 13, 0
+  index: -1
+backcloak
+  rotate: true
+  xy: 275, 218
+  size: 150, 87
+  orig: 150, 87
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 169, 182
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+backhairx
+  rotate: true
+  xy: 174, 328
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 351, 60
+  size: 67, 157
+  orig: 67, 157
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 180
+  xy: 338, 224
+  size: 68, 160
+  orig: 68, 160
+  offset: 0, 0
+  index: -1
+earbelt1
+  rotate: false
+  xy: 269, 13
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 269, 76
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 0, 303
+  size: 174, 149
+  orig: 174, 149
+  offset: 0, 0
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 15
+  size: 144, 146
+  orig: 148, 149
+  offset: 2, 2
+  index: -1
+slash4
+  rotate: true
+  xy: 0, 159
+  size: 144, 169
+  orig: 148, 171
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,271 @@
+
+SD_Hero_SnowWhite_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 478, 449
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 180
+  xy: 449, 290
+  size: 40, 114
+  orig: 40, 114
+  offset: 0, 0
+  index: -1
+Lshield
+  rotate: true
+  xy: 278, 15
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 0, 169
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 286, 393
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 470, 181
+  size: 39, 108
+  orig: 39, 108
+  offset: 0, 0
+  index: -1
+Rshield
+  rotate: false
+  xy: 424, 8
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 208, 149
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: 180
+  xy: 250, 149
+  size: 220, 255
+  orig: 220, 255
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 478, 474
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 151, 6
+  size: 127, 75
+  orig: 127, 75
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 12
+  size: 148, 151
+  orig: 148, 151
+  offset: 0, 0
+  index: -1
+headdrapeback
+  rotate: false
+  xy: 0, 160
+  size: 306, 352
+  orig: 306, 352
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 296
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 288, 413
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 219, 210
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 0, 236
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 303, 404
+  size: 102, 174
+  orig: 102, 174
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 151, 81
+  size: 273, 67
+  orig: 273, 67
+  offset: 0, 0
+  index: -1
+
+SD_Hero_SnowWhite_Skin12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 148, 385
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Lshieldarm
+  rotate: false
+  xy: 0, 77
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 148, 421
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+Rshieldarm
+  rotate: false
+  xy: 281, 66
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 364, 74
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 384, 232
+  size: 95, 250
+  orig: 95, 250
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 84, 84
+  size: 69, 218
+  orig: 69, 218
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 276, 225
+  size: 108, 256
+  orig: 108, 256
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 0, 172
+  size: 158, 302
+  orig: 158, 302
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 117, 106
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 127
+  size: 118, 74
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 350, 361
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 384, 136
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: false
+  xy: 51, 369
+  size: 97, 112
+  orig: 97, 112
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: true
+  xy: 301, 134
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: true
+  xy: 90, 304
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+headfrill
+  rotate: false
+  xy: 0, 241
+  size: 277, 241
+  orig: 293, 243
+  offset: 16, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 214, 242
+  size: 73, 38
+  orig: 73, 38
+  offset: 0, 0
+  index: -1

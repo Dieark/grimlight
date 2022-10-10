@@ -1,0 +1,230 @@
+
+SD_Hero_Ozma_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 344, 350
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 260, 334
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 467, 461
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 246, 280
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: false
+  xy: 467, 412
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 374, 462
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 189, 48
+  size: 32, 86
+  orig: 32, 86
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 85, 31
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: false
+  xy: 0, 65
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 344, 285
+  size: 96, 220
+  orig: 96, 220
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 106, 271
+  size: 155, 235
+  orig: 155, 235
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 380, 99
+  size: 73, 187
+  orig: 73, 187
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 275, 50
+  size: 82, 192
+  orig: 82, 192
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 274, 105
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 275, 20
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 134, 80
+  size: 176, 254
+  orig: 176, 254
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 221, 250
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+crown
+  rotate: 270
+  xy: 260, 370
+  size: 136, 84
+  orig: 136, 107
+  offset: 0, 23
+  index: -1
+dress
+  rotate: 180
+  xy: 290, 221
+  size: 116, 110
+  orig: 116, 111
+  offset: 0, 1
+  index: -1
+ear
+  rotate: false
+  xy: 381, 191
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 446, 223
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 18
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 422, 313
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 410, 407
+  size: 99, 58
+  orig: 99, 58
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 111, 14
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 106, 141
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 106, 502
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 248, 299
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 106, 114
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 189, 16
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+pin
+  rotate: false
+  xy: 344, 410
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 130
+  size: 107, 376
+  orig: 107, 376
+  offset: 0, 0
+  index: -1

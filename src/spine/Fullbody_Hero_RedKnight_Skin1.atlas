@@ -1,0 +1,859 @@
+
+Fullbody_Hero_RedKnight_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackfinger
+  rotate: false
+  xy: 1254, 1499
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+Lbridle1
+  rotate: true
+  xy: 114, 1
+  size: 58, 143
+  orig: 58, 143
+  offset: 0, 0
+  index: -1
+Lbridle2
+  rotate: false
+  xy: 1780, 1831
+  size: 38, 89
+  orig: 38, 89
+  offset: 0, 0
+  index: -1
+Lelbowhornspike
+  rotate: false
+  xy: 1235, 1388
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Lelbowhornspikeback
+  rotate: false
+  xy: 1254, 1218
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Lelbowjoint
+  rotate: false
+  xy: 1345, 1456
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 1697, 3
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Lhipplate1
+  rotate: false
+  xy: 2013, 404
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+Lhipplate2
+  rotate: false
+  xy: 1254, 1468
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Lhorseear
+  rotate: false
+  xy: 1674, 1833
+  size: 51, 116
+  orig: 51, 116
+  offset: 0, 0
+  index: -1
+Lhorsekneearmor
+  rotate: true
+  xy: 1376, 1429
+  size: 110, 169
+  orig: 110, 169
+  offset: 0, 0
+  index: -1
+Lshoulderfur
+  rotate: false
+  xy: 1786, 1756
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+Lshoulderplate1
+  rotate: false
+  xy: 1674, 1737
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+Lshoulderplate2
+  rotate: false
+  xy: 1583, 859
+  size: 65, 134
+  orig: 65, 134
+  offset: 0, 0
+  index: -1
+Lshoulderplate3
+  rotate: false
+  xy: 1181, 1419
+  size: 74, 121
+  orig: 74, 121
+  offset: 0, 0
+  index: -1
+Lshoulderplate4
+  rotate: true
+  xy: 1674, 2006
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+Lwristplate
+  rotate: false
+  xy: 1318, 859
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+Rankleplate1
+  rotate: false
+  xy: 1545, 1394
+  size: 91, 146
+  orig: 91, 146
+  offset: 0, 0
+  index: -1
+Rankleplate2
+  rotate: false
+  xy: 1535, 1330
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Rankleplate3
+  rotate: false
+  xy: 1293, 1509
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+Relbowplatespike
+  rotate: false
+  xy: 1181, 1207
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 1674, 1565
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 1318, 927
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 1757, 1920
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+Rhorseear
+  rotate: false
+  xy: 1838, 1840
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+Rhorseleg1
+  rotate: false
+  xy: 1181, 1019
+  size: 128, 187
+  orig: 128, 187
+  offset: 0, 0
+  index: -1
+Rhorsethigh
+  rotate: false
+  xy: 1318, 311
+  size: 384, 547
+  orig: 384, 547
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 1898, 48
+  size: 143, 264
+  orig: 143, 264
+  offset: 0, 0
+  index: -1
+Rshoe
+  rotate: false
+  xy: 1921, 1007
+  size: 107, 210
+  orig: 107, 210
+  offset: 0, 0
+  index: -1
+Rshoulderplate2
+  rotate: true
+  xy: 1792, 705
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+Rshoulderplate3
+  rotate: false
+  xy: 1181, 1389
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: true
+  xy: 1181, 1260
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 1712, 1964
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+SS_portal
+  rotate: false
+  xy: 0, 990
+  size: 1181, 1058
+  orig: 1187, 1067
+  offset: 2, 3
+  index: -1
+WhitePixel
+  rotate: false
+  xy: 1181, 1388
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+backcape1
+  rotate: 270
+  xy: 1263, 859
+  size: 1145, 523
+  orig: 1145, 523
+  offset: 0, 0
+  index: -1
+backcape4
+  rotate: false
+  xy: 1521, 859
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+backcape8
+  rotate: true
+  xy: 1781, 1382
+  size: 509, 224
+  orig: 509, 225
+  offset: 0, 0
+  index: -1
+backtailcoat
+  rotate: false
+  xy: 1674, 1613
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 1708, 1228
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+bangs10
+  rotate: false
+  xy: 1636, 1464
+  size: 32, 76
+  orig: 33, 76
+  offset: 1, 0
+  index: -1
+bangs11
+  rotate: false
+  xy: 1557, 1322
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+bangs12
+  rotate: false
+  xy: 1636, 1445
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+bangs13
+  rotate: false
+  xy: 1254, 991
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+bangs14
+  rotate: false
+  xy: 1254, 1525
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1485, 1392
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 1786, 1671
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 1273, 1520
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 1328, 1461
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 1308, 962
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: false
+  xy: 1565, 1352
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+bangs9
+  rotate: false
+  xy: 1229, 1001
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+blade
+  rotate: true
+  xy: 0, 59
+  size: 931, 1318
+  orig: 931, 1318
+  offset: 0, 0
+  index: -1
+bridle3
+  rotate: false
+  xy: 1991, 1382
+  size: 37, 132
+  orig: 37, 132
+  offset: 0, 0
+  index: -1
+bridle4
+  rotate: false
+  xy: 1210, 1001
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+bridle5
+  rotate: false
+  xy: 465, 6
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1408, 1408
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1960, 919
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+healmetfeather4
+  rotate: false
+  xy: 1276, 1397
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+helmetback
+  rotate: false
+  xy: 1436, 1396
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+helmetfeather10
+  rotate: true
+  xy: 529, 9
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+helmetfeather11
+  rotate: false
+  xy: 1786, 1716
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+helmetfeather12
+  rotate: false
+  xy: 1254, 1457
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+helmetfeather3
+  rotate: 270
+  xy: 1973, 841
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+helmetfeather5
+  rotate: false
+  xy: 1181, 995
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+helmetfeather6
+  rotate: false
+  xy: 2013, 312
+  size: 31, 92
+  orig: 31, 92
+  offset: 0, 0
+  index: -1
+helmetfeather8
+  rotate: false
+  xy: 1309, 1068
+  size: 11, 40
+  orig: 11, 40
+  offset: 0, 0
+  index: -1
+helmetfeather9
+  rotate: false
+  xy: 1604, 1374
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+horsebody
+  rotate: true
+  xy: 1702, 312
+  size: 380, 311
+  orig: 380, 311
+  offset: 0, 0
+  index: -1
+horsebuckle
+  rotate: false
+  xy: 1674, 1707
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+horsehead
+  rotate: false
+  xy: 1697, 62
+  size: 201, 249
+  orig: 201, 249
+  offset: 0, 0
+  index: -1
+horseneck
+  rotate: 180
+  xy: 1661, 773
+  size: 300, 669
+  orig: 300, 669
+  offset: 0, 0
+  index: -1
+horsetailcoat2
+  rotate: false
+  xy: 1870, 1706
+  size: 177, 343
+  orig: 177, 349
+  offset: 0, 0
+  index: -1
+neckplate1
+  rotate: false
+  xy: 257, 3
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+neckplate1x
+  rotate: false
+  xy: 361, 3
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+neckplate2
+  rotate: false
+  xy: 1312, 1489
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1254, 1509
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+polarm1
+  rotate: false
+  xy: 1254, 1421
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+polearm2
+  rotate: false
+  xy: 1924, 1246
+  size: 119, 136
+  orig: 119, 136
+  offset: 0, 0
+  index: -1
+polearmwrap
+  rotate: true
+  xy: 0, 1
+  size: 59, 114
+  orig: 59, 114
+  offset: 0, 0
+  index: -1
+saddle
+  rotate: false
+  xy: 1318, 38
+  size: 379, 273
+  orig: 379, 273
+  offset: 0, 0
+  index: -1
+sprite_swordglow
+  rotate: true
+  xy: 1702, 695
+  size: 77, 90
+  orig: 90, 90
+  offset: 13, 0
+  index: -1
+swordguard
+  rotate: false
+  xy: 1181, 1539
+  size: 494, 509
+  orig: 494, 509
+  offset: 0, 0
+  index: -1
+tailcoatcape
+  rotate: false
+  xy: 1956, 1575
+  size: 88, 132
+  orig: 88, 132
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1889, 692
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: -1
+
+Fullbody_Hero_RedKnight_Skin12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 0, 1766
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Larmx
+  rotate: false
+  xy: 399, 1851
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+Lhorsebackhoof
+  rotate: false
+  xy: 1404, 1166
+  size: 439, 475
+  orig: 439, 475
+  offset: 0, 0
+  index: -1
+Lhorsehoof
+  rotate: true
+  xy: 848, 862
+  size: 181, 301
+  orig: 181, 301
+  offset: 0, 0
+  index: -1
+Lhorsethigh
+  rotate: true
+  xy: 1877, 1776
+  size: 273, 159
+  orig: 273, 159
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 1533, 1858
+  size: 129, 155
+  orig: 129, 155
+  offset: 0, 0
+  index: -1
+Rbladehandle
+  rotate: false
+  xy: 399, 1932
+  size: 100, 117
+  orig: 100, 117
+  offset: 0, 0
+  index: -1
+Rhorsebackhoof
+  rotate: false
+  xy: 1027, 856
+  size: 224, 432
+  orig: 224, 432
+  offset: 0, 0
+  index: -1
+Rhorsehoove
+  rotate: true
+  xy: 0, 845
+  size: 180, 315
+  orig: 180, 315
+  offset: 0, 0
+  index: -1
+Rhorsekneearmor
+  rotate: false
+  xy: 1655, 1386
+  size: 145, 163
+  orig: 145, 163
+  offset: 0, 0
+  index: -1
+Rhorseleg1x
+  rotate: false
+  xy: 1772, 1003
+  size: 228, 163
+  orig: 228, 163
+  offset: 0, 0
+  index: -1
+Rhorseshoulder
+  rotate: false
+  xy: 845, 1081
+  size: 183, 271
+  orig: 183, 271
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: false
+  xy: 0, 966
+  size: 187, 191
+  orig: 187, 191
+  offset: 0, 0
+  index: -1
+Rshoulderfur
+  rotate: false
+  xy: 1317, 1976
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: false
+  xy: 1557, 828
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+Rthigharmor
+  rotate: false
+  xy: 600, 1265
+  size: 176, 118
+  orig: 176, 118
+  offset: 0, 0
+  index: -1
+backcape2
+  rotate: 270
+  xy: 1356, 1417
+  size: 632, 372
+  orig: 632, 372
+  offset: 0, 0
+  index: -1
+backcape3
+  rotate: false
+  xy: 1216, 1842
+  size: 129, 207
+  orig: 129, 207
+  offset: 0, 0
+  index: -1
+backcape5
+  rotate: false
+  xy: 1376, 966
+  size: 239, 165
+  orig: 241, 165
+  offset: 0, 0
+  index: -1
+backcape6
+  rotate: false
+  xy: 1251, 832
+  size: 172, 160
+  orig: 172, 160
+  offset: 0, 0
+  index: -1
+backcape7
+  rotate: 270
+  xy: 944, 1300
+  size: 748, 462
+  orig: 748, 462
+  offset: 0, 0
+  index: -1
+backcape9
+  rotate: 270
+  xy: 787, 1078
+  size: 349, 633
+  orig: 349, 633
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 100, 1762
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+bridle1
+  rotate: true
+  xy: 215, 778
+  size: 200, 296
+  orig: 200, 296
+  offset: 0, 0
+  index: -1
+bridle2
+  rotate: false
+  xy: 1042, 1781
+  size: 117, 211
+  orig: 117, 211
+  offset: 0, 0
+  index: -1
+bridle6
+  rotate: false
+  xy: 28, 1692
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 1883, 1180
+  size: 165, 168
+  orig: 165, 168
+  offset: 0, 0
+  index: -1
+helmetfeather1
+  rotate: false
+  xy: 1129, 1980
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+helmetfeather2
+  rotate: false
+  xy: 574, 800
+  size: 180, 159
+  orig: 181, 159
+  offset: 1, 0
+  index: -1
+helmetfeather4
+  rotate: false
+  xy: 1857, 844
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+horsemane1
+  rotate: 270
+  xy: 1730, 1316
+  size: 361, 267
+  orig: 361, 267
+  offset: 0, 0
+  index: -1
+horsemane2
+  rotate: true
+  xy: 0, 1851
+  size: 198, 399
+  orig: 198, 399
+  offset: 0, 0
+  index: -1
+horseribbon1
+  rotate: 180
+  xy: 1396, 771
+  size: 538, 758
+  orig: 538, 758
+  offset: 0, 0
+  index: -1
+horseribbon2
+  rotate: false
+  xy: 186, 774
+  size: 410, 356
+  orig: 410, 356
+  offset: 0, 0
+  index: -1
+horsetail
+  rotate: false
+  xy: 0, 934
+  size: 1130, 1114
+  orig: 1565, 1114
+  offset: 0, 0
+  index: -1
+horsetailcoat1
+  rotate: false
+  xy: 1561, 1677
+  size: 319, 371
+  orig: 319, 371
+  offset: 0, 0
+  index: -1

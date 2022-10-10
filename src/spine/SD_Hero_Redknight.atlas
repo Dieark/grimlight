@@ -1,0 +1,544 @@
+
+SD_Hero_Redknight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcapeclip
+  rotate: false
+  xy: 492, 15
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Lelbowplate
+  rotate: true
+  xy: 234, 318
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Lelbowplateback
+  rotate: true
+  xy: 36, 174
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 234, 18
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 143, 5
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Lkneeplate2
+  rotate: false
+  xy: 62, 174
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 51, 6
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 104, 3
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 234, 309
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 457, 311
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedKnightULT
+  rotate: false
+  xy: 234, 173
+  size: 256, 134
+  orig: 274, 138
+  offset: 6, 0
+  index: -1
+Relbowplate
+  rotate: true
+  xy: 492, 35
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Relbowplateback
+  rotate: false
+  xy: 234, 3
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 490, 197
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 490, 222
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Rkneeplate2
+  rotate: true
+  xy: 49, 175
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 4
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+Rtailcoat1
+  rotate: true
+  xy: 169, 5
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 19, 176
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 455, 4
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+blade
+  rotate: false
+  xy: 251, 4
+  size: 205, 59
+  orig: 205, 59
+  offset: 0, 0
+  index: -1
+bladeguard
+  rotate: false
+  xy: 490, 247
+  size: 14, 94
+  orig: 14, 94
+  offset: 0, 0
+  index: -1
+crimson glow
+  rotate: false
+  xy: 0, 30
+  size: 170, 31
+  orig: 170, 31
+  offset: 0, 0
+  index: -1
+cuffback
+  rotate: true
+  xy: 234, 38
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dust2
+  rotate: false
+  xy: 0, 60
+  size: 251, 113
+  orig: 251, 113
+  offset: 0, 0
+  index: -1
+dust3
+  rotate: false
+  xy: 251, 63
+  size: 253, 110
+  orig: 254, 111
+  offset: 1, 1
+  index: -1
+dust4
+  rotate: false
+  xy: 0, 186
+  size: 234, 156
+  orig: 235, 156
+  offset: 1, 0
+  index: -1
+dust5
+  rotate: false
+  xy: 0, 342
+  size: 251, 170
+  orig: 252, 170
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 457, 428
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 457, 342
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+fireslash4
+  rotate: false
+  xy: 251, 307
+  size: 206, 205
+  orig: 210, 208
+  offset: 1, 1
+  index: -1
+handlestrap
+  rotate: false
+  xy: 490, 177
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 72, 180
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 72, 175
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 85, 178
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 0, 174
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Redknight2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 264, 91
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 198, 214
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: false
+  xy: 230, 87
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Lkneeplate1
+  rotate: false
+  xy: 86, 273
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 484, 209
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Rcape1
+  rotate: 270
+  xy: 0, 199
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+Rcape2
+  rotate: true
+  xy: 197, 122
+  size: 56, 119
+  orig: 56, 119
+  offset: 0, 0
+  index: -1
+Rcape3
+  rotate: true
+  xy: 290, 146
+  size: 55, 118
+  orig: 55, 118
+  offset: 0, 0
+  index: -1
+Rcapeclip
+  rotate: false
+  xy: 480, 190
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 495, 492
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 109, 91
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Rkneeplate1
+  rotate: false
+  xy: 470, 284
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 148, 245
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: true
+  xy: 386, 91
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Rtailcoat2
+  rotate: 270
+  xy: 114, 129
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+Rtailcoat3
+  rotate: true
+  xy: 167, 95
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+Rtailcoat4
+  rotate: true
+  xy: 303, 104
+  size: 43, 83
+  orig: 43, 83
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 218, 283
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 180
+  xy: 32, 140
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 229, 220
+  size: 24, 61
+  orig: 24, 61
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 442, 95
+  size: 70, 92
+  orig: 72, 92
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 261, 181
+  size: 67, 139
+  orig: 67, 139
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 0, 141
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 118, 177
+  size: 109, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+bladhandle
+  rotate: false
+  xy: 334, 286
+  size: 89, 13
+  orig: 90, 14
+  offset: 1, 1
+  index: -1
+dust1
+  rotate: false
+  xy: 0, 405
+  size: 229, 107
+  orig: 230, 107
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 443, 283
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: false
+  xy: 386, 128
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 178, 235
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 443, 305
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+fireslash1
+  rotate: false
+  xy: 113, 285
+  size: 105, 120
+  orig: 109, 123
+  offset: 2, 2
+  index: -1
+fireslash2
+  rotate: true
+  xy: 393, 371
+  size: 141, 102
+  orig: 144, 106
+  offset: 2, 2
+  index: -1
+fireslash3
+  rotate: false
+  xy: 229, 390
+  size: 164, 122
+  orig: 168, 124
+  offset: 2, 1
+  index: -1
+hairdec
+  rotate: true
+  xy: 334, 299
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 293
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 0, 165
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+sparkglow
+  rotate: false
+  xy: 261, 247
+  size: 251, 35
+  orig: 278, 37
+  offset: 9, 1
+  index: -1
+tailcoat
+  rotate: false
+  xy: 399, 172
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+torsoplate
+  rotate: true
+  xy: 61, 94
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+waistarmor
+  rotate: false
+  xy: 0, 104
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1

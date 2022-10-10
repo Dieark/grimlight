@@ -1,0 +1,334 @@
+
+SD_Hero_Alice_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfingers
+  rotate: false
+  xy: 455, 359
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 115, 151
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Rfrill
+  rotate: false
+  xy: 455, 444
+  size: 15, 51
+  orig: 15, 51
+  offset: 0, 0
+  index: -1
+Rfrill_back
+  rotate: false
+  xy: 491, 82
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: 270
+  xy: 0, 23
+  size: 144, 215
+  orig: 144, 215
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 380, 171
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 455, 377
+  size: 55, 136
+  orig: 58, 137
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 488, 17
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 456, 9
+  size: 41, 143
+  orig: 41, 143
+  offset: 0, 0
+  index: -1
+bowtie
+  rotate: false
+  xy: 128, 152
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+earbow
+  rotate: false
+  xy: 455, 296
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 214, 24
+  size: 141, 144
+  orig: 141, 144
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 285
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 100, 154
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 115, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+neckbow
+  rotate: false
+  xy: 141, 144
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+neckbow2
+  rotate: true
+  xy: 178, 135
+  size: 33, 35
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+scabbard
+  rotate: true
+  xy: 358, 8
+  size: 159, 98
+  orig: 159, 98
+  offset: 0, 0
+  index: -1
+slash4
+  rotate: false
+  xy: 257, 281
+  size: 198, 231
+  orig: 202, 233
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 290
+  size: 257, 222
+  orig: 260, 224
+  offset: 1, 1
+  index: -1
+sword
+  rotate: true
+  xy: 0, 168
+  size: 114, 380
+  orig: 114, 380
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Alice_Skin12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 408, 305
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 0, 22
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 296, 44
+  size: 34, 116
+  orig: 34, 116
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 181, 34
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 68
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 466, 315
+  size: 38, 113
+  orig: 38, 113
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 236, 81
+  size: 107, 200
+  orig: 107, 200
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: true
+  xy: 314, 243
+  size: 64, 198
+  orig: 64, 198
+  offset: 0, 0
+  index: -1
+backribbon
+  rotate: 180
+  xy: 346, 77
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 69, 52
+  size: 77, 147
+  orig: 77, 147
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 0, 110
+  size: 59, 198
+  orig: 59, 198
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: 270
+  xy: 110, 125
+  size: 89, 163
+  orig: 89, 163
+  offset: 0, 0
+  index: -1
+bow1
+  rotate: 270
+  xy: 453, 43
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+bow2
+  rotate: 180
+  xy: 288, 169
+  size: 145, 78
+  orig: 145, 78
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 261, 285
+  size: 147, 72
+  orig: 147, 72
+  offset: 0, 0
+  index: -1
+earbow2
+  rotate: true
+  xy: 210, 55
+  size: 69, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 178
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 244
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 119, 214
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 415, 428
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 261, 371
+  size: 141, 82
+  orig: 144, 85
+  offset: 2, 2
+  index: -1
+slash2
+  rotate: true
+  xy: 197, 282
+  size: 230, 64
+  orig: 233, 67
+  offset: 1, 2
+  index: -1
+slash3
+  rotate: false
+  xy: 0, 311
+  size: 197, 201
+  orig: 202, 203
+  offset: 2, 1
+  index: -1
+tophair
+  rotate: true
+  xy: 343, 344
+  size: 169, 124
+  orig: 169, 124
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 447, 183
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,544 @@
+
+SD_Hero_Geppeto.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 149, 302
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 486, 215
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: 270
+  xy: 0, 472
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 108, 279
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 264, 197
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 0, 236
+  size: 34, 100
+  orig: 34, 100
+  offset: 0, 0
+  index: -1
+ahoge
+  rotate: true
+  xy: 33, 296
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+apron
+  rotate: false
+  xy: 0, 199
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+backtool
+  rotate: true
+  xy: 202, 347
+  size: 164, 137
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+buckle
+  rotate: false
+  xy: 124, 269
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 454, 376
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 391, 13
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 313, 4
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 0, 76
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 0, 465
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 508
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 160, 255
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 426, 205
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+pinnochio_Eyeglow
+  rotate: false
+  xy: 338, 363
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+pinnochio_Eyespark
+  rotate: true
+  xy: 134, 28
+  size: 160, 70
+  orig: 160, 70
+  offset: 0, 0
+  index: -1
+pinnochio_Larm4
+  rotate: false
+  xy: 262, 316
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+pinnochio_Lfinger4
+  rotate: true
+  xy: 127, 1
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+pinnochio_Lshoulder
+  rotate: false
+  xy: 204, 3
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+pinnochio_Rarm1
+  rotate: false
+  xy: 397, 72
+  size: 113, 133
+  orig: 113, 133
+  offset: 0, 0
+  index: -1
+pinnochio_Rarm2
+  rotate: true
+  xy: 0, 14
+  size: 62, 127
+  orig: 62, 127
+  offset: 0, 0
+  index: -1
+pinnochio_Rarm3
+  rotate: false
+  xy: 432, 258
+  size: 74, 119
+  orig: 74, 119
+  offset: 0, 0
+  index: -1
+pinnochio_Rfinger1
+  rotate: false
+  xy: 131, 269
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+pinnochio_Rfinger3
+  rotate: false
+  xy: 173, 256
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+pinnochio_Rshoulderback
+  rotate: false
+  xy: 53, 201
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+pinnochio_chairwood
+  rotate: false
+  xy: 41, 187
+  size: 238, 150
+  orig: 238, 150
+  offset: 0, 0
+  index: -1
+pinnochio_chest
+  rotate: false
+  xy: 0, 336
+  size: 202, 176
+  orig: 202, 176
+  offset: 0, 0
+  index: -1
+pinnochio_head
+  rotate: false
+  xy: 222, 82
+  size: 174, 115
+  orig: 174, 115
+  offset: 0, 0
+  index: -1
+pinnochio_headcloth
+  rotate: false
+  xy: 454, 473
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+pinnochio_neck
+  rotate: 180
+  xy: 279, 197
+  size: 153, 165
+  orig: 153, 165
+  offset: 0, 0
+  index: -1
+pinnochio_woodenbase
+  rotate: true
+  xy: 338, 376
+  size: 135, 116
+  orig: 135, 116
+  offset: 0, 0
+  index: -1
+sidetool
+  rotate: false
+  xy: 204, 82
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Geppeto2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: true
+  xy: 101, 153
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 180
+  xy: 444, 304
+  size: 33, 94
+  orig: 33, 94
+  offset: 0, 0
+  index: -1
+Lsleeveback
+  rotate: false
+  xy: 458, 145
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 468, 35
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 51, 12
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 194, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Rsleeveback
+  rotate: false
+  xy: 154, 11
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 268
+  size: 153, 131
+  orig: 153, 131
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 0, 123
+  size: 60, 101
+  orig: 60, 101
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 100, 166
+  size: 94, 121
+  orig: 94, 121
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 220, 168
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 161, 109
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 359, 125
+  size: 99, 59
+  orig: 99, 59
+  offset: 0, 0
+  index: -1
+pinnochio_Jaw1
+  rotate: true
+  xy: 264, 110
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+pinnochio_Larm1
+  rotate: false
+  xy: 249, 258
+  size: 102, 140
+  orig: 102, 140
+  offset: 0, 0
+  index: -1
+pinnochio_Larm2
+  rotate: false
+  xy: 351, 185
+  size: 103, 95
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+pinnochio_Larm3
+  rotate: false
+  xy: 161, 44
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+pinnochio_Lfinger1
+  rotate: false
+  xy: 0, 351
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+pinnochio_Lfinger2
+  rotate: false
+  xy: 454, 185
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+pinnochio_Lfinger3
+  rotate: true
+  xy: 225, 3
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+pinnochio_Lhand
+  rotate: false
+  xy: 81, 4
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+pinnochio_Lneckback
+  rotate: true
+  xy: 82, 73
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+pinnochio_Lneckcable
+  rotate: false
+  xy: 441, 62
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+pinnochio_Lshoulderback
+  rotate: true
+  xy: 331, 70
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+pinnochio_Lthumb
+  rotate: false
+  xy: 407, 2
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+pinnochio_Rarm4
+  rotate: false
+  xy: 285, 7
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+pinnochio_Rfinger
+  rotate: false
+  xy: 441, 4
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+pinnochio_Rfinger2
+  rotate: false
+  xy: 0, 14
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+pinnochio_Rfinger4
+  rotate: true
+  xy: 454, 242
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+pinnochio_Rhand
+  rotate: true
+  xy: 257, 38
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+pinnochio_Rneckcable
+  rotate: true
+  xy: 477, 297
+  size: 101, 24
+  orig: 101, 24
+  offset: 0, 0
+  index: -1
+pinnochio_Rshoulder
+  rotate: true
+  xy: 153, 246
+  size: 152, 96
+  orig: 152, 96
+  offset: 0, 0
+  index: -1
+pinnochio_headback
+  rotate: true
+  xy: 482, 214
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+pinnochio_jaw2
+  rotate: true
+  xy: 359, 59
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+pinnochio_mouthglow
+  rotate: true
+  xy: 0, 56
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+pinnochio_mouthtopglow
+  rotate: true
+  xy: 487, 118
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+pinnochio_pelvis
+  rotate: false
+  xy: 0, 183
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+pinnochio_pelvisback
+  rotate: true
+  xy: 458, 92
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+pinnochio_spine
+  rotate: false
+  xy: 351, 279
+  size: 97, 120
+  orig: 97, 120
+  offset: 0, 0
+  index: -1
+torso
+  rotate: 270
+  xy: 331, 1
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1

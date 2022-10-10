@@ -1,0 +1,335 @@
+
+Fullbody_Hero_Aurora.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 1123, 205
+  size: 287, 396
+  orig: 287, 396
+  offset: 0, 0
+  index: -1
+Lbottomeyelid
+  rotate: false
+  xy: 661, 1680
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: 270
+  xy: 0, 734
+  size: 291, 1210
+  orig: 300, 1210
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 1181, 1995
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+Leyelidskin
+  rotate: false
+  xy: 1143, 1936
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 1005, 1998
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 1260, 585
+  size: 234, 719
+  orig: 234, 719
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 1355, 1051
+  size: 227, 997
+  orig: 227, 997
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 1649, 2005
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 1826, 1577
+  size: 133, 472
+  orig: 133, 472
+  offset: 0, 0
+  index: -1
+Ltopeyelid
+  rotate: false
+  xy: 775, 1982
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 394, 1153
+  size: 274, 161
+  orig: 274, 161
+  offset: 0, 0
+  index: -1
+Rbottomeyelid
+  rotate: false
+  xy: 650, 1634
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: false
+  xy: 1079, 819
+  size: 305, 1230
+  orig: 305, 1230
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 719, 1961
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+Reyelidskin
+  rotate: false
+  xy: 1560, 1826
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 1570, 1855
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 474, 1010
+  size: 168, 208
+  orig: 168, 208
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 1574, 1371
+  size: 252, 677
+  orig: 252, 677
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 292, 601
+  size: 197, 968
+  orig: 207, 968
+  offset: 10, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 2006, 1845
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 525, 231
+  size: 106, 501
+  orig: 106, 501
+  offset: 0, 0
+  index: -1
+Rtopeyelid
+  rotate: false
+  xy: 1488, 1661
+  size: 102, 57
+  orig: 102, 57
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 1575, 833
+  size: 269, 364
+  orig: 269, 364
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: true
+  xy: 759, 337
+  size: 269, 364
+  orig: 269, 364
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: false
+  xy: 0, 1257
+  size: 720, 791
+  orig: 720, 791
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 949, 172
+  size: 119, 319
+  orig: 119, 319
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: 180
+  xy: 13, 155
+  size: 287, 303
+  orig: 287, 303
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: false
+  xy: 1489, 1718
+  size: 95, 330
+  orig: 95, 330
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 1959, 1610
+  size: 34, 438
+  orig: 34, 438
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1817, 1343
+  size: 230, 281
+  orig: 230, 281
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 1880, 831
+  size: 168, 481
+  orig: 168, 481
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 1684, 176
+  size: 203, 263
+  orig: 203, 263
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 1985, 1843
+  size: 31, 206
+  orig: 31, 206
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 634, 926
+  size: 534, 1122
+  orig: 534, 1122
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 1334, 319
+  size: 356, 274
+  orig: 356, 274
+  offset: 0, 0
+  index: -1
+embarass
+  rotate: 180
+  xy: 23, 450
+  size: 269, 364
+  orig: 269, 364
+  offset: 0, 0
+  index: -1
+eyebrow1
+  rotate: false
+  xy: 1556, 1814
+  size: 67, 11
+  orig: 67, 11
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: false
+  xy: 715, 1941
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 274, 332
+  size: 269, 364
+  orig: 269, 364
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 1005
+  size: 269, 364
+  orig: 269, 364
+  offset: 0, 0
+  index: -1
+headribbon1
+  rotate: false
+  xy: 642, 356
+  size: 117, 246
+  orig: 117, 246
+  offset: 0, 0
+  index: -1
+headribbon2
+  rotate: false
+  xy: 1584, 1902
+  size: 73, 147
+  orig: 73, 147
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 1011, 1976
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1076, 1954
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+sad
+  rotate: 270
+  xy: 1683, 410
+  size: 269, 364
+  orig: 269, 364
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1582, 1102
+  size: 269, 364
+  orig: 269, 364
+  offset: 0, 0
+  index: -1

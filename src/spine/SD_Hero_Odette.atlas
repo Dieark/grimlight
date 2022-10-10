@@ -1,0 +1,341 @@
+
+SD_Hero_Odette.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 172, 160
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+Lcuff
+  rotate: false
+  xy: 0, 86
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 150, 216
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: true
+  xy: 476, 162
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 172, 141
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 344, 93
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 492, 241
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+backtail1
+  rotate: false
+  xy: 0, 88
+  size: 172, 145
+  orig: 172, 145
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 161, 80
+  size: 242, 190
+  orig: 242, 190
+  offset: 0, 0
+  index: -1
+bangs2x
+  rotate: false
+  xy: 0, 233
+  size: 168, 279
+  orig: 168, 279
+  offset: 0, 0
+  index: -1
+bangs3x
+  rotate: false
+  xy: 482, 205
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 421, 149
+  size: 78, 208
+  orig: 78, 208
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 321, 269
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 421, 357
+  size: 155, 83
+  orig: 155, 83
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 394, 22
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 168, 322
+  size: 188, 190
+  orig: 188, 190
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 295, 311
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 421, 312
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 421, 318
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 140, 87
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+spear1
+  rotate: true
+  xy: 0, 31
+  size: 49, 394
+  orig: 49, 394
+  offset: 0, 0
+  index: -1
+spearglow
+  rotate: false
+  xy: 356, 142
+  size: 65, 370
+  orig: 65, 370
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Odette2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: true
+  xy: 303, 132
+  size: 50, 144
+  orig: 50, 144
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 0, 92
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+Lwing1
+  rotate: true
+  xy: 158, 80
+  size: 84, 145
+  orig: 84, 145
+  offset: 0, 0
+  index: -1
+Lwing2
+  rotate: true
+  xy: 198, 163
+  size: 122, 161
+  orig: 122, 161
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 464
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 456, 137
+  size: 50, 144
+  orig: 50, 144
+  offset: 0, 0
+  index: -1
+Rpelvis
+  rotate: false
+  xy: 258, 79
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 163, 170
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+Rwing1
+  rotate: 270
+  xy: 351, 51
+  size: 85, 146
+  orig: 85, 146
+  offset: 0, 0
+  index: -1
+Rwing2
+  rotate: true
+  xy: 0, 184
+  size: 122, 164
+  orig: 122, 164
+  offset: 0, 0
+  index: -1
+backtail2
+  rotate: 270
+  xy: 0, 161
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+backtail3
+  rotate: false
+  xy: 359, 173
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+backtail4
+  rotate: 180
+  xy: 66, 100
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 351, 46
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+bangs1x
+  rotate: true
+  xy: 0, 403
+  size: 109, 275
+  orig: 109, 275
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 47, 470
+  size: 42, 116
+  orig: 42, 116
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 203, 52
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 64, 30
+  size: 70, 137
+  orig: 70, 137
+  offset: 0, 0
+  index: -1
+dress
+  rotate: true
+  xy: 275, 376
+  size: 135, 153
+  orig: 135, 153
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 460, 98
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 306
+  size: 146, 97
+  orig: 146, 97
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 146, 245
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 308, 284
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 153, 318
+  size: 155, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+spear2
+  rotate: false
+  xy: 461, 281
+  size: 48, 230
+  orig: 48, 230
+  offset: 0, 0
+  index: -1

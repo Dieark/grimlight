@@ -1,0 +1,516 @@
+
+SD_Hero_MarchHare.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbow2
+  rotate: true
+  xy: 346, 7
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+Lbow3
+  rotate: false
+  xy: 155, 4
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 479, 371
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 389, 3
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Rarmbow1
+  rotate: false
+  xy: 159, 292
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 202, 157
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 183, 163
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+ammopart
+  rotate: false
+  xy: 241, 167
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 0, 292
+  size: 185, 220
+  orig: 185, 220
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 448, 214
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 183, 104
+  size: 214, 327
+  orig: 214, 327
+  offset: 0, 0
+  index: -1
+bunnypin
+  rotate: false
+  xy: 408, 3
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 112, 6
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+chainx
+  rotate: true
+  xy: 318, 374
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+clip
+  rotate: false
+  xy: 166, 333
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+dressmedal1
+  rotate: false
+  xy: 291, 233
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dressmedal2
+  rotate: false
+  xy: 291, 210
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: false
+  xy: 184, 432
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 106
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+gunback1
+  rotate: true
+  xy: 179, 14
+  size: 89, 138
+  orig: 89, 138
+  offset: 0, 0
+  index: -1
+gunback2
+  rotate: true
+  xy: 330, 25
+  size: 104, 123
+  orig: 104, 123
+  offset: 0, 0
+  index: -1
+gunbarrel1
+  rotate: false
+  xy: 0, 25
+  size: 179, 82
+  orig: 179, 82
+  offset: 0, 0
+  index: -1
+gunbarrel2
+  rotate: true
+  xy: 397, 330
+  size: 182, 82
+  orig: 182, 82
+  offset: 0, 0
+  index: -1
+gunbarrel3
+  rotate: true
+  xy: 366, 129
+  size: 183, 82
+  orig: 183, 82
+  offset: 0, 0
+  index: -1
+gunshell
+  rotate: false
+  xy: 316, 6
+  size: 30, 18
+  orig: 32, 20
+  offset: 1, 1
+  index: -1
+gunstand
+  rotate: false
+  xy: 183, 257
+  size: 135, 171
+  orig: 135, 171
+  offset: 0, 0
+  index: -1
+hipknives
+  rotate: false
+  xy: 479, 343
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+monaclechain1
+  rotate: true
+  xy: 373, 312
+  size: 15, 68
+  orig: 15, 68
+  offset: 0, 0
+  index: -1
+monaclechain2
+  rotate: false
+  xy: 312, 75
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 318, 425
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: true
+  xy: 318, 347
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+moutshocked
+  rotate: false
+  xy: 164, 317
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+muzzleflare1
+  rotate: false
+  xy: 0, 8
+  size: 113, 16
+  orig: 113, 16
+  offset: 0, 0
+  index: -1
+muzzleflare2
+  rotate: true
+  xy: 479, 405
+  size: 106, 24
+  orig: 106, 24
+  offset: 0, 0
+  index: -1
+muzzleflare3
+  rotate: true
+  xy: 454, 2
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+muzzleflare4
+  rotate: true
+  xy: 454, 106
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+muzzleflare5
+  rotate: false
+  xy: 183, 187
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 323, 430
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+
+SD_Hero_MarchHare2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 457, 342
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Lbow1
+  rotate: false
+  xy: 242, 370
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: true
+  xy: 296, 15
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 144, 299
+  size: 125, 131
+  orig: 125, 131
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 127, 70
+  size: 44, 134
+  orig: 44, 134
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 180
+  xy: 48, 142
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Rarmbow2
+  rotate: false
+  xy: 398, 237
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Rarmbow3
+  rotate: false
+  xy: 12, 248
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 189, 13
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+Rear1
+  rotate: false
+  xy: 261, 48
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+Rear2
+  rotate: true
+  xy: 99, 129
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 359, 47
+  size: 48, 131
+  orig: 48, 131
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 384, 15
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+ammobelt
+  rotate: true
+  xy: 0, 89
+  size: 49, 128
+  orig: 49, 128
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: false
+  xy: 195, 103
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: false
+  xy: 274, 235
+  size: 144, 83
+  orig: 144, 83
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 407, 191
+  size: 96, 211
+  orig: 96, 211
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 321, 97
+  size: 71, 117
+  orig: 71, 117
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 0, 232
+  size: 105, 199
+  orig: 105, 199
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 0, 164
+  size: 115, 141
+  orig: 115, 141
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 83, 9
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: 270
+  xy: 83, 38
+  size: 48, 106
+  orig: 48, 106
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 0, 337
+  size: 144, 87
+  orig: 144, 87
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 275, 317
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: false
+  xy: 198, 166
+  size: 122, 71
+  orig: 122, 71
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 341, 169
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 424
+  size: 141, 86
+  orig: 141, 86
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 141, 424
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 279, 401
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+gundecor1
+  rotate: true
+  xy: 438, 89
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+gundecor2
+  rotate: false
+  xy: 444, 13
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+gunshield
+  rotate: false
+  xy: 387, 401
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+monacle
+  rotate: false
+  xy: 198, 238
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 0, 45
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1

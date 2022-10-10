@@ -1,0 +1,432 @@
+
+SD_Hero_Otohime.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbackcloth
+  rotate: false
+  xy: 107, 178
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 354, 451
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+Lsidedress
+  rotate: false
+  xy: 0, 201
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Lsleeve2
+  rotate: false
+  xy: 0, 227
+  size: 46, 98
+  orig: 46, 98
+  offset: 0, 0
+  index: -1
+Ltassel1
+  rotate: false
+  xy: 445, 333
+  size: 11, 107
+  orig: 11, 107
+  offset: 0, 0
+  index: -1
+Rbackcloth
+  rotate: true
+  xy: 477, 472
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Rsidedress
+  rotate: false
+  xy: 376, 2
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Rsleeve3
+  rotate: 180
+  xy: 354, 379
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+Rtassel1
+  rotate: false
+  xy: 487, 32
+  size: 19, 120
+  orig: 20, 123
+  offset: 0, 3
+  index: -1
+Rtassel2
+  rotate: true
+  xy: 33, 315
+  size: 11, 104
+  orig: 11, 104
+  offset: 0, 0
+  index: -1
+backbow1
+  rotate: false
+  xy: 327, 31
+  size: 161, 73
+  orig: 161, 73
+  offset: 0, 0
+  index: -1
+backbow4
+  rotate: false
+  xy: 105, 38
+  size: 95, 140
+  orig: 95, 140
+  offset: 0, 0
+  index: -1
+backcloth8
+  rotate: true
+  xy: 120, 5
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 262, 242
+  size: 184, 219
+  orig: 184, 219
+  offset: 0, 0
+  index: -1
+backhairx
+  rotate: true
+  xy: 183, 318
+  size: 194, 171
+  orig: 194, 171
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 209, 184
+  size: 106, 225
+  orig: 106, 225
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 180
+  xy: 399, 280
+  size: 110, 231
+  orig: 110, 231
+  offset: 0, 0
+  index: -1
+dress4
+  rotate: true
+  xy: 53, 174
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 195, 22
+  size: 131, 81
+  orig: 131, 81
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 348, 104
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 209, 104
+  size: 140, 80
+  orig: 140, 80
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 97
+  size: 107, 104
+  orig: 107, 104
+  offset: 0, 0
+  index: -1
+fan
+  rotate: false
+  xy: 0, 22
+  size: 95, 76
+  orig: 95, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 325
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 183, 492
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 183, 496
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 354, 355
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+obirope
+  rotate: false
+  xy: 209, 292
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+tassel
+  rotate: false
+  xy: 246, 283
+  size: 11, 39
+  orig: 11, 39
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 432, 194
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Otohime2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhairbun
+  rotate: false
+  xy: 0, 315
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+Lhairdecor
+  rotate: true
+  xy: 369, 187
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+Lsleeve1
+  rotate: false
+  xy: 417, 422
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Lsleeve3
+  rotate: false
+  xy: 265, 437
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Lsleeve4
+  rotate: false
+  xy: 68, 6
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+Rhairbun
+  rotate: false
+  xy: 0, 2
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+Rhairdecor
+  rotate: 180
+  xy: 279, 287
+  size: 86, 121
+  orig: 86, 121
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 242, 139
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+Rsleeve1
+  rotate: false
+  xy: 319, 211
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+Rsleeve2
+  rotate: 180
+  xy: 226, 40
+  size: 87, 140
+  orig: 87, 140
+  offset: 0, 0
+  index: -1
+backbow2
+  rotate: false
+  xy: 238, 205
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+backbow3
+  rotate: 270
+  xy: 129, 40
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+backbow5
+  rotate: true
+  xy: 350, 3
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+backbow6
+  rotate: false
+  xy: 119, 131
+  size: 78, 96
+  orig: 78, 96
+  offset: 0, 0
+  index: -1
+backbow7
+  rotate: true
+  xy: 0, 214
+  size: 95, 149
+  orig: 95, 149
+  offset: 0, 0
+  index: -1
+backcloth1
+  rotate: false
+  xy: 0, 255
+  size: 134, 248
+  orig: 134, 248
+  offset: 0, 0
+  index: -1
+backcloth2
+  rotate: false
+  xy: 368, 357
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+backcloth3
+  rotate: 180
+  xy: 356, 187
+  size: 94, 160
+  orig: 94, 166
+  offset: 0, 6
+  index: -1
+backcloth4
+  rotate: false
+  xy: 287, 360
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+backcloth5
+  rotate: 180
+  xy: 108, 94
+  size: 134, 247
+  orig: 134, 248
+  offset: 0, 0
+  index: -1
+backcloth6
+  rotate: 180
+  xy: 341, 44
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+backcloth7
+  rotate: false
+  xy: 317, 337
+  size: 94, 166
+  orig: 94, 166
+  offset: 0, 0
+  index: -1
+backcloth9
+  rotate: true
+  xy: 187, 286
+  size: 216, 62
+  orig: 216, 62
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 0, 378
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 0, 67
+  size: 82, 130
+  orig: 83, 130
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 134, 336
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: 180
+  xy: 269, 33
+  size: 102, 154
+  orig: 102, 154
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: false
+  xy: 423, 19
+  size: 66, 150
+  orig: 66, 150
+  offset: 0, 0
+  index: -1
+dress3
+  rotate: false
+  xy: 231, 334
+  size: 56, 122
+  orig: 56, 122
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 148
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1

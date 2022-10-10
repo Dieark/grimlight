@@ -1,0 +1,299 @@
+
+SD_dorothy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 463, 53
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+Leyestar
+  rotate: false
+  xy: 219, 325
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 348, 19
+  size: 49, 134
+  orig: 49, 134
+  offset: 0, 0
+  index: -1
+Lponytail
+  rotate: false
+  xy: 0, 39
+  size: 67, 132
+  orig: 67, 132
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 226, 144
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Reyestar
+  rotate: false
+  xy: 156, 16
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 181, 9
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Rponytail
+  rotate: 270
+  xy: 219, 34
+  size: 57, 129
+  orig: 57, 129
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 0, 42
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 171
+  size: 219, 180
+  orig: 219, 180
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 69, 36
+  size: 157, 136
+  orig: 157, 136
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 268, 67
+  size: 227, 219
+  orig: 227, 219
+  offset: 0, 0
+  index: -1
+basketribbon
+  rotate: false
+  xy: 421, 303
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+bow1
+  rotate: true
+  xy: 226, 91
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+bow2
+  rotate: false
+  xy: 107, 8
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+bow3
+  rotate: false
+  xy: 64, 6
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 414, 369
+  size: 142, 90
+  orig: 142, 90
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 219, 147
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 423, 286
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 310, 118
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+mouthsmile
+  rotate: false
+  xy: 241, 344
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 461, 278
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 0, 351
+  size: 414, 160
+  orig: 414, 160
+  offset: 0, 0
+  index: -1
+waistchain
+  rotate: false
+  xy: 0, 13
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+
+SD_dorothy2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lelbow
+  rotate: false
+  xy: 306, 34
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Lhairbow
+  rotate: 180
+  xy: 32, 50
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 108, 277
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 185, 124
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: true
+  xy: 361, 20
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Rhairbow
+  rotate: false
+  xy: 405, 70
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 109
+  size: 45, 135
+  orig: 45, 135
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 0, 215
+  size: 130, 219
+  orig: 130, 219
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 27, 149
+  size: 140, 226
+  orig: 140, 226
+  offset: 0, 0
+  index: -1
+basket
+  rotate: true
+  xy: 377, 221
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 313
+  size: 156, 164
+  orig: 156, 164
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 360, 328
+  size: 149, 103
+  orig: 149, 103
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 156, 316
+  size: 161, 102
+  orig: 161, 102
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 258, 324
+  size: 153, 102
+  orig: 153, 102
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 258, 205
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+staffribbon
+  rotate: false
+  xy: 126, 53
+  size: 146, 76
+  orig: 146, 76
+  offset: 0, 0
+  index: -1
+tailribbon
+  rotate: 270
+  xy: 264, 72
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1

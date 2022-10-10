@@ -1,0 +1,418 @@
+
+SD_Hero_Mermaid.png
+size: 511,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 421, 348
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Lhipflap
+  rotate: false
+  xy: 463, 183
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 418, 301
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Lsleeve3
+  rotate: false
+  xy: 219, 279
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 160, 254
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 89, 71
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Rhipflap
+  rotate: false
+  xy: 149, 135
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 388, 8
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 389, 165
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Rsleeve1
+  rotate: false
+  xy: 310, 62
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+Rsleeve2
+  rotate: false
+  xy: 322, 458
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Rsleeve3
+  rotate: 270
+  xy: 177, 6
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+Rsleeve4
+  rotate: false
+  xy: 322, 435
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 19, 182
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 0, 97
+  size: 116, 131
+  orig: 116, 131
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: 180
+  xy: 441, 39
+  size: 57, 144
+  orig: 57, 144
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 354, 306
+  size: 71, 201
+  orig: 71, 201
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 0, 274
+  size: 71, 220
+  orig: 71, 220
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: false
+  xy: 198, 328
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+backhair5
+  rotate: true
+  xy: 255, 7
+  size: 53, 133
+  orig: 53, 133
+  offset: 0, 0
+  index: -1
+backhair6
+  rotate: false
+  xy: 425, 301
+  size: 76, 205
+  orig: 76, 205
+  offset: 0, 0
+  index: -1
+backhair7
+  rotate: true
+  xy: 0, 344
+  size: 87, 220
+  orig: 87, 220
+  offset: 0, 0
+  index: -1
+backhair8
+  rotate: true
+  xy: 180, 214
+  size: 68, 174
+  orig: 68, 174
+  offset: 0, 0
+  index: -1
+bang6
+  rotate: true
+  xy: 27, 144
+  size: 38, 122
+  orig: 38, 122
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 348, 118
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 0, 175
+  size: 99, 177
+  orig: 99, 177
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 259, 189
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: false
+  xy: 484, 229
+  size: 27, 73
+  orig: 27, 73
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 61, 235
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 37
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+eyedeath
+  rotate: false
+  xy: 89, 13
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 337, 59
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 131, 71
+  size: 100, 59
+  orig: 100, 59
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 259, 109
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 220, 299
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+fishnethat
+  rotate: false
+  xy: 0, 1
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 126, 342
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 18, 263
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 99, 233
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+shell1
+  rotate: false
+  xy: 423, 375
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+shell2
+  rotate: false
+  xy: 337, 123
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 231, 37
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 473, 29
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+tailcape1
+  rotate: false
+  xy: 176, 131
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+tailcape2
+  rotate: false
+  xy: 32, 250
+  size: 129, 25
+  orig: 129, 25
+  offset: 0, 0
+  index: -1
+trident
+  rotate: false
+  xy: 0, 431
+  size: 322, 75
+  orig: 323, 75
+  offset: 1, 0
+  index: -1
+tridentglow
+  rotate: false
+  xy: 354, 218
+  size: 129, 84
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Mermaid2.png
+size: 254,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lear
+  rotate: true
+  xy: 117, 118
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 61, 36
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: true
+  xy: 157, 1
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Lsleeve1
+  rotate: false
+  xy: 211, 27
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+Lsleeve2
+  rotate: 180
+  xy: 0, 11
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 53, 2
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 157, 44
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 0, 88
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 158, 90
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 34, 65
+  size: 40, 123
+  orig: 40, 123
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 54, 90
+  size: 63, 93
+  orig: 63, 93
+  offset: 0, 0
+  index: -1

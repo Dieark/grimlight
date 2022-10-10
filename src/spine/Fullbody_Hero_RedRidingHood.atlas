@@ -1,0 +1,678 @@
+
+Fullbody_Hero_RedRidingHood.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lankleplate
+  rotate: false
+  xy: 151, 780
+  size: 61, 61
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 0, 393
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+Larmplate
+  rotate: false
+  xy: 608, 277
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+Larmx
+  rotate: false
+  xy: 999, 638
+  size: 126, 139
+  orig: 126, 139
+  offset: 0, 0
+  index: -1
+Lbackbelt1
+  rotate: false
+  xy: 1139, 1095
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Lbag
+  rotate: false
+  xy: 1783, 820
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+Lbelt1
+  rotate: false
+  xy: 1507, 997
+  size: 198, 381
+  orig: 198, 381
+  offset: 0, 0
+  index: -1
+Lbelt2
+  rotate: true
+  xy: 1324, 323
+  size: 144, 385
+  orig: 144, 385
+  offset: 0, 0
+  index: -1
+Lbow1
+  rotate: false
+  xy: 1324, 1125
+  size: 38, 109
+  orig: 38, 109
+  offset: 0, 0
+  index: -1
+Lbow2
+  rotate: 180
+  xy: 1697, 825
+  size: 145, 249
+  orig: 145, 249
+  offset: 0, 0
+  index: -1
+Lbowback1
+  rotate: false
+  xy: 128, 550
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Lbowtasselback
+  rotate: false
+  xy: 776, 1027
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+Lcape1
+  rotate: false
+  xy: 1191, 584
+  size: 276, 857
+  orig: 276, 857
+  offset: 0, 0
+  index: -1
+Lcapeflap
+  rotate: 270
+  xy: 1522, 1644
+  size: 202, 214
+  orig: 202, 214
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 1726, 271
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+Lelbowplate
+  rotate: false
+  xy: 1184, 1314
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+Leyeframe
+  rotate: false
+  xy: 866, 1151
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 116, 793
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 0, 1293
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Lfinger
+  rotate: false
+  xy: 1330, 1688
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 93, 920
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 219, 320
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 78, 959
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+Lkneeplate
+  rotate: true
+  xy: 904, 282
+  size: 94, 177
+  orig: 94, 177
+  offset: 0, 0
+  index: -1
+Lkneeplateside
+  rotate: false
+  xy: 0, 884
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 0, 537
+  size: 128, 620
+  orig: 128, 620
+  offset: 0, 0
+  index: -1
+Lpalm
+  rotate: false
+  xy: 234, 523
+  size: 71, 87
+  orig: 74, 87
+  offset: 3, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 0, 828
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 1196, 1079
+  size: 232, 128
+  orig: 234, 128
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 815, 781
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Rankleplate
+  rotate: false
+  xy: 691, 270
+  size: 72, 72
+  orig: 72, 75
+  offset: 0, 3
+  index: -1
+Rankleplateback
+  rotate: false
+  xy: 0, 1163
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Rarmpit
+  rotate: false
+  xy: 930, 644
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1
+Rbackbelt1
+  rotate: false
+  xy: 654, 665
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+Rbackbelt2
+  rotate: false
+  xy: 1330, 1386
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Rbelt1
+  rotate: true
+  xy: 1354, 1555
+  size: 291, 354
+  orig: 291, 354
+  offset: 0, 0
+  index: -1
+Rbelt2
+  rotate: 180
+  xy: 1304, 735
+  size: 279, 442
+  orig: 279, 442
+  offset: 0, 0
+  index: -1
+Rbow1
+  rotate: false
+  xy: 1194, 819
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+Rbow2
+  rotate: false
+  xy: 1614, 1102
+  size: 140, 268
+  orig: 140, 268
+  offset: 0, 0
+  index: -1
+Rbow3
+  rotate: 270
+  xy: 1612, 274
+  size: 178, 224
+  orig: 178, 224
+  offset: 0, 0
+  index: -1
+Rbow4
+  rotate: false
+  xy: 828, 813
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: true
+  xy: 193, 341
+  size: 472, 1110
+  orig: 472, 1110
+  offset: 0, 0
+  index: -1
+Rcapefold
+  rotate: false
+  xy: 1447, 1190
+  size: 68, 175
+  orig: 68, 175
+  offset: 0, 0
+  index: -1
+Reyeframe
+  rotate: false
+  xy: 739, 1000
+  size: 54, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: false
+  xy: 130, 947
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 0, 1287
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Rhatear
+  rotate: false
+  xy: 111, 833
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+Rhipbelt
+  rotate: false
+  xy: 696, 705
+  size: 52, 27
+  orig: 54, 28
+  offset: 2, 1
+  index: -1
+Rhoodbottom
+  rotate: true
+  xy: 1286, 1234
+  size: 150, 97
+  orig: 150, 97
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: false
+  xy: 128, 597
+  size: 106, 183
+  orig: 106, 183
+  offset: 0, 0
+  index: -1
+Rkneeplateside
+  rotate: false
+  xy: 1782, 616
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 628, 342
+  size: 148, 696
+  orig: 148, 696
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 0, 854
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 1081, 271
+  size: 83, 198
+  orig: 83, 198
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1695, 719
+  size: 125, 106
+  orig: 136, 106
+  offset: 11, 0
+  index: -1
+annoy
+  rotate: 270
+  xy: 1672, 921
+  size: 134, 105
+  orig: 142, 105
+  offset: 8, 0
+  index: -1
+apron
+  rotate: false
+  xy: 926, 1107
+  size: 270, 262
+  orig: 270, 262
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: false
+  xy: 0, 602
+  size: 952, 777
+  orig: 952, 777
+  offset: 0, 0
+  index: -1
+backhood
+  rotate: true
+  xy: 1330, 1440
+  size: 246, 212
+  orig: 246, 213
+  offset: 0, 1
+  index: -1
+backskirt
+  rotate: false
+  xy: 305, 541
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+bagbelt
+  rotate: false
+  xy: 1330, 1694
+  size: 158, 106
+  orig: 158, 106
+  offset: 0, 0
+  index: -1
+bagchain
+  rotate: false
+  xy: 794, 972
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 180
+  xy: 1741, 452
+  size: 98, 170
+  orig: 98, 170
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 144, 304
+  size: 98, 286
+  orig: 98, 286
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 1279, 275
+  size: 74, 304
+  orig: 74, 304
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 1547, 884
+  size: 114, 134
+  orig: 114, 134
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 896, 1103
+  size: 32, 107
+  orig: 32, 107
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 1739, 1228
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+broach
+  rotate: false
+  xy: 411, 569
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 1395, 532
+  size: 251, 246
+  orig: 251, 246
+  offset: 0, 0
+  index: -1
+chestfrill
+  rotate: false
+  xy: 414, 284
+  size: 158, 42
+  orig: 158, 42
+  offset: 0, 0
+  index: -1
+earbelt1
+  rotate: false
+  xy: 1501, 762
+  size: 195, 121
+  orig: 195, 121
+  offset: 0, 0
+  index: -1
+earbelt2
+  rotate: false
+  xy: 0, 270
+  size: 154, 123
+  orig: 154, 123
+  offset: 0, 0
+  index: -1
+earbelt4
+  rotate: false
+  xy: 266, 278
+  size: 148, 131
+  orig: 148, 131
+  offset: 0, 0
+  index: -1
+earelt3
+  rotate: false
+  xy: 414, 326
+  size: 194, 111
+  orig: 194, 111
+  offset: 0, 0
+  index: -1
+earleaf
+  rotate: false
+  xy: 1754, 1053
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+earring1
+  rotate: false
+  xy: 115, 807
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+earring2
+  rotate: false
+  xy: 27, 1157
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+elbowhinge
+  rotate: false
+  xy: 78, 1052
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+elbowhingeback
+  rotate: false
+  xy: 0, 1220
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+eyewhite
+  rotate: false
+  xy: 952, 1349
+  size: 44, 30
+  orig: 93, 40
+  offset: 0, 10
+  index: -1
+face
+  rotate: false
+  xy: 1541, 1370
+  size: 151, 156
+  orig: 151, 156
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1640, 467
+  size: 133, 114
+  orig: 139, 126
+  offset: 6, 12
+  index: -1
+hood
+  rotate: false
+  xy: 1250, 400
+  size: 318, 335
+  orig: 318, 335
+  offset: 0, 0
+  index: -1
+hoodback
+  rotate: 180
+  xy: 662, 732
+  size: 173, 268
+  orig: 173, 268
+  offset: 0, 0
+  index: -1
+idle
+  rotate: 270
+  xy: 1681, 1304
+  size: 133, 105
+  orig: 141, 105
+  offset: 8, 0
+  index: -1
+idleface
+  rotate: true
+  xy: 1736, 1573
+  size: 130, 105
+  orig: 141, 105
+  offset: 11, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1455, 1377
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+pigtail1
+  rotate: true
+  xy: 763, 282
+  size: 79, 121
+  orig: 79, 121
+  offset: 0, 0
+  index: -1
+sad
+  rotate: 270
+  xy: 1688, 1444
+  size: 130, 105
+  orig: 138, 105
+  offset: 8, 0
+  index: -1
+shy
+  rotate: true
+  xy: 1642, 598
+  size: 133, 106
+  orig: 141, 106
+  offset: 8, 0
+  index: -1
+sidebag
+  rotate: false
+  xy: 1125, 732
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 842, 813
+  size: 479, 297
+  orig: 479, 297
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1706, 1742
+  size: 133, 105
+  orig: 141, 105
+  offset: 8, 0
+  index: -1
+sword
+  rotate: false
+  xy: 0, 1378
+  size: 1330, 468
+  orig: 1330, 470
+  offset: 0, 0
+  index: -1
+waistbelt1
+  rotate: false
+  xy: 484, 585
+  size: 64, 19
+  orig: 71, 22
+  offset: 3, 0
+  index: -1

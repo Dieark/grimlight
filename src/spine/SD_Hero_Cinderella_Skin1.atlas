@@ -1,0 +1,376 @@
+
+SD_Hero_Cinderella_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 473, 401
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Larmfrill
+  rotate: false
+  xy: 298, 7
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Learring
+  rotate: false
+  xy: 183, 212
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 390, 359
+  size: 35, 109
+  orig: 35, 109
+  offset: 0, 0
+  index: -1
+Rearring
+  rotate: false
+  xy: 172, 218
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 212
+  size: 37, 104
+  orig: 37, 104
+  offset: 0, 0
+  index: -1
+Rpelvis
+  rotate: false
+  xy: 103, 212
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+backhair5
+  rotate: true
+  xy: 216, 344
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 454, 29
+  size: 47, 104
+  orig: 47, 104
+  offset: 0, 0
+  index: -1
+crown
+  rotate: 180
+  xy: 207, 212
+  size: 188, 133
+  orig: 188, 133
+  offset: 0, 0
+  index: -1
+crownspike1
+  rotate: false
+  xy: 430, 344
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+crownspike3
+  rotate: false
+  xy: 454, 13
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+crownspike4
+  rotate: true
+  xy: 473, 450
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 14
+  size: 110, 83
+  orig: 110, 83
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 200, 4
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 372, 16
+  size: 118, 83
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 390, 393
+  size: 118, 83
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 110, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 217, 58
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 65, 243
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 192, 217
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 194, 235
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+spear 4 glow
+  rotate: false
+  xy: 0, 96
+  size: 217, 115
+  orig: 221, 118
+  offset: 2, 2
+  index: -1
+spear1
+  rotate: false
+  xy: 0, 248
+  size: 207, 126
+  orig: 208, 126
+  offset: 0, 0
+  index: -1
+spear1 glow
+  rotate: false
+  xy: 0, 374
+  size: 216, 136
+  orig: 222, 142
+  offset: 3, 3
+  index: -1
+spear4
+  rotate: true
+  xy: 395, 133
+  size: 211, 109
+  orig: 212, 110
+  offset: 0, 1
+  index: -1
+
+SD_Hero_Cinderella_Skin12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larmfrillback
+  rotate: false
+  xy: 322, 48
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 480, 249
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+Lskirtdrape
+  rotate: false
+  xy: 168, 258
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 241, 42
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Rarmfrill
+  rotate: false
+  xy: 449, 303
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+Rarmfrillback
+  rotate: false
+  xy: 39, 64
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 6, 53
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+Rskirtdrape
+  rotate: false
+  xy: 267, 64
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 0, 252
+  size: 168, 119
+  orig: 168, 119
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: 270
+  xy: 103, 107
+  size: 92, 164
+  orig: 92, 164
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: false
+  xy: 411, 51
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: true
+  xy: 326, 149
+  size: 87, 165
+  orig: 87, 165
+  offset: 0, 0
+  index: -1
+backskirtdrape
+  rotate: false
+  xy: 203, 253
+  size: 173, 121
+  orig: 173, 121
+  offset: 0, 0
+  index: -1
+backtail
+  rotate: 270
+  xy: 0, 107
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 96, 45
+  size: 95, 147
+  orig: 95, 147
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 350, 92
+  size: 94, 161
+  orig: 94, 161
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 369, 253
+  size: 121, 111
+  orig: 121, 111
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 5, 311
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+crownspike2
+  rotate: false
+  xy: 450, 60
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: false
+  xy: 168, 182
+  size: 118, 71
+  orig: 118, 71
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 0, 182
+  size: 141, 72
+  orig: 141, 72
+  offset: 0, 0
+  index: -1
+skirtback
+  rotate: 180
+  xy: 290, 192
+  size: 139, 80
+  orig: 139, 80
+  offset: 0, 0
+  index: -1
+spear2
+  rotate: false
+  xy: 249, 442
+  size: 243, 70
+  orig: 244, 71
+  offset: 0, 1
+  index: -1
+spear2 glow
+  rotate: false
+  xy: 0, 435
+  size: 249, 77
+  orig: 252, 80
+  offset: 1, 1
+  index: -1
+spear3
+  rotate: false
+  xy: 0, 371
+  size: 239, 64
+  orig: 240, 64
+  offset: 0, 0
+  index: -1
+spear3 glow
+  rotate: false
+  xy: 249, 373
+  size: 245, 69
+  orig: 248, 71
+  offset: 1, 1
+  index: -1

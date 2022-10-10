@@ -1,0 +1,320 @@
+
+SD_Hero_Huntsman.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcape
+  rotate: 270
+  xy: 451, 0
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 219, 9
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 160, 93
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 186, 85
+  size: 74, 117
+  orig: 74, 117
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 110, 92
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 186, 206
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+backcape2
+  rotate: false
+  xy: 186, 114
+  size: 217, 194
+  orig: 217, 194
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 284, 74
+  size: 192, 231
+  orig: 192, 231
+  offset: 0, 0
+  index: -1
+backhairx
+  rotate: false
+  xy: 0, 136
+  size: 186, 179
+  orig: 186, 179
+  offset: 0, 0
+  index: -1
+bags1
+  rotate: false
+  xy: 79, 105
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 180
+  xy: 462, 153
+  size: 45, 130
+  orig: 45, 130
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 0, 7
+  size: 129, 219
+  orig: 129, 219
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 278, 0
+  size: 131, 222
+  orig: 131, 222
+  offset: 0, 0
+  index: -1
+crossbow
+  rotate: false
+  xy: 0, 315
+  size: 228, 197
+  orig: 228, 197
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 435, 381
+  size: 131, 71
+  orig: 131, 71
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 228, 308
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 132, 81
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 186, 310
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 160, 116
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+neckpin
+  rotate: false
+  xy: 179, 90
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: 270
+  xy: 440, 282
+  size: 99, 63
+  orig: 99, 63
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Huntsman2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 467, 377
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: 270
+  xy: 0, 293
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 467, 466
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 294, 244
+  size: 49, 139
+  orig: 49, 139
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 467, 422
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: 180
+  xy: 122, 314
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: 270
+  xy: 80, 183
+  size: 53, 118
+  orig: 53, 118
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 453, 299
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+Rsword1
+  rotate: false
+  xy: 382, 374
+  size: 85, 137
+  orig: 85, 137
+  offset: 0, 0
+  index: -1
+Rsword2
+  rotate: false
+  xy: 433, 228
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: false
+  xy: 0, 233
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+backcape1
+  rotate: 270
+  xy: 318, 196
+  size: 50, 148
+  orig: 50, 148
+  offset: 0, 0
+  index: -1
+bags2
+  rotate: false
+  xy: 0, 199
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 0, 154
+  size: 41, 119
+  orig: 41, 119
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 115, 255
+  size: 115, 176
+  orig: 115, 176
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 352, 157
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 294, 372
+  size: 139, 88
+  orig: 139, 88
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 207, 369
+  size: 142, 87
+  orig: 142, 87
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 120, 368
+  size: 143, 87
+  orig: 143, 87
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 391
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hairline
+  rotate: false
+  xy: 294, 293
+  size: 159, 79
+  orig: 159, 79
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 188, 214
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+waistbelt
+  rotate: false
+  xy: 198, 153
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,348 @@
+
+SD_Hero_Rapunzel.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyeopen
+  rotate: false
+  xy: 307, 372
+  size: 143, 91
+  orig: 143, 91
+  offset: 0, 0
+  index: -1
+Lcoat
+  rotate: false
+  xy: 0, 202
+  size: 66, 171
+  orig: 66, 171
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 354, 462
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: 180
+  xy: 33, 185
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 159, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 83, 30
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 472, 320
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 55, 286
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 0, 75
+  size: 492, 111
+  orig: 492, 111
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 185
+  size: 356, 328
+  orig: 357, 328
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 294, 12
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+earring
+  rotate: false
+  xy: 289, 371
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 288, 185
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: true
+  xy: 0, 3
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: true
+  xy: 113, 1
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+hairleaf
+  rotate: false
+  xy: 472, 191
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+hairshrub3
+  rotate: false
+  xy: 0, 370
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+hairshrub4
+  rotate: false
+  xy: 361, 16
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+hairshrub5
+  rotate: true
+  xy: 211, 46
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+hairshrub6
+  rotate: false
+  xy: 472, 258
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+hairshrub7
+  rotate: false
+  xy: 38, 369
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 0, 186
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: true
+  xy: 51, 252
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+mouthshoutgrin
+  rotate: false
+  xy: 475, 491
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+mouthsmile
+  rotate: false
+  xy: 315, 462
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 450, 381
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: 180
+  xy: 0, 372
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+ribbont1
+  rotate: 270
+  xy: 424, 1
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+tassel
+  rotate: true
+  xy: 199, 0
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Rapunzel2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyeclosed
+  rotate: false
+  xy: 288, 127
+  size: 133, 76
+  orig: 133, 76
+  offset: 0, 0
+  index: -1
+Eyemid
+  rotate: true
+  xy: 284, 320
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 40, 251
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 177, 461
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 0, 61
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: 180
+  xy: 204, 66
+  size: 104, 89
+  orig: 111, 293
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 0, 288
+  size: 177, 224
+  orig: 177, 224
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 180
+  xy: 409, 226
+  size: 95, 253
+  orig: 95, 253
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 180
+  xy: 125, 266
+  size: 162, 247
+  orig: 162, 247
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 124, 125
+  size: 130, 165
+  orig: 130, 165
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 0, 204
+  size: 117, 310
+  orig: 117, 310
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 270
+  xy: 421, 60
+  size: 107, 91
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+eyeflinch
+  rotate: true
+  xy: 309, 203
+  size: 118, 95
+  orig: 118, 95
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 368, 320
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: false
+  xy: 0, 262
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+flower4
+  rotate: false
+  xy: 0, 465
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+hairshrub2
+  rotate: false
+  xy: 286, 453
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+hairshrubs1
+  rotate: false
+  xy: 368, 435
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tailcoat
+  rotate: false
+  xy: 0, 110
+  size: 119, 95
+  orig: 119, 95
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,517 @@
+
+Fullbody_Hero_Puss.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 884, 1411
+  size: 153, 305
+  orig: 153, 305
+  offset: 0, 0
+  index: -1
+Lbicep
+  rotate: false
+  xy: 131, 916
+  size: 94, 239
+  orig: 94, 239
+  offset: 0, 0
+  index: -1
+Lboot_collar
+  rotate: false
+  xy: 972, 121
+  size: 206, 216
+  orig: 206, 216
+  offset: 0, 0
+  index: -1
+Lboot_collarback
+  rotate: false
+  xy: 1039, 1259
+  size: 159, 115
+  orig: 159, 115
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 884, 1041
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 664, 2020
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+Leyelidx
+  rotate: false
+  xy: 198, 891
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 603, 1484
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 435, 2022
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 1355, 1808
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+Lleg_pad
+  rotate: false
+  xy: 1171, 628
+  size: 108, 207
+  orig: 108, 207
+  offset: 0, 0
+  index: -1
+Lleg_skirt
+  rotate: false
+  xy: 1065, 1677
+  size: 173, 180
+  orig: 173, 183
+  offset: 0, 3
+  index: -1
+Lpupil
+  rotate: false
+  xy: 435, 1466
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Lpupilx
+  rotate: false
+  xy: 490, 1812
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Lskirtfold
+  rotate: false
+  xy: 223, 1190
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+R_skirt
+  rotate: true
+  xy: 1220, 1590
+  size: 162, 130
+  orig: 162, 130
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 127, 575
+  size: 137, 341
+  orig: 137, 341
+  offset: 0, 0
+  index: -1
+Rboot_collar
+  rotate: true
+  xy: 988, 337
+  size: 217, 204
+  orig: 217, 204
+  offset: 0, 0
+  index: -1
+Rboot_collarback
+  rotate: true
+  xy: 1309, 845
+  size: 170, 91
+  orig: 170, 91
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: false
+  xy: 150, 1153
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+Rearfur
+  rotate: false
+  xy: 704, 1452
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Reyelash
+  rotate: false
+  xy: 749, 1461
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: false
+  xy: 291, 1105
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 810, 1446
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 1037, 1375
+  size: 151, 245
+  orig: 151, 245
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 0, 286
+  size: 201, 964
+  orig: 201, 964
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 435, 1436
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rskirtback
+  rotate: false
+  xy: 435, 1699
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+Rsword_backhandle
+  rotate: false
+  xy: 869, 1716
+  size: 185, 325
+  orig: 185, 325
+  offset: 0, 0
+  index: -1
+Rsword_blade
+  rotate: false
+  xy: 0, 1250
+  size: 435, 791
+  orig: 435, 791
+  offset: 0, 0
+  index: -1
+Rsword_guard
+  rotate: false
+  xy: 1019, 554
+  size: 152, 281
+  orig: 152, 281
+  offset: 0, 0
+  index: -1
+angry
+  rotate: 270
+  xy: 1237, 121
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: false
+  xy: 1279, 704
+  size: 129, 134
+  orig: 129, 134
+  offset: 0, 0
+  index: -1
+bang8
+  rotate: false
+  xy: 1224, 1759
+  size: 147, 282
+  orig: 147, 282
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 513, 582
+  size: 105, 145
+  orig: 105, 145
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1313, 257
+  size: 97, 168
+  orig: 97, 168
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 481, 1837
+  size: 39, 115
+  orig: 39, 115
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 180
+  xy: 1167, 1344
+  size: 110, 209
+  orig: 110, 209
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 1164, 922
+  size: 155, 198
+  orig: 155, 198
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 1348, 1247
+  size: 100, 212
+  orig: 119, 270
+  offset: 4, 25
+  index: -1
+bangs7
+  rotate: false
+  xy: 435, 1538
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 959, 15
+  size: 323, 106
+  orig: 323, 106
+  offset: 0, 0
+  index: -1
+belt_top
+  rotate: true
+  xy: 1348, 1497
+  size: 151, 89
+  orig: 151, 89
+  offset: 0, 0
+  index: -1
+beltback
+  rotate: false
+  xy: 435, 1491
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 599, 1446
+  size: 105, 40
+  orig: 105, 40
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1054, 1854
+  size: 169, 187
+  orig: 169, 187
+  offset: 0, 0
+  index: -1
+faceidle
+  rotate: false
+  xy: 1282, 7
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: -1
+faceidlex
+  rotate: 180
+  xy: 280, 1136
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 454, 9
+  size: 285, 289
+  orig: 316, 296
+  offset: 0, 0
+  index: -1
+hairclip
+  rotate: false
+  xy: 435, 1414
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+happy
+  rotate: 270
+  xy: 1258, 1106
+  size: 141, 131
+  orig: 141, 131
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 663, 1890
+  size: 196, 130
+  orig: 196, 130
+  offset: 0, 0
+  index: -1
+hat_feather1
+  rotate: true
+  xy: 435, 1779
+  size: 262, 60
+  orig: 262, 60
+  offset: 0, 0
+  index: -1
+hat_feather2
+  rotate: true
+  xy: 1178, 159
+  size: 290, 153
+  orig: 290, 153
+  offset: 0, 0
+  index: -1
+hat_middle
+  rotate: true
+  xy: 165, 9
+  size: 295, 291
+  orig: 365, 410
+  offset: 61, 60
+  index: -1
+hatflap1
+  rotate: true
+  xy: 1350, 1660
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+hatflap2
+  rotate: false
+  xy: 1329, 459
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+hatflapback
+  rotate: false
+  xy: 435, 1627
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+hatfront
+  rotate: true
+  xy: 651, 1500
+  size: 390, 218
+  orig: 390, 218
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1311, 1022
+  size: 126, 84
+  orig: 126, 84
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1192, 495
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 884, 1110
+  size: 301, 155
+  orig: 301, 155
+  offset: 0, 0
+  index: -1
+scarf_back
+  rotate: false
+  xy: 1027, 835
+  size: 282, 87
+  orig: 282, 87
+  offset: 0, 0
+  index: -1
+scarfbackL1
+  rotate: 180
+  xy: 754, 450
+  size: 276, 496
+  orig: 276, 496
+  offset: 0, 0
+  index: -1
+scarfbackL2
+  rotate: 180
+  xy: 415, 292
+  size: 474, 295
+  orig: 474, 295
+  offset: 0, 0
+  index: -1
+scarfback_R1
+  rotate: 270
+  xy: 890, 940
+  size: 267, 347
+  orig: 267, 347
+  offset: 0, 0
+  index: -1
+scarfback_R2
+  rotate: 180
+  xy: 733, 2
+  size: 255, 457
+  orig: 255, 457
+  offset: 0, 0
+  index: -1
+sheath1
+  rotate: false
+  xy: 503, 731
+  size: 66, 135
+  orig: 66, 135
+  offset: 0, 0
+  index: -1
+sheath2
+  rotate: false
+  xy: 586, 671
+  size: 298, 775
+  orig: 298, 775
+  offset: 0, 0
+  index: -1
+shy
+  rotate: 270
+  xy: 1314, 575
+  size: 129, 113
+  orig: 129, 113
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: 180
+  xy: 1300, 1900
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1037, 1226
+  size: 490, 334
+  orig: 490, 334
+  offset: 0, 0
+  index: -1
+torso+Lleg
+  rotate: false
+  xy: 236, 538
+  size: 430, 1504
+  orig: 1086, 1892
+  offset: 505, 0
+  index: -1

@@ -1,0 +1,425 @@
+
+SD_Hero_Whiteknight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: true
+  xy: 324, 6
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 324, 6
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: 270
+  xy: 96, 114
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: false
+  xy: 454, 245
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+Lkneeplate
+  rotate: false
+  xy: 260, 67
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: false
+  xy: 260, 67
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 481, 18
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Rlegx
+  rotate: false
+  xy: 481, 18
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Lshoefeather
+  rotate: false
+  xy: 402, 166
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Rshoefeather
+  rotate: false
+  xy: 402, 166
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Lshoeplat
+  rotate: false
+  xy: 430, 205
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Rshoeplate
+  rotate: false
+  xy: 430, 205
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 454, 207
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 229
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Rhandplate
+  rotate: false
+  xy: 402, 188
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Rhandplatex
+  rotate: false
+  xy: 215, 7
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Rhandx
+  rotate: true
+  xy: 0, 40
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 338, 139
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 159, 167
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Rthumbx
+  rotate: false
+  xy: 402, 143
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 0, 255
+  size: 179, 258
+  orig: 179, 258
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 0, 17
+  size: 206, 325
+  orig: 206, 325
+  offset: 0, 0
+  index: -1
+chain2
+  rotate: true
+  xy: 300, 78
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+hairfluff
+  rotate: false
+  xy: 331, 15
+  size: 180, 190
+  orig: 180, 190
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 178, 101
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 178, 260
+  size: 252, 167
+  orig: 252, 167
+  offset: 0, 0
+  index: -1
+lancestaff
+  rotate: false
+  xy: 0, 17
+  size: 215, 22
+  orig: 215, 22
+  offset: 0, 0
+  index: -1
+lancetip
+  rotate: true
+  xy: 345, 218
+  size: 295, 109
+  orig: 295, 109
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 225
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 76, 141
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 233, 78
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shieldback
+  rotate: false
+  xy: 454, 323
+  size: 56, 190
+  orig: 56, 190
+  offset: 0, 0
+  index: -1
+spearchain
+  rotate: false
+  xy: 338, 127
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+tailcoat3
+  rotate: false
+  xy: 37, 154
+  size: 138, 101
+  orig: 138, 101
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Whiteknight2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lshoulderplate
+  rotate: false
+  xy: 357, 145
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Rarmx
+  rotate: false
+  xy: 386, 201
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 313, 98
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 106, 211
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Rshoulderplatex
+  rotate: false
+  xy: 0, 151
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Rshoulderx
+  rotate: false
+  xy: 388, 23
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: 180
+  xy: 104, 214
+  size: 92, 247
+  orig: 92, 247
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 193, 168
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 318, 198
+  size: 68, 151
+  orig: 68, 151
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 0, 208
+  size: 109, 252
+  orig: 109, 252
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 195, 273
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 0, 290
+  size: 43, 171
+  orig: 43, 171
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: 270
+  xy: 22, 10
+  size: 101, 171
+  orig: 102, 171
+  offset: 1, 0
+  index: -1
+chain1
+  rotate: false
+  xy: 357, 88
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+chestpieces
+  rotate: true
+  xy: 193, 1
+  size: 87, 109
+  orig: 87, 109
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 193, 88
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 314, 349
+  size: 111, 61
+  orig: 111, 61
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 60
+  size: 125, 76
+  orig: 125, 76
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 65, 136
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 168, 358
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+hatclip
+  rotate: false
+  xy: 301, 1
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: 270
+  xy: 349, 255
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+shieldfront
+  rotate: false
+  xy: 266, 254
+  size: 48, 207
+  orig: 48, 207
+  offset: 0, 0
+  index: -1
+tailcoat1
+  rotate: false
+  xy: 368, 334
+  size: 54, 115
+  orig: 54, 115
+  offset: 0, 0
+  index: -1
+tailcoat2
+  rotate: false
+  xy: 392, 256
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1

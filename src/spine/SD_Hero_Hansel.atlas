@@ -1,0 +1,348 @@
+
+SD_Hero_Hansel.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lthumb
+  rotate: false
+  xy: 333, 182
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 378, 266
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 314, 202
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 170
+  size: 176, 162
+  orig: 176, 162
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 176, 179
+  size: 138, 129
+  orig: 138, 129
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 314, 166
+  size: 143, 188
+  orig: 144, 188
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 264, 1
+  size: 118, 59
+  orig: 118, 59
+  offset: 0, 0
+  index: -1
+beltcookie
+  rotate: false
+  xy: 252, 314
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: false
+  xy: 0, 3
+  size: 151, 79
+  orig: 151, 79
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 389, 19
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 82
+  size: 157, 88
+  orig: 157, 88
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 176, 28
+  size: 151, 88
+  orig: 151, 88
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 269, 60
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 286, 308
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: false
+  xy: 0, 332
+  size: 286, 180
+  orig: 286, 180
+  offset: 0, 0
+  index: -1
+impactknifefade2
+  rotate: false
+  xy: 479, 20
+  size: 30, 45
+  orig: 36, 52
+  offset: 4, 2
+  index: -1
+mouthgrin
+  rotate: false
+  xy: 176, 317
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 407, 258
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+moutshocked
+  rotate: false
+  xy: 157, 89
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+moutshout
+  rotate: false
+  xy: 222, 309
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+puppetclip
+  rotate: false
+  xy: 352, 278
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+throwknife
+  rotate: false
+  xy: 479, 65
+  size: 20, 105
+  orig: 20, 105
+  offset: 0, 0
+  index: -1
+tie1
+  rotate: false
+  xy: 157, 106
+  size: 10, 64
+  orig: 10, 64
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: false
+  xy: 151, 21
+  size: 20, 61
+  orig: 20, 61
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Hansel2.png
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 249, 269
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Lblazer
+  rotate: true
+  xy: 304, 286
+  size: 39, 95
+  orig: 39, 95
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 179, 253
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 252, 361
+  size: 41, 110
+  orig: 41, 110
+  offset: 0, 0
+  index: -1
+Lshort
+  rotate: false
+  xy: 79, 414
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 441, 294
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 40, 274
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+Rblazer
+  rotate: true
+  xy: 341, 324
+  size: 38, 100
+  orig: 38, 100
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 459, 255
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Rshort
+  rotate: false
+  xy: 83, 356
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: 270
+  xy: 393, 268
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 0, 307
+  size: 135, 197
+  orig: 135, 197
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 179, 291
+  size: 41, 82
+  orig: 41, 82
+  offset: 0, 0
+  index: -1
+bangs4x
+  rotate: true
+  xy: 252, 407
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+bread
+  rotate: true
+  xy: 351, 257
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+dagger
+  rotate: true
+  xy: 135, 278
+  size: 226, 44
+  orig: 226, 44
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 179, 373
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 425, 423
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+impactknife1
+  rotate: false
+  xy: 220, 303
+  size: 40, 58
+  orig: 43, 62
+  offset: 2, 2
+  index: -1
+impactknifefade1
+  rotate: false
+  xy: 0, 279
+  size: 40, 58
+  orig: 43, 62
+  offset: 2, 2
+  index: -1
+impactknifefade3
+  rotate: true
+  xy: 307, 257
+  size: 29, 44
+  orig: 33, 52
+  offset: 2, 3
+  index: -1
+pelvis
+  rotate: false
+  xy: 264, 314
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: false
+  xy: 344, 395
+  size: 81, 109
+  orig: 81, 109
+  offset: 0, 0
+  index: -1
+throwknifeglow
+  rotate: true
+  xy: 362, 362
+  size: 33, 116
+  orig: 33, 116
+  offset: 0, 0
+  index: -1

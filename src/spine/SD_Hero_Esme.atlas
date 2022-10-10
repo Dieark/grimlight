@@ -1,0 +1,313 @@
+
+SD_Hero_Esme.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 276, 91
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 204, 418
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 469, 439
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+Lwristtie1
+  rotate: false
+  xy: 488, 396
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+Lwristtie2
+  rotate: false
+  xy: 335, 489
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 210, 201
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: 180
+  xy: 465, 137
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+Rshoulderfrill
+  rotate: false
+  xy: 420, 411
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Rwristknot
+  rotate: false
+  xy: 468, 419
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Rwristtie1
+  rotate: false
+  xy: 220, 380
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1
+Rwristtie2
+  rotate: false
+  xy: 204, 379
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 204, 291
+  size: 265, 221
+  orig: 265, 221
+  offset: 0, 0
+  index: -1
+backhairx
+  rotate: false
+  xy: 263, 216
+  size: 235, 192
+  orig: 370, 234
+  offset: 0, 42
+  index: -1
+backtie1
+  rotate: false
+  xy: 186, 24
+  size: 143, 65
+  orig: 143, 65
+  offset: 0, 0
+  index: -1
+crown1
+  rotate: false
+  xy: 83, 266
+  size: 136, 39
+  orig: 136, 39
+  offset: 0, 0
+  index: -1
+crown2
+  rotate: false
+  xy: 329, 18
+  size: 125, 19
+  orig: 125, 19
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 356, 37
+  size: 156, 90
+  orig: 156, 90
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 65
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 305
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: 270
+  xy: 20, 7
+  size: 88, 161
+  orig: 88, 161
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 0, 179
+  size: 126, 210
+  orig: 126, 210
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: 270
+  xy: 275, 127
+  size: 136, 220
+  orig: 136, 220
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 204, 507
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+mouthshock
+  rotate: false
+  xy: 494, 309
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 305, 486
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+tassel2
+  rotate: 180
+  xy: 204, 223
+  size: 71, 139
+  orig: 71, 139
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 121, 67
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Esme2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhip
+  rotate: false
+  xy: 145, 71
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 177, 133
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+Lshoulderfrill
+  rotate: true
+  xy: 195, 208
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Relbow
+  rotate: false
+  xy: 148, 279
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 180, 335
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 0, 59
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+backtie2
+  rotate: false
+  xy: 116, 147
+  size: 79, 131
+  orig: 79, 131
+  offset: 0, 0
+  index: -1
+backtie3
+  rotate: 270
+  xy: 19, 1
+  size: 72, 127
+  orig: 72, 127
+  offset: 0, 0
+  index: -1
+crownheart
+  rotate: true
+  xy: 146, 8
+  size: 63, 50
+  orig: 65, 52
+  offset: 1, 1
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 335
+  size: 153, 83
+  orig: 153, 83
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 179
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 418
+  size: 153, 90
+  orig: 153, 90
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 0, 251
+  size: 84, 149
+  orig: 84, 149
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 0, 107
+  size: 72, 145
+  orig: 72, 145
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 153, 432
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+tassel1
+  rotate: false
+  xy: 153, 338
+  size: 77, 140
+  orig: 77, 140
+  offset: 0, 0
+  index: -1

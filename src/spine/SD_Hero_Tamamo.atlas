@@ -1,0 +1,607 @@
+
+SD_Hero_Tamamo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbacksleeve2
+  rotate: false
+  xy: 389, 220
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1
+Lbacksleeve3
+  rotate: true
+  xy: 431, 1
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+Lchestribbon1
+  rotate: true
+  xy: 413, 6
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Lchestribbon2
+  rotate: false
+  xy: 496, 414
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 463, 411
+  size: 35, 98
+  orig: 35, 98
+  offset: 0, 0
+  index: -1
+Lmasktassel
+  rotate: false
+  xy: 496, 440
+  size: 11, 72
+  orig: 11, 72
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 139, 1
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 271, 218
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+Lstring
+  rotate: false
+  xy: 291, 207
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+Ltassel1
+  rotate: true
+  xy: 101, 2
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+Ltassel2
+  rotate: false
+  xy: 375, 402
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: true
+  xy: 491, 28
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Rchestribbon1
+  rotate: false
+  xy: 166, 45
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Rchestribbon2
+  rotate: true
+  xy: 475, 132
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Rear2
+  rotate: true
+  xy: 448, 359
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+Rearring
+  rotate: true
+  xy: 292, 36
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 442, 128
+  size: 33, 94
+  orig: 33, 94
+  offset: 0, 0
+  index: -1
+Rmasktassel
+  rotate: true
+  xy: 375, 285
+  size: 12, 74
+  orig: 12, 74
+  offset: 0, 0
+  index: -1
+Rstring
+  rotate: false
+  xy: 335, 1
+  size: 48, 10
+  orig: 48, 10
+  offset: 0, 0
+  index: -1
+Rtassel1
+  rotate: false
+  xy: 310, 250
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+Rtassel2
+  rotate: true
+  xy: 466, 397
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+Rtassel3
+  rotate: 180
+  xy: 375, 484
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 167, 31
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 298, 10
+  size: 165, 271
+  orig: 165, 271
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 446, 143
+  size: 59, 216
+  orig: 59, 216
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 314, 56
+  size: 76, 228
+  orig: 76, 228
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: false
+  xy: 271, 283
+  size: 105, 230
+  orig: 105, 230
+  offset: 0, 0
+  index: -1
+backtassel3
+  rotate: false
+  xy: 489, 311
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 375, 401
+  size: 112, 91
+  orig: 112, 91
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 101, 19
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 1
+  size: 101, 62
+  orig: 101, 62
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 188, 3
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+fanhandle
+  rotate: false
+  xy: 386, 1
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+fantassel1
+  rotate: true
+  xy: 455, 222
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+fantassel2
+  rotate: false
+  xy: 292, 3
+  size: 33, 7
+  orig: 33, 7
+  offset: 0, 0
+  index: -1
+frotndress
+  rotate: false
+  xy: 375, 297
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 188, 66
+  size: 126, 139
+  orig: 126, 139
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 0, 64
+  size: 141, 189
+  orig: 141, 189
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 299, 279
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 271, 223
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 271, 205
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: true
+  xy: 413, 24
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+templeglow
+  rotate: false
+  xy: 0, 204
+  size: 271, 309
+  orig: 271, 309
+  offset: 0, 0
+  index: -1
+waistribbon2
+  rotate: 180
+  xy: 428, 119
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Tamamo2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbacksleeve1
+  rotate: 180
+  xy: 434, 110
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+Lbacksleeve4
+  rotate: true
+  xy: 59, 69
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Lear1
+  rotate: 270
+  xy: 228, 62
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+Lear2
+  rotate: true
+  xy: 460, 76
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+Lear3
+  rotate: 180
+  xy: 459, 108
+  size: 53, 111
+  orig: 53, 111
+  offset: 0, 0
+  index: -1
+Learring
+  rotate: true
+  xy: 273, 265
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 261, 393
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Lsleeveknot
+  rotate: false
+  xy: 495, 307
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Rbacksleeve1
+  rotate: true
+  xy: 451, 331
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+Rbacksleeve2
+  rotate: true
+  xy: 161, 76
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+Rbacksleeve3
+  rotate: true
+  xy: 253, 78
+  size: 26, 80
+  orig: 26, 80
+  offset: 0, 0
+  index: -1
+Rbacksleeve4
+  rotate: true
+  xy: 290, 482
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+Rear1
+  rotate: true
+  xy: 330, 78
+  size: 29, 130
+  orig: 29, 131
+  offset: 0, 0
+  index: -1
+Rear3
+  rotate: 180
+  xy: 111, 77
+  size: 50, 94
+  orig: 50, 94
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 221, 166
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 276, 105
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: true
+  xy: 261, 216
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+Rsleeveknot
+  rotate: false
+  xy: 287, 382
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+backcape
+  rotate: 180
+  xy: 345, 158
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: true
+  xy: 0, 149
+  size: 64, 89
+  orig: 64, 98
+  offset: 0, 9
+  index: -1
+backtassel1
+  rotate: false
+  xy: 494, 467
+  size: 17, 46
+  orig: 17, 46
+  offset: 0, 0
+  index: -1
+backtassel2
+  rotate: true
+  xy: 350, 413
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 148, 102
+  size: 79, 133
+  orig: 79, 133
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 86, 130
+  size: 84, 135
+  orig: 84, 135
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 261, 357
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+centerbell
+  rotate: false
+  xy: 422, 264
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 351, 349
+  size: 101, 62
+  orig: 101, 62
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 346, 108
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 350, 431
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+fantop
+  rotate: false
+  xy: 192, 143
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+floating temple
+  rotate: false
+  xy: 0, 213
+  size: 261, 299
+  orig: 261, 299
+  offset: 0, 0
+  index: -1
+sash
+  rotate: false
+  xy: 452, 373
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 261, 283
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+tail3
+  rotate: true
+  xy: 424, 184
+  size: 109, 71
+  orig: 109, 71
+  offset: 0, 0
+  index: -1
+tail4
+  rotate: true
+  xy: 308, 225
+  size: 72, 109
+  orig: 72, 109
+  offset: 0, 0
+  index: -1
+tail5
+  rotate: true
+  xy: 430, 403
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+tail6
+  rotate: false
+  xy: 377, 286
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+tail7
+  rotate: false
+  xy: 261, 389
+  size: 90, 123
+  orig: 90, 123
+  offset: 0, 0
+  index: -1
+tail8
+  rotate: true
+  xy: 248, 137
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+tail9
+  rotate: 180
+  xy: 0, 89
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+waistribbon1
+  rotate: false
+  xy: 493, 452
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1

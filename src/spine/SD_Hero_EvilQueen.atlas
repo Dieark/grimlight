@@ -1,0 +1,599 @@
+
+SD_Hero_EvilQueen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lbacksleeve
+  rotate: false
+  xy: 492, 106
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Lbangsz
+  rotate: true
+  xy: 183, 8
+  size: 47, 126
+  orig: 47, 126
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 309, 2
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: true
+  xy: 0, 11
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+Llegz
+  rotate: 270
+  xy: 238, 22
+  size: 54, 215
+  orig: 54, 215
+  offset: 0, 0
+  index: -1
+Lshoulderfabric
+  rotate: true
+  xy: 212, 59
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 411, 77
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 391, 3
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 91, 11
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+Rhornz
+  rotate: false
+  xy: 472, 436
+  size: 27, 76
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+Rlegz
+  rotate: false
+  xy: 472, 273
+  size: 35, 157
+  orig: 35, 157
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 212, 30
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+Rshoulderfabric
+  rotate: false
+  xy: 472, 409
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: 180
+  xy: 434, 7
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+energy1z
+  rotate: true
+  xy: 411, 106
+  size: 167, 81
+  orig: 167, 81
+  offset: 0, 0
+  index: -1
+mirrorfadein1
+  rotate: false
+  xy: 0, 272
+  size: 249, 240
+  orig: 249, 240
+  offset: 0, 0
+  index: -1
+mirrorfadein2
+  rotate: true
+  xy: 249, 272
+  size: 235, 223
+  orig: 235, 223
+  offset: 0, 0
+  index: -1
+mirrorfadein3
+  rotate: false
+  xy: 0, 64
+  size: 212, 208
+  orig: 212, 208
+  offset: 0, 0
+  index: -1
+mirrorfadein4
+  rotate: false
+  xy: 212, 75
+  size: 199, 197
+  orig: 199, 197
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 183, 58
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 249, 509
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 472, 400
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 314, 61
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+
+SD_Hero_EvilQueen2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 269, 94
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 199, 163
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Lhornz
+  rotate: true
+  xy: 0, 5
+  size: 31, 83
+  orig: 31, 83
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 480, 132
+  size: 24, 59
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 203, 90
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Rarmz
+  rotate: true
+  xy: 332, 143
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Rcapez
+  rotate: false
+  xy: 237, 188
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+Rdressz
+  rotate: true
+  xy: 109, 57
+  size: 148, 268
+  orig: 148, 268
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 360, 192
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Rhandz
+  rotate: false
+  xy: 156, 190
+  size: 81, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 483, 203
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: true
+  xy: 385, 318
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: true
+  xy: 259, 205
+  size: 46, 152
+  orig: 46, 152
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 364, 342
+  size: 131, 170
+  orig: 131, 170
+  offset: 0, 0
+  index: -1
+bighorn_backz
+  rotate: 270
+  xy: 291, 53
+  size: 214, 192
+  orig: 214, 192
+  offset: 0, 0
+  index: -1
+cape_leftz
+  rotate: false
+  xy: 0, 210
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 79, 140
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+crownz
+  rotate: false
+  xy: 461, 4
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+dress_backz
+  rotate: 180
+  xy: 0, 139
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+dress_xLz
+  rotate: true
+  xy: 109, 10
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+energy3z
+  rotate: false
+  xy: 421, 49
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+eye_glowz
+  rotate: false
+  xy: 200, 3
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 387, 9
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 459, 262
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 303, 3
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 4, 35
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+facez
+  rotate: false
+  xy: 0, 258
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+mirror
+  rotate: false
+  xy: 182, 332
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+mirrorfadein5
+  rotate: false
+  xy: 0, 332
+  size: 183, 179
+  orig: 183, 179
+  offset: 0, 0
+  index: -1
+torsoz
+  rotate: true
+  xy: 160, 11
+  size: 83, 143
+  orig: 95, 144
+  offset: 0, 1
+  index: -1
+zdress_back2
+  rotate: false
+  xy: 145, 227
+  size: 314, 107
+  orig: 314, 107
+  offset: 0, 0
+  index: -1
+
+SD_Hero_EvilQueen3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larmz
+  rotate: false
+  xy: 188, 476
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Ldress
+  rotate: false
+  xy: 167, 271
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+Ldressz
+  rotate: false
+  xy: 323, 248
+  size: 141, 265
+  orig: 141, 265
+  offset: 0, 0
+  index: -1
+Lfingerz
+  rotate: false
+  xy: 76, 463
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Lhandz
+  rotate: false
+  xy: 149, 86
+  size: 89, 130
+  orig: 89, 137
+  offset: 0, 0
+  index: -1
+Rbangsz
+  rotate: true
+  xy: 238, 402
+  size: 34, 126
+  orig: 34, 126
+  offset: 0, 0
+  index: -1
+Rdress
+  rotate: false
+  xy: 74, 315
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+Rfingersz
+  rotate: false
+  xy: 0, 198
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 193, 65
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 226, 133
+  size: 71, 166
+  orig: 71, 166
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 233, 88
+  size: 53, 157
+  orig: 53, 157
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 313, 72
+  size: 66, 120
+  orig: 68, 120
+  offset: 2, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 129, 278
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 44, 214
+  size: 120, 214
+  orig: 120, 214
+  offset: 0, 0
+  index: -1
+bighornLz
+  rotate: false
+  xy: 0, 268
+  size: 176, 245
+  orig: 176, 245
+  offset: 0, 0
+  index: -1
+bighornRz
+  rotate: false
+  xy: 172, 246
+  size: 167, 266
+  orig: 167, 266
+  offset: 0, 0
+  index: -1
+dress_xRz
+  rotate: false
+  xy: 0, 373
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+dressback_Lz
+  rotate: false
+  xy: 308, 133
+  size: 203, 169
+  orig: 203, 169
+  offset: 0, 0
+  index: -1
+dressback_Rz
+  rotate: 180
+  xy: 16, 136
+  size: 147, 152
+  orig: 147, 152
+  offset: 0, 0
+  index: -1
+energy2z
+  rotate: false
+  xy: 0, 435
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+eye_openz
+  rotate: false
+  xy: 387, 155
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 297, 198
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 77, 75
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+hair_backz
+  rotate: false
+  xy: 386, 224
+  size: 126, 180
+  orig: 126, 180
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 453, 453
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+windowvoid1
+  rotate: false
+  xy: 234, 435
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+windowvoid2
+  rotate: false
+  xy: 305, 435
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+windowvoid3
+  rotate: true
+  xy: 0, 126
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+windowvoid4
+  rotate: true
+  xy: 434, 125
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1

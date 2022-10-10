@@ -1,0 +1,454 @@
+
+SD_Hero_Thumbelina_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 101, 357
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 190, 373
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lhipribbon
+  rotate: false
+  xy: 0, 316
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 446, 301
+  size: 32, 85
+  orig: 32, 85
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 356, 356
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Lshoulderfrill
+  rotate: false
+  xy: 426, 322
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 276, 498
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: false
+  xy: 389, 344
+  size: 111, 169
+  orig: 111, 169
+  offset: 0, 0
+  index: -1
+Lwingribbon1
+  rotate: 180
+  xy: 469, 20
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+Lwingribbon2
+  rotate: 270
+  xy: 36, 53
+  size: 46, 126
+  orig: 46, 126
+  offset: 0, 0
+  index: -1
+Lwingribbon3
+  rotate: true
+  xy: 79, 33
+  size: 25, 79
+  orig: 25, 79
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 369, 456
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Rglove
+  rotate: false
+  xy: 477, 437
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Rhipribbon
+  rotate: false
+  xy: 427, 489
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 481, 109
+  size: 31, 82
+  orig: 31, 82
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 215, 147
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+Rshoulderribbon
+  rotate: false
+  xy: 289, 314
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 477, 317
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: 180
+  xy: 279, 336
+  size: 113, 177
+  orig: 113, 177
+  offset: 0, 0
+  index: -1
+Rwingribbon1
+  rotate: false
+  xy: 473, 338
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+Rwingribbon2
+  rotate: true
+  xy: 365, 41
+  size: 28, 133
+  orig: 28, 133
+  offset: 0, 0
+  index: -1
+Rwingribbon3
+  rotate: true
+  xy: 311, 22
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Rwingribbon4
+  rotate: 270
+  xy: 270, 52
+  size: 37, 138
+  orig: 37, 138
+  offset: 0, 0
+  index: -1
+backdress1
+  rotate: false
+  xy: 314, 286
+  size: 112, 63
+  orig: 112, 63
+  offset: 0, 0
+  index: -1
+backdress2
+  rotate: true
+  xy: 190, 371
+  size: 141, 91
+  orig: 141, 91
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 364, 191
+  size: 59, 141
+  orig: 59, 141
+  offset: 0, 0
+  index: -1
+bangs10
+  rotate: false
+  xy: 32, 231
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+bangs11
+  rotate: 270
+  xy: 183, 51
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+bangs12
+  rotate: 270
+  xy: 338, 113
+  size: 37, 139
+  orig: 37, 139
+  offset: 0, 0
+  index: -1
+bangs13
+  rotate: true
+  xy: 38, 25
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+bangs14
+  rotate: false
+  xy: 350, 458
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+bangs15
+  rotate: 270
+  xy: 3, 94
+  size: 39, 128
+  orig: 39, 128
+  offset: 0, 0
+  index: -1
+bangs16
+  rotate: true
+  xy: 202, 80
+  size: 67, 136
+  orig: 67, 136
+  offset: 0, 0
+  index: -1
+bangs17
+  rotate: 270
+  xy: 388, 16
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 374, 233
+  size: 95, 138
+  orig: 96, 138
+  offset: 1, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 199, 275
+  size: 91, 106
+  orig: 92, 106
+  offset: 1, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 425, 296
+  size: 21, 26
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 0, 37
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 92, 70
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: 270
+  xy: 92, 163
+  size: 76, 123
+  orig: 76, 123
+  offset: 0, 0
+  index: -1
+bangs9
+  rotate: 270
+  xy: 101, 112
+  size: 72, 153
+  orig: 72, 153
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 264, 167
+  size: 101, 47
+  orig: 101, 47
+  offset: 0, 0
+  index: -1
+eyehappy
+  rotate: false
+  xy: 0, 175
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 338, 70
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 365, 145
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 129
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 190, 201
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 384
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+floralnecklace
+  rotate: false
+  xy: 329, 357
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+hairdec1
+  rotate: true
+  xy: 122, 237
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+hairdec2
+  rotate: false
+  xy: 419, 67
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+hairdec3
+  rotate: false
+  xy: 0, 244
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+hairdec3x
+  rotate: false
+  xy: 259, 34
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+hairfrill1
+  rotate: 270
+  xy: 158, 26
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+hairfrill2
+  rotate: 270
+  xy: 248, 129
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 336, 481
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 208, 506
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 287, 502
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 190, 496
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 274
+  size: 102, 111
+  orig: 102, 133
+  offset: 0, 22
+  index: -1
+weaponmic
+  rotate: true
+  xy: 277, 215
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+weaponribbon1
+  rotate: false
+  xy: 442, 467
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+weaponribbon2
+  rotate: false
+  xy: 200, 28
+  size: 58, 24
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+weaponstaff
+  rotate: true
+  xy: 127, 269
+  size: 244, 63
+  orig: 244, 63
+  offset: 0, 0
+  index: -1

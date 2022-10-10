@@ -1,0 +1,418 @@
+
+SD_Hero_Alice.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leyeheart
+  rotate: false
+  xy: 455, 306
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Lfootbow
+  rotate: false
+  xy: 201, 174
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 482, 138
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 455, 361
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Lwaistbow
+  rotate: false
+  xy: 455, 338
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Reyeheart
+  rotate: false
+  xy: 275, 143
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Rfootbow
+  rotate: false
+  xy: 493, 498
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Rwaistbow
+  rotate: false
+  xy: 201, 144
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 201, 137
+  size: 144, 215
+  orig: 144, 215
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 415, 139
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 468, 254
+  size: 44, 124
+  orig: 44, 124
+  offset: 0, 0
+  index: -1
+bow4
+  rotate: 180
+  xy: 138, 2
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+bowtie
+  rotate: false
+  xy: 490, 377
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: true
+  xy: 455, 377
+  size: 135, 44
+  orig: 135, 44
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 415, 162
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 201, 1
+  size: 141, 144
+  orig: 141, 144
+  offset: 0, 0
+  index: -1
+moushout
+  rotate: false
+  xy: 455, 319
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 201, 286
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 263, 144
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+neckbow1
+  rotate: false
+  xy: 483, 218
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+neckbow2
+  rotate: false
+  xy: 227, 143
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+scabbard
+  rotate: false
+  xy: 345, 40
+  size: 159, 98
+  orig: 159, 98
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 0, 11
+  size: 141, 82
+  orig: 144, 85
+  offset: 2, 2
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 93
+  size: 197, 201
+  orig: 202, 203
+  offset: 2, 1
+  index: -1
+slash4
+  rotate: false
+  xy: 257, 281
+  size: 198, 231
+  orig: 202, 233
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 290
+  size: 257, 222
+  orig: 260, 224
+  offset: 1, 1
+  index: -1
+swordrag1
+  rotate: false
+  xy: 141, 52
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+swordrag3
+  rotate: false
+  xy: 141, 73
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+weaponglow
+  rotate: false
+  xy: 345, 12
+  size: 137, 29
+  orig: 137, 29
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Alice2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 315, 176
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 330, 56
+  size: 38, 113
+  orig: 38, 113
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 192, 161
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 123, 204
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 230, 374
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 216, 69
+  size: 38, 114
+  orig: 38, 114
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 476, 57
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: 270
+  xy: 311, 134
+  size: 107, 200
+  orig: 107, 200
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: true
+  xy: 0, 286
+  size: 64, 198
+  orig: 64, 198
+  offset: 0, 0
+  index: -1
+backribbon
+  rotate: false
+  xy: 90, 130
+  size: 120, 97
+  orig: 120, 97
+  offset: 0, 0
+  index: -1
+bang1
+  rotate: 270
+  xy: 87, 73
+  size: 77, 146
+  orig: 77, 146
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 223, 253
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 180
+  xy: 258, 107
+  size: 80, 144
+  orig: 80, 144
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: 270
+  xy: 109, 209
+  size: 89, 163
+  orig: 89, 163
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 320, 86
+  size: 40, 142
+  orig: 40, 142
+  offset: 0, 0
+  index: -1
+bow1
+  rotate: false
+  xy: 343, 289
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+bow2
+  rotate: false
+  xy: 19, 61
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+bow3
+  rotate: true
+  xy: 447, 234
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: true
+  xy: 455, 365
+  size: 148, 41
+  orig: 148, 41
+  offset: 0, 0
+  index: -1
+dressbelt
+  rotate: false
+  xy: 396, 122
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 337, 213
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 394, 280
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 201
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 385, 472
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 349
+  size: 230, 64
+  orig: 233, 67
+  offset: 1, 2
+  index: -1
+sword
+  rotate: false
+  xy: 0, 413
+  size: 386, 100
+  orig: 386, 100
+  offset: 0, 0
+  index: -1
+swordrag2
+  rotate: true
+  xy: 0, 68
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+tophair
+  rotate: false
+  xy: 286, 345
+  size: 169, 124
+  orig: 169, 124
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 133
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1

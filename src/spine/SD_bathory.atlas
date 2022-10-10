@@ -1,0 +1,313 @@
+
+SD_bathory.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhorn
+  rotate: true
+  xy: 170, 7
+  size: 57, 122
+  orig: 57, 124
+  offset: 0, 2
+  index: -1
+Lleg
+  rotate: false
+  xy: 467, 19
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: false
+  xy: 467, 177
+  size: 43, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 467, 225
+  size: 30, 98
+  orig: 30, 98
+  offset: 0, 0
+  index: -1
+Rshoulderwing
+  rotate: true
+  xy: 465, 442
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 71, 5
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+bang5
+  rotate: false
+  xy: 465, 323
+  size: 28, 120
+  orig: 28, 121
+  offset: 0, 0
+  index: -1
+bladeglow
+  rotate: false
+  xy: 292, 2
+  size: 172, 39
+  orig: 174, 41
+  offset: 1, 1
+  index: -1
+mouthfurious
+  rotate: false
+  xy: 0, 3
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 487, 334
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 486, 323
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 276, 250
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+moutshmile
+  rotate: false
+  xy: 487, 341
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 467, 119
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 297, 41
+  size: 170, 225
+  orig: 185, 244
+  offset: 4, 17
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 64
+  size: 297, 184
+  orig: 311, 188
+  offset: 1, 2
+  index: -1
+slash3
+  rotate: false
+  xy: 0, 248
+  size: 276, 262
+  orig: 278, 263
+  offset: 0, 0
+  index: -1
+slash4
+  rotate: false
+  xy: 276, 266
+  size: 189, 244
+  orig: 190, 245
+  offset: 0, 0
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 19
+  size: 170, 45
+  orig: 171, 47
+  offset: 1, 1
+  index: -1
+
+SD_bathory2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 169, 426
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Lelbow
+  rotate: false
+  xy: 57, 93
+  size: 37, 48
+  orig: 38, 49
+  offset: 1, 1
+  index: -1
+Lhand
+  rotate: true
+  xy: 480, 271
+  size: 29, 28
+  orig: 29, 29
+  offset: 0, 1
+  index: -1
+Lhipplate
+  rotate: false
+  xy: 285, 336
+  size: 57, 47
+  orig: 58, 47
+  offset: 1, 0
+  index: -1
+Lshoulderplate
+  rotate: false
+  xy: 169, 473
+  size: 38, 36
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 169, 381
+  size: 28, 45
+  orig: 29, 46
+  offset: 0, 1
+  index: -1
+Relbow
+  rotate: false
+  xy: 450, 88
+  size: 34, 46
+  orig: 34, 47
+  offset: 0, 1
+  index: -1
+Rhand
+  rotate: false
+  xy: 0, 328
+  size: 23, 40
+  orig: 23, 44
+  offset: 0, 1
+  index: -1
+Rhorn
+  rotate: false
+  xy: 435, 389
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: false
+  xy: 256, 349
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 305
+  size: 170, 204
+  orig: 170, 204
+  offset: 0, 0
+  index: -1
+bang1
+  rotate: true
+  xy: 65, 129
+  size: 73, 196
+  orig: 77, 196
+  offset: 0, 0
+  index: -1
+bang2
+  rotate: false
+  xy: 366, 192
+  size: 114, 102
+  orig: 114, 102
+  offset: 0, 0
+  index: -1
+bang3
+  rotate: 270
+  xy: 173, 81
+  size: 87, 133
+  orig: 87, 133
+  offset: 0, 0
+  index: -1
+bang4
+  rotate: 180
+  xy: 161, 286
+  size: 181, 224
+  orig: 181, 224
+  offset: 0, 0
+  index: -1
+cape
+  rotate: 270
+  xy: 236, 203
+  size: 141, 131
+  orig: 141, 131
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 383, 79
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 270
+  xy: 136, 161
+  size: 134, 94
+  orig: 134, 94
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 435, 300
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 0, 105
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 385, 135
+  size: 101, 58
+  orig: 101, 58
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 307, 125
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 201
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 342, 293
+  size: 216, 93
+  orig: 218, 93
+  offset: 1, 0
+  index: -1

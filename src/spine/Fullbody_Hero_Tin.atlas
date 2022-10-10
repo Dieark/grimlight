@@ -1,0 +1,636 @@
+
+Fullbody_Hero_Tin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 1024, 866
+  size: 151, 193
+  orig: 153, 195
+  offset: 1, 1
+  index: -1
+Larm2
+  rotate: false
+  xy: 1715, 1453
+  size: 83, 218
+  orig: 83, 218
+  offset: 0, 0
+  index: -1
+Lelbowguard
+  rotate: false
+  xy: 1942, 1341
+  size: 106, 95
+  orig: 108, 97
+  offset: 1, 1
+  index: -1
+Leyelash
+  rotate: false
+  xy: 1181, 1134
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 1576, 2023
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: true
+  xy: 1496, 848
+  size: 90, 201
+  orig: 93, 203
+  offset: 1, 1
+  index: -1
+Lfootbottomrim
+  rotate: false
+  xy: 2018, 1948
+  size: 27, 31
+  orig: 29, 33
+  offset: 1, 1
+  index: -1
+Lhand
+  rotate: false
+  xy: 1380, 736
+  size: 102, 84
+  orig: 104, 86
+  offset: 1, 1
+  index: -1
+Lhandplate
+  rotate: false
+  xy: 1739, 1379
+  size: 77, 74
+  orig: 79, 76
+  offset: 1, 1
+  index: -1
+Lhandplateback
+  rotate: false
+  xy: 2018, 1897
+  size: 21, 19
+  orig: 23, 21
+  offset: 1, 1
+  index: -1
+Lhipplate
+  rotate: true
+  xy: 580, 848
+  size: 120, 180
+  orig: 122, 182
+  offset: 1, 1
+  index: -1
+Lkneeplate
+  rotate: false
+  xy: 1330, 1303
+  size: 106, 155
+  orig: 108, 157
+  offset: 1, 1
+  index: -1
+Lkneesideplate1
+  rotate: true
+  xy: 277, 716
+  size: 48, 163
+  orig: 50, 165
+  offset: 1, 1
+  index: -1
+Lkneesideplate2
+  rotate: false
+  xy: 0, 711
+  size: 36, 159
+  orig: 38, 161
+  offset: 1, 1
+  index: -1
+Lleg1
+  rotate: true
+  xy: 327, 961
+  size: 127, 253
+  orig: 129, 255
+  offset: 1, 1
+  index: -1
+Lleg2
+  rotate: true
+  xy: 1181, 978
+  size: 99, 342
+  orig: 101, 344
+  offset: 1, 1
+  index: -1
+Lponytail
+  rotate: 180
+  xy: 1629, 1321
+  size: 375, 727
+  orig: 375, 727
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 2018, 1979
+  size: 26, 34
+  orig: 101, 40
+  offset: 75, 6
+  index: -1
+Lshoulderplate1
+  rotate: true
+  xy: 298, 764
+  size: 86, 154
+  orig: 89, 169
+  offset: 2, 1
+  index: -1
+Lshoulderplate2
+  rotate: false
+  xy: 536, 1254
+  size: 55, 66
+  orig: 57, 68
+  offset: 1, 1
+  index: -1
+Lshoulderplate3
+  rotate: false
+  xy: 580, 975
+  size: 49, 61
+  orig: 51, 63
+  offset: 1, 1
+  index: -1
+Lshoulderplateback
+  rotate: true
+  xy: 768, 920
+  size: 53, 77
+  orig: 55, 79
+  offset: 1, 1
+  index: -1
+Lthumb
+  rotate: true
+  xy: 1636, 1790
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+Lwristplate
+  rotate: true
+  xy: 1245, 762
+  size: 98, 135
+  orig: 100, 137
+  offset: 1, 1
+  index: -1
+Lwristplateback
+  rotate: false
+  xy: 2004, 1447
+  size: 42, 88
+  orig: 44, 90
+  offset: 1, 1
+  index: -1
+Rarm1
+  rotate: false
+  xy: 1650, 1037
+  size: 107, 177
+  orig: 109, 179
+  offset: 1, 1
+  index: -1
+Rarm2
+  rotate: true
+  xy: 1175, 860
+  size: 118, 206
+  orig: 120, 208
+  offset: 1, 1
+  index: -1
+Relbowguard
+  rotate: true
+  xy: 502, 859
+  size: 102, 75
+  orig: 104, 77
+  offset: 1, 1
+  index: -1
+Relbowguardback
+  rotate: true
+  xy: 604, 771
+  size: 77, 157
+  orig: 80, 159
+  offset: 2, 1
+  index: -1
+Relbowplate
+  rotate: true
+  xy: 1637, 752
+  size: 70, 156
+  orig: 72, 158
+  offset: 1, 1
+  index: -1
+Relbowplateback
+  rotate: false
+  xy: 2018, 1916
+  size: 25, 32
+  orig: 27, 34
+  offset: 1, 1
+  index: -1
+Relbowsideplate
+  rotate: false
+  xy: 972, 1195
+  size: 38, 151
+  orig: 40, 154
+  offset: 1, 1
+  index: -1
+Reyelash
+  rotate: false
+  xy: 1465, 1167
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: false
+  xy: 1842, 1839
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+Rfingers
+  rotate: false
+  xy: 1269, 1377
+  size: 57, 81
+  orig: 59, 83
+  offset: 1, 1
+  index: -1
+Rfoot
+  rotate: 270
+  xy: 760, 787
+  size: 113, 203
+  orig: 113, 203
+  offset: 0, 0
+  index: -1
+Rfootbottomrim
+  rotate: false
+  xy: 1675, 1595
+  size: 35, 28
+  orig: 37, 30
+  offset: 1, 1
+  index: -1
+Rgauntletplate
+  rotate: false
+  xy: 594, 1145
+  size: 32, 91
+  orig: 34, 93
+  offset: 1, 1
+  index: -1
+Rgauntletplateback
+  rotate: false
+  xy: 1438, 2029
+  size: 14, 19
+  orig: 16, 21
+  offset: 1, 1
+  index: -1
+Rhand
+  rotate: true
+  xy: 604, 701
+  size: 70, 131
+  orig: 72, 133
+  offset: 1, 1
+  index: -1
+Rhipplate
+  rotate: true
+  xy: 0, 870
+  size: 151, 195
+  orig: 153, 197
+  offset: 1, 1
+  index: -1
+Rkneeplate
+  rotate: false
+  xy: 1381, 820
+  size: 115, 158
+  orig: 117, 160
+  offset: 1, 1
+  index: -1
+Rkneeplate1
+  rotate: false
+  xy: 1670, 1623
+  size: 47, 159
+  orig: 49, 161
+  offset: 1, 1
+  index: -1
+Rkneeplate2
+  rotate: false
+  xy: 2003, 1535
+  size: 39, 160
+  orig: 41, 162
+  offset: 1, 1
+  index: -1
+Rleg1
+  rotate: true
+  xy: 888, 1059
+  size: 126, 293
+  orig: 128, 295
+  offset: 1, 1
+  index: -1
+Rleg2
+  rotate: true
+  xy: 1523, 938
+  size: 96, 350
+  orig: 98, 352
+  offset: 1, 1
+  index: -1
+Rponytail
+  rotate: 270
+  xy: 1010, 1075
+  size: 358, 622
+  orig: 358, 622
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 536, 1500
+  size: 31, 34
+  orig: 101, 40
+  offset: 0, 0
+  index: -1
+Rshoulderplate1
+  rotate: false
+  xy: 845, 887
+  size: 179, 172
+  orig: 181, 175
+  offset: 1, 2
+  index: -1
+Rshoulderplate1back
+  rotate: false
+  xy: 2018, 2012
+  size: 26, 36
+  orig: 28, 38
+  offset: 1, 1
+  index: -1
+Rshoulderplate2
+  rotate: true
+  xy: 1966, 720
+  size: 124, 78
+  orig: 126, 85
+  offset: 1, 6
+  index: -1
+Rshoulderplate2back
+  rotate: false
+  xy: 1760, 2004
+  size: 17, 25
+  orig: 19, 27
+  offset: 1, 1
+  index: -1
+Rshoulderplate3
+  rotate: false
+  xy: 1245, 701
+  size: 105, 61
+  orig: 107, 63
+  offset: 1, 1
+  index: -1
+Rshoulderplate3back
+  rotate: false
+  xy: 1682, 2031
+  size: 14, 17
+  orig: 16, 19
+  offset: 1, 1
+  index: -1
+Rthumb
+  rotate: false
+  xy: 935, 1190
+  size: 37, 107
+  orig: 37, 107
+  offset: 0, 0
+  index: -1
+Rwristguard
+  rotate: true
+  xy: 761, 705
+  size: 82, 128
+  orig: 84, 132
+  offset: 1, 1
+  index: -1
+Rwristguardback
+  rotate: false
+  xy: 1562, 1139
+  size: 73, 67
+  orig: 75, 69
+  offset: 1, 1
+  index: -1
+Rwristplateback
+  rotate: false
+  xy: 1697, 2009
+  size: 25, 39
+  orig: 27, 41
+  offset: 1, 1
+  index: -1
+annoy
+  rotate: false
+  xy: 1826, 750
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: 270
+  xy: 111, 816
+  size: 198, 216
+  orig: 198, 216
+  offset: 0, 0
+  index: -1
+backhead
+  rotate: false
+  xy: 621, 968
+  size: 232, 192
+  orig: 232, 192
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 1864, 1695
+  size: 163, 184
+  orig: 163, 184
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 47, 739
+  size: 102, 251
+  orig: 102, 251
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 1723, 1893
+  size: 54, 155
+  orig: 54, 155
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 1797, 1493
+  size: 40, 140
+  orig: 40, 140
+  offset: 0, 0
+  index: -1
+cape
+  rotate: 180
+  xy: 1437, 1206
+  size: 320, 843
+  orig: 320, 843
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 0, 1021
+  size: 228, 327
+  orig: 230, 329
+  offset: 1, 1
+  index: -1
+dress
+  rotate: false
+  xy: 536, 1152
+  size: 480, 382
+  orig: 480, 382
+  offset: 0, 0
+  index: -1
+eyebrows
+  rotate: false
+  xy: 946, 1514
+  size: 65, 19
+  orig: 123, 19
+  offset: 0, 0
+  index: -1
+eyewhite
+  rotate: false
+  xy: 1201, 1424
+  size: 47, 35
+  orig: 122, 39
+  offset: 75, 4
+  index: -1
+eyewhiteRight
+  rotate: false
+  xy: 1949, 1664
+  size: 48, 33
+  orig: 122, 39
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1873, 844
+  size: 160, 190
+  orig: 160, 190
+  offset: 0, 0
+  index: -1
+halberd1
+  rotate: true
+  xy: 536, 1533
+  size: 515, 482
+  orig: 517, 486
+  offset: 1, 3
+  index: -1
+halberd2
+  rotate: true
+  xy: 1697, 822
+  size: 116, 129
+  orig: 118, 131
+  offset: 1, 1
+  index: -1
+halberd3
+  rotate: false
+  xy: 1757, 1034
+  size: 289, 287
+  orig: 291, 289
+  offset: 1, 1
+  index: -1
+happy
+  rotate: false
+  xy: 463, 755
+  size: 141, 103
+  orig: 141, 103
+  offset: 0, 0
+  index: -1
+log1
+  rotate: true
+  xy: 1018, 1458
+  size: 590, 420
+  orig: 592, 422
+  offset: 1, 1
+  index: -1
+log2
+  rotate: false
+  xy: 1779, 1857
+  size: 239, 191
+  orig: 241, 193
+  offset: 1, 1
+  index: -1
+mouthidle
+  rotate: false
+  xy: 1751, 2029
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 899, 706
+  size: 64, 86
+  orig: 66, 88
+  offset: 1, 1
+  index: -1
+neckback
+  rotate: false
+  xy: 1181, 1094
+  size: 116, 38
+  orig: 118, 40
+  offset: 1, 1
+  index: -1
+platebuckle1
+  rotate: false
+  xy: 1822, 1776
+  size: 39, 82
+  orig: 39, 82
+  offset: 0, 0
+  index: -1
+platebuckle2
+  rotate: false
+  xy: 1717, 1683
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+platebuckle3
+  rotate: false
+  xy: 1403, 1236
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1496, 751
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 0, 1249
+  size: 536, 799
+  orig: 538, 801
+  offset: 1, 1
+  index: -1
+shout
+  rotate: false
+  xy: 1104, 756
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 326, 850
+  size: 176, 111
+  orig: 176, 111
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 963, 755
+  size: 141, 111
+  orig: 141, 111
+  offset: 0, 0
+  index: -1
+waistplate
+  rotate: false
+  xy: 327, 1088
+  size: 267, 161
+  orig: 269, 163
+  offset: 1, 1
+  index: -1

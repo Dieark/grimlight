@@ -1,0 +1,362 @@
+
+SD_Caterpillar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ldressflap
+  rotate: true
+  xy: 346, 263
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 460, 10
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Lshoulderbutterfly
+  rotate: false
+  xy: 175, 7
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Lshouldertassel
+  rotate: false
+  xy: 475, 60
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Lsleeve
+  rotate: false
+  xy: 448, 454
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 405, 398
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Rbottomsleeve
+  rotate: true
+  xy: 0, 14
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 173, 291
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 194, 5
+  size: 46, 127
+  orig: 46, 127
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 473, 333
+  size: 38, 67
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+Rshoulderbutterfly
+  rotate: false
+  xy: 491, 399
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Rshouldertassel
+  rotate: false
+  xy: 284, 62
+  size: 53, 44
+  orig: 55, 44
+  offset: 2, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 232, 47
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 357, 486
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: true
+  xy: 173, 108
+  size: 219, 174
+  orig: 219, 174
+  offset: 0, 0
+  index: -1
+bang2
+  rotate: false
+  xy: 426, 181
+  size: 77, 151
+  orig: 77, 151
+  offset: 0, 0
+  index: -1
+bang5
+  rotate: 270
+  xy: 35, 8
+  size: 101, 200
+  orig: 101, 200
+  offset: 0, 0
+  index: -1
+bang6
+  rotate: false
+  xy: 346, 299
+  size: 148, 213
+  orig: 148, 213
+  offset: 0, 0
+  index: -1
+bang7
+  rotate: false
+  xy: 214, 302
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+butterflydec
+  rotate: false
+  xy: 357, 350
+  size: 49, 131
+  orig: 49, 131
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 180
+  xy: 271, 42
+  size: 241, 222
+  orig: 242, 222
+  offset: 1, 0
+  index: -1
+face
+  rotate: false
+  xy: 173, 326
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 238, 317
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 346, 294
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 173, 276
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 357, 332
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 451, 100
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 321, 7
+  size: 140, 38
+  orig: 140, 38
+  offset: 0, 0
+  index: -1
+vial
+  rotate: false
+  xy: 0, 73
+  size: 174, 439
+  orig: 174, 439
+  offset: 0, 0
+  index: -1
+vialleaf1
+  rotate: true
+  xy: 173, 98
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+vialleaf2
+  rotate: false
+  xy: 359, 318
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+vialleaf3
+  rotate: true
+  xy: 347, 216
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+
+SD_Caterpillar2.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyeclosed
+  rotate: false
+  xy: 300, 264
+  size: 136, 78
+  orig: 136, 78
+  offset: 0, 0
+  index: -1
+Eyehurt
+  rotate: false
+  xy: 177, 218
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1
+Eyemid
+  rotate: true
+  xy: 300, 342
+  size: 140, 79
+  orig: 140, 79
+  offset: 0, 0
+  index: -1
+Eyeopen
+  rotate: true
+  xy: 221, 284
+  size: 141, 79
+  orig: 141, 79
+  offset: 0, 0
+  index: -1
+Eyeshocked
+  rotate: false
+  xy: 0, 374
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+Lbacksleeve
+  rotate: false
+  xy: 234, 454
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 180
+  xy: 108, 351
+  size: 44, 131
+  orig: 44, 131
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 27, 339
+  size: 36, 63
+  orig: 36, 63
+  offset: 0, 0
+  index: -1
+Lwing
+  rotate: true
+  xy: 54, 70
+  size: 89, 148
+  orig: 89, 148
+  offset: 0, 0
+  index: -1
+Rdressflap
+  rotate: false
+  xy: 403, 92
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+Rwing
+  rotate: true
+  xy: 124, 111
+  size: 102, 149
+  orig: 102, 149
+  offset: 0, 0
+  index: -1
+bang1
+  rotate: true
+  xy: 5, 222
+  size: 84, 173
+  orig: 84, 173
+  offset: 0, 0
+  index: -1
+bang3
+  rotate: true
+  xy: 267, 105
+  size: 68, 136
+  orig: 68, 136
+  offset: 0, 0
+  index: -1
+bang4
+  rotate: 270
+  xy: 295, 191
+  size: 108, 185
+  orig: 108, 185
+  offset: 0, 0
+  index: -1
+bang8
+  rotate: false
+  xy: 0, 273
+  size: 234, 210
+  orig: 234, 210
+  offset: 0, 0
+  index: -1
+vialleaf4
+  rotate: true
+  xy: 195, 72
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+vialleaf5
+  rotate: 180
+  xy: 379, 405
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+vialvine
+  rotate: true
+  xy: 0, 98
+  size: 135, 160
+  orig: 137, 160
+  offset: 1, 0
+  index: -1

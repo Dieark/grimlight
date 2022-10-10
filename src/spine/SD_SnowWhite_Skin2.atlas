@@ -1,0 +1,271 @@
+
+SD_SnowWhite_Skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 341, 183
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 329, 462
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 458, 319
+  size: 43, 120
+  orig: 43, 120
+  offset: 0, 0
+  index: -1
+Lleg_bow
+  rotate: false
+  xy: 217, 200
+  size: 15, 47
+  orig: 15, 47
+  offset: 0, 0
+  index: -1
+Lsleeve_front
+  rotate: 180
+  xy: 363, 7
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 467, 448
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 177, 99
+  size: 41, 122
+  orig: 41, 122
+  offset: 0, 0
+  index: -1
+Rleg_bow
+  rotate: false
+  xy: 261, 264
+  size: 9, 41
+  orig: 9, 41
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 448, 179
+  size: 54, 155
+  orig: 54, 155
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 0, 306
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: true
+  xy: 0, 25
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+ball2_leaf
+  rotate: true
+  xy: 261, 297
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+ball2_leaf2
+  rotate: true
+  xy: 388, 380
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 261, 294
+  size: 206, 219
+  orig: 206, 219
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 228, 88
+  size: 227, 212
+  orig: 227, 212
+  offset: 0, 0
+  index: -1
+dressscreenback
+  rotate: false
+  xy: 247, 163
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+eyes_mid
+  rotate: false
+  xy: 132, 14
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: -1
+eyes_shocked
+  rotate: false
+  xy: 404, 17
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 0, 124
+  size: 202, 179
+  orig: 202, 179
+  offset: 0, 0
+  index: -1
+hair_flowers
+  rotate: true
+  xy: 275, 8
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 325
+  size: 184, 187
+  orig: 184, 187
+  offset: 0, 0
+  index: -1
+hips
+  rotate: false
+  xy: 417, 126
+  size: 83, 45
+  orig: 83, 59
+  offset: 0, 14
+  index: -1
+mouth_idle
+  rotate: false
+  xy: 16, 307
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+mouth_shocked
+  rotate: false
+  xy: 16, 313
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+mouth_shout
+  rotate: false
+  xy: 179, 225
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 309, 351
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+umbrella
+  rotate: false
+  xy: 183, 246
+  size: 78, 266
+  orig: 78, 266
+  offset: 0, 0
+  index: -1
+umbrella_handle
+  rotate: true
+  xy: 0, 7
+  size: 17, 129
+  orig: 17, 129
+  offset: 0, 0
+  index: -1
+
+SD_SnowWhite_Skin22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lsleeve_back
+  rotate: true
+  xy: 92, 312
+  size: 45, 133
+  orig: 45, 133
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 225, 312
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+ball1
+  rotate: false
+  xy: 310, 412
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 0, 380
+  size: 142, 133
+  orig: 142, 133
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 0, 325
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+dress_back
+  rotate: 180
+  xy: 404, 355
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+dressscreen
+  rotate: true
+  xy: 310, 308
+  size: 104, 108
+  orig: 105, 108
+  offset: 1, 0
+  index: -1
+eyes_closed
+  rotate: true
+  xy: 226, 380
+  size: 132, 84
+  orig: 132, 84
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: true
+  xy: 142, 377
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1

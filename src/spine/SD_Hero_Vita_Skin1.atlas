@@ -1,0 +1,341 @@
+
+SD_Hero_Vita_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 454, 459
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 466, 4
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Lwristblow
+  rotate: false
+  xy: 214, 477
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 180
+  xy: 325, 11
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 331, 423
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: false
+  xy: 309, 259
+  size: 99, 163
+  orig: 99, 163
+  offset: 0, 0
+  index: -1
+Rwristbow
+  rotate: false
+  xy: 0, 212
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 100, 6
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 385, 25
+  size: 127, 280
+  orig: 135, 280
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 309, 229
+  size: 120, 24
+  orig: 120, 24
+  offset: 0, 0
+  index: -1
+crown2
+  rotate: false
+  xy: 200, 4
+  size: 118, 19
+  orig: 118, 19
+  offset: 0, 0
+  index: -1
+dress
+  rotate: 270
+  xy: 407, 295
+  size: 217, 102
+  orig: 217, 166
+  offset: 0, 0
+  index: -1
+dressback
+  rotate: 180
+  xy: 0, 95
+  size: 210, 122
+  orig: 210, 122
+  offset: 0, 0
+  index: -1
+dressribbon2
+  rotate: true
+  xy: 0, 23
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 283
+  size: 214, 229
+  orig: 214, 229
+  offset: 0, 0
+  index: -1
+headribbon3
+  rotate: true
+  xy: 340, 76
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+headribbon4
+  rotate: 180
+  xy: 222, 24
+  size: 212, 206
+  orig: 212, 206
+  offset: 0, 0
+  index: -1
+headribbon5
+  rotate: true
+  xy: 0, 221
+  size: 62, 166
+  orig: 62, 166
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 153, 278
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 238, 495
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 24, 212
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+ponytail
+  rotate: 180
+  xy: 198, 136
+  size: 134, 376
+  orig: 134, 376
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Vita_Skin12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhip
+  rotate: true
+  xy: 166, 88
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+Lhorn
+  rotate: false
+  xy: 0, 358
+  size: 99, 154
+  orig: 99, 154
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 406, 77
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 97, 78
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 72, 315
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 343, 76
+  size: 36, 63
+  orig: 36, 63
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 375, 112
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+backribbon1
+  rotate: false
+  xy: 283, 310
+  size: 131, 52
+  orig: 131, 52
+  offset: 0, 0
+  index: -1
+backribbon2
+  rotate: 180
+  xy: 401, 162
+  size: 111, 171
+  orig: 111, 171
+  offset: 0, 0
+  index: -1
+backribbon3
+  rotate: true
+  xy: 79, 117
+  size: 86, 166
+  orig: 86, 166
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 189, 196
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: 270
+  xy: 273, 240
+  size: 125, 201
+  orig: 125, 201
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 0, 179
+  size: 49, 179
+  orig: 49, 179
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: true
+  xy: 245, 159
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+dressribbon1
+  rotate: false
+  xy: 454, 120
+  size: 58, 100
+  orig: 58, 100
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: true
+  xy: 409, 365
+  size: 147, 95
+  orig: 147, 95
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 0, 227
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 99, 355
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 314, 362
+  size: 150, 95
+  orig: 150, 95
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 194, 392
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+headribbon1
+  rotate: 180
+  xy: 104, 238
+  size: 169, 155
+  orig: 169, 155
+  offset: 0, 0
+  index: -1
+headribbon2
+  rotate: true
+  xy: 239, 117
+  size: 41, 136
+  orig: 41, 136
+  offset: 0, 0
+  index: -1
+headribbon6
+  rotate: false
+  xy: 263, 78
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 0, 91
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 319, 157
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1

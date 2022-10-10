@@ -1,0 +1,313 @@
+
+SD_Cinderella.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyeopen
+  rotate: true
+  xy: 384, 8
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 467, 389
+  size: 43, 122
+  orig: 43, 122
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 451, 135
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+backdress
+  rotate: true
+  xy: 175, 121
+  size: 190, 135
+  orig: 196, 135
+  offset: 2, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 194, 6
+  size: 190, 135
+  orig: 190, 135
+  offset: 0, 0
+  index: -1
+backhair5
+  rotate: false
+  xy: 0, 313
+  size: 189, 198
+  orig: 189, 198
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 188, 307
+  size: 205, 147
+  orig: 205, 147
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: true
+  xy: 153, 68
+  size: 55, 125
+  orig: 55, 125
+  offset: 0, 0
+  index: -1
+earring1
+  rotate: false
+  xy: 168, 31
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+earring2
+  rotate: false
+  xy: 478, 87
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 0, 140
+  size: 173, 176
+  orig: 173, 176
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 209, 302
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 153, 126
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 413, 336
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 335, 311
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+spear1 glow
+  rotate: false
+  xy: 0, 40
+  size: 153, 100
+  orig: 157, 104
+  offset: 2, 2
+  index: -1
+spear2
+  rotate: false
+  xy: 0, 3
+  size: 168, 37
+  orig: 169, 39
+  offset: 0, 1
+  index: -1
+spear3
+  rotate: true
+  xy: 451, 180
+  size: 171, 59
+  orig: 171, 60
+  offset: 0, 0
+  index: -1
+spear4
+  rotate: true
+  xy: 335, 351
+  size: 160, 132
+  orig: 160, 134
+  offset: 0, 1
+  index: -1
+spear4 glow
+  rotate: true
+  xy: 311, 141
+  size: 166, 140
+  orig: 170, 144
+  offset: 2, 2
+  index: -1
+
+SD_Cinderella2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyeangry
+  rotate: false
+  xy: 136, 339
+  size: 133, 81
+  orig: 133, 81
+  offset: 0, 0
+  index: -1
+Eyeclosed
+  rotate: false
+  xy: 280, 352
+  size: 125, 94
+  orig: 125, 94
+  offset: 0, 0
+  index: -1
+Eyehurt
+  rotate: false
+  xy: 0, 128
+  size: 111, 62
+  orig: 111, 62
+  offset: 0, 0
+  index: -1
+Eyemid
+  rotate: false
+  xy: 146, 419
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+Eyeshocked
+  rotate: false
+  xy: 405, 343
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 200, 285
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 456, 449
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 85
+  size: 42, 116
+  orig: 42, 116
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 20, 255
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: 270
+  xy: 110, 229
+  size: 104, 185
+  orig: 104, 185
+  offset: 0, 0
+  index: -1
+backhair3
+  rotate: true
+  xy: 37, 376
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+backhair4
+  rotate: true
+  xy: 310, 227
+  size: 99, 187
+  orig: 99, 187
+  offset: 0, 0
+  index: -1
+backribbon
+  rotate: false
+  xy: 111, 69
+  size: 184, 77
+  orig: 184, 77
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 0, 189
+  size: 108, 167
+  orig: 108, 167
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 329, 162
+  size: 106, 183
+  orig: 106, 183
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 393, 110
+  size: 53, 118
+  orig: 53, 118
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 0, 295
+  size: 137, 126
+  orig: 137, 126
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 294, 79
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: true
+  xy: 373, 63
+  size: 47, 121
+  orig: 47, 121
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: 180
+  xy: 245, 277
+  size: 159, 76
+  orig: 159, 76
+  offset: 0, 0
+  index: -1
+spear1
+  rotate: false
+  xy: 0, 420
+  size: 147, 92
+  orig: 147, 94
+  offset: 0, 1
+  index: -1
+spear2 glow
+  rotate: false
+  xy: 155, 146
+  size: 174, 46
+  orig: 179, 49
+  offset: 3, 1
+  index: -1
+spear3 glow
+  rotate: false
+  xy: 280, 445
+  size: 176, 67
+  orig: 181, 71
+  offset: 3, 2
+  index: -1

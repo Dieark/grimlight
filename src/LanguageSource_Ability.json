@@ -1,0 +1,5300 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7816424887579163056
+  },
+  "m_Name": "LanguageSource_Ability",
+  "mSource": {
+    "UserAgreesToHaveItOnTheScene": 0,
+    "UserAgreesToHaveItInsideThePluginsFolder": 0,
+    "GoogleLiveSyncIsUptoDate": 1,
+    "mTerms": [
+      {
+        "Term": "AbilityNames/Ability_Alice_Active",
+        "TermType": 0,
+        "Languages": [
+          "Vorpal Blade",
+          "보팔 블레이드",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Alice_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Lost in Wonder",
+          "로스트 인 원더",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Alice_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Fire Affinity",
+          "불 친화력",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Alice_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Time Phase",
+          "잠깐 타임!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Aurora_Active",
+        "TermType": 0,
+        "Languages": [
+          "Sanctum Magia",
+          "꿈의 성역",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Aurora_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Purifying Light",
+          "정화하는 빛",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Aurora_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Aurora_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Arcane Protection",
+          "신비로운 보호",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Bathory_Active",
+        "TermType": 0,
+        "Languages": [
+          "Banishing Strike",
+          "갈증을 느끼는 검",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Bathory_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Bloodlust",
+          "피의 욕망",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Bathory_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Feast of the Night",
+          "밤의 축제",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Beauty_Active",
+        "TermType": 0,
+        "Languages": [
+          "Mercy",
+          "자비로운 치유",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Beauty_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Mend",
+          "치유의 손길",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Beauty_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Love Over Hate",
+          "증오 대신 사랑으로!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_BigBadWolf_Active",
+        "TermType": 0,
+        "Languages": [
+          "Howl of Despair",
+          "절망의 울부짖음",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_BigBadWolf_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Feral Stamina",
+          "야생의 스태미나",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_BriarRose_Active",
+        "TermType": 0,
+        "Languages": [
+          "Entangle",
+          "속박의 가시",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_BriarRose_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Vine Barrier",
+          "가시덩굴의 보호",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_BriarRose_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Thorns",
+          "뾰족한 가시",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_BriarRose_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Rejuvenation",
+          "원기 회복",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Caterpillar_Active",
+        "TermType": 0,
+        "Languages": [
+          "Smoky Haze",
+          "스모키 헤이즈",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Caterpillar_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Mend",
+          "치유의 손길",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Caterpillar_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Nature's Blessing",
+          "자연의 축복",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_CheshireCat_Active",
+        "TermType": 0,
+        "Languages": [
+          "Ravaging Strike",
+          "유린하는 손톱",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_CheshireCat_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Shadow Step",
+          "그림자 걸음",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_CheshireCat_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Element of Surprise",
+          "놀라움의 요소",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_CheshireCat_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Cinderella_Active",
+        "TermType": 0,
+        "Languages": [
+          "Magic Hour",
+          "마법의 시간",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Cinderella_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Crystal Barrage",
+          "크리스탈 탄막",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Cinderella_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Crystal Guard",
+          "크리스탈 가드",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Cinderella_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Mana Surge",
+          "끓어오르는 마나",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_CowardlyLion_Active",
+        "TermType": 0,
+        "Languages": [
+          "Courageous Strike",
+          "용기를 낸 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_CowardlyLion_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Feral Stamina",
+          "야생의 스태미나",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Dorothy_Active",
+        "TermType": 0,
+        "Languages": [
+          "Emerald Blessing",
+          "에메랄드 블레싱",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Dorothy_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Miracle",
+          "기적",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Dorothy_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Power of Friendship",
+          "우정의 힘",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Dracula_Active",
+        "TermType": 0,
+        "Languages": [
+          "Nightmare Swarm",
+          "깨어난 밤",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Dracula_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Darkness Strike",
+          "어둠의 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Dracula_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Bloodthirst",
+          "피의 갈증",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Dracula_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Never Ending Hunger",
+          "끝나지 않는 굶주림",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Esme_Active",
+        "TermType": 0,
+        "Languages": [
+          "Flamberge",
+          "불타오르는 열정",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Esme_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Passionate Embrace",
+          "열정적인 포옹",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Esme_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Heartstone's Blessing",
+          "하트스톤의 축복",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Geppeto_Active",
+        "TermType": 0,
+        "Languages": [
+          "Come to Life, Pinnochio!",
+          "불러내노라, 피노키오!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Geppeto_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Puppet Master",
+          "퍼펫 마스터",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Geppeto_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Ginger_Active",
+        "TermType": 0,
+        "Languages": [
+          "Just Desserts",
+          "그냥 디저트거든!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Ginger_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Gingerbread Man",
+          "진저 브래드 병사",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Goldilocks_Active",
+        "TermType": 0,
+        "Languages": [
+          "Scatter",
+          "산탄 사격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Goldilocks_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Just Right",
+          "딱 좋아",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Goldilocks_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Gretel_Active",
+        "TermType": 0,
+        "Languages": [
+          "Cornered",
+          "도망갈 곳 없어",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Gretel_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Gretel_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Twin's Devotion",
+          "쌍둥이의 헌신",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Hansel_Active",
+        "TermType": 0,
+        "Languages": [
+          "Bone Knives",
+          "널 조각내줄게",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Hansel_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Twin's Devotion",
+          "쌍둥이의 헌신",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Hansel_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Hook_Active",
+        "TermType": 0,
+        "Languages": [
+          "Bombardment",
+          "무차별 포격!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Hook_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Cannonburst",
+          "대포 발사!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Hook_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Commander of the Seas",
+          "바다의 지휘관",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Hook_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Gunslinger",
+          "뛰어난 총잡이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Huntsman_Active",
+        "TermType": 0,
+        "Languages": [
+          "On the Hunt",
+          "사냥 시작",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Huntsman_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Fine Fletching",
+          "질좋은 화살",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Kaguya_Active",
+        "TermType": 0,
+        "Languages": [
+          "Moonlight Strike",
+          "달빛 아래 빛나는 검",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Kaguya_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Quick Draw",
+          "발도술",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Kaguya_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Lunar Dominion",
+          "달의 지배",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Kaguya_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_LittleMatchGirl_Active",
+        "TermType": 0,
+        "Languages": [
+          "Cursed Matches",
+          "저주받은 성냥불",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_LittleMatchGirl_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Fireball",
+          "파이어볼",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_LittleMatchGirl_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_LittleMermaid_Active",
+        "TermType": 0,
+        "Languages": [
+          "Water Shield",
+          "물의 보호",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_LittleMermaid_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Magic Wish",
+          "마법의 소원",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_LittleMermaid_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Under the Sea",
+          "저 바다 깊숙이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_LittleMermaid_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Frost Strike",
+          "서리 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MadHatter_Active",
+        "TermType": 0,
+        "Languages": [
+          "Madness",
+          "광기의 심연",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MadHatter_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Table Manners",
+          "티타임 에티켓",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MadHatter_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Tea Party",
+          "미치광이 다과회",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MadHatter_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MarchHare_Active",
+        "TermType": 0,
+        "Languages": [
+          "Party Time",
+          "파티 시간!?",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MarchHare_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Repel the Advance",
+          "전진을 막는 반격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MarchHare_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Rapid Fire",
+          "미칠듯한 속사",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_MarchHare_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Tea Party",
+          "미치광이 다과회",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Odette_Active",
+        "TermType": 0,
+        "Languages": [
+          "Silencing Strike",
+          "백조의 춤",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Odette_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Mark of the Swan",
+          "백조의 표식",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Odette_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Odile_Active",
+        "TermType": 0,
+        "Languages": [
+          "Black Swan",
+          "흑조의 춤",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Odile_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Mend",
+          "치유의 손길",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Odile_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Otohime_Active",
+        "TermType": 0,
+        "Languages": [
+          "Healing Waters",
+          "바다의 치유",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Otohime_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Mend",
+          "치유의 손길",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_PussInBoots_Active",
+        "TermType": 0,
+        "Languages": [
+          "En Garde!",
+          "앙 가드!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_PussInBoots_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Feline Savvy",
+          "고양이를 잘 아느냐?",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_PussInBoots_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_QueenOfHearts_Active",
+        "TermType": 0,
+        "Languages": [
+          "Explosive Rage",
+          "걷잡을 수 없는 분노",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_QueenOfHearts_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Off With Your Head!",
+          "저놈의 목을 쳐라!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_QueenOfHearts_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Incinerate",
+          "소각",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_QueenOfHearts_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Heart Dominion",
+          "하트의 지배",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Rapunzel_Active",
+        "TermType": 0,
+        "Languages": [
+          "Silky Embrace",
+          "비단결의 포옹",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Rapunzel_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Group Heal",
+          "광역 치유",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Rapunzel_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Dawnlight",
+          "새벽의 빛",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RedKnight_Active",
+        "TermType": 0,
+        "Languages": [
+          "Vengeance",
+          "붉은 복수",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RedKnight_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Shattering Blow",
+          "으스러뜨릴 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RedKnight_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RedRidingHood_Active",
+        "TermType": 0,
+        "Languages": [
+          "Beneath the Crimson Veil",
+          "붉은 후드 아래",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RedRidingHood_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Alluring Red",
+          "매력적인 빨강",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RedRidingHood_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RobinHood_Active",
+        "TermType": 0,
+        "Languages": [
+          "Suppressing Volley",
+          "초토화 사격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RobinHood_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Robbing the Rich",
+          "의적 로빈 후드",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_RobinHood_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Saffi_Active",
+        "TermType": 0,
+        "Languages": [
+          "Frost Ray",
+          "서리빛 서광",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Saffi_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Knowledge Is Power",
+          "아는 것이 곧 힘이다",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Saffi_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Saffi_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Frost Strike",
+          "서리 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Saffi_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Mindstone's Blessing",
+          "마인드스톤의 축복",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Scarecrow_Active",
+        "TermType": 0,
+        "Languages": [
+          "Pitchfork Thrust",
+          "쇠스랑 찌르기!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Scarecrow_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Made of Stuffing",
+          "매듭진 지푸라기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_SnowWhite_Active",
+        "TermType": 0,
+        "Languages": [
+          "Holy Strike",
+          "순백의 빛",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_SnowWhite_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Divine Protection",
+          "성스러운 보호",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_SnowWhite_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Resurrection",
+          "부활",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TamamoNoMai_Active",
+        "TermType": 0,
+        "Languages": [
+          "No Escape",
+          "탈출구는 없어",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TamamoNoMai_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Fox Fire",
+          "여우불",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TamamoNoMai_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TamamoNoMai_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Water Affinity",
+          "물 친화력",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TheBeast_Active",
+        "TermType": 0,
+        "Languages": [
+          "Berserk Fury",
+          "격렬한 분노",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TheBeast_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Rending Strike",
+          "찢어발길 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TheBeast_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Feral Stamina",
+          "야생의 스태미나",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TinMan_Active",
+        "TermType": 0,
+        "Languages": [
+          "Bash",
+          "나무꾼의 도끼",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_TinMan_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Antimagic Plating",
+          "마법 저항",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Vita_Active",
+        "TermType": 0,
+        "Languages": [
+          "Gaia's Balance",
+          "생명의 균형",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Vita_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Flourish",
+          "피어오르는 생명",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Vita_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Lifestone's Blessing",
+          "라이프스톤의 축복",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WhiteKnight_Active",
+        "TermType": 0,
+        "Languages": [
+          "Divine Shield",
+          "고결한 방패",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WhiteKnight_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Shield Bash",
+          "방패로 치기",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WhiteKnight_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Shining Armor",
+          "빛나는 갑옷",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WhiteRabbit_Active",
+        "TermType": 0,
+        "Languages": [
+          "Time Warp",
+          "시간 왜곡",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WhiteRabbit_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Follow Me!",
+          "절 따라오세요!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WhiteRabbit_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WinterQueen_Active",
+        "TermType": 0,
+        "Languages": [
+          "Blizzard",
+          "영원한 겨울",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WinterQueen_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Ice Burst",
+          "폭발하는 얼음",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WinterQueen_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 범위 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WinterQueen_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Frost Strike",
+          "서리 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_WinterQueen_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Frostbite",
+          "동상",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Siegfried_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Brothers in Arms",
+          "용맹한 전우애",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Siegfried_Active",
+        "TermType": 0,
+        "Languages": [
+          "Radiant Strike",
+          "레디언트 스트라이크",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Siegfried_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Valor's Light",
+          "용기의 빛",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Thumbelina_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Small Stature",
+          "작은 위업",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Thumbelina_Active",
+        "TermType": 0,
+        "Languages": [
+          "Showtime",
+          "쇼타임",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Thumbelina_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Harmony",
+          "조화의 노래",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Ozma_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Ozma_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Friends to the End",
+          "영원한 친구",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Ozma_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Alluring Charm",
+          "고혹적인 매력",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Ozma_Active",
+        "TermType": 0,
+        "Languages": [
+          "Begone!",
+          "물러가라!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_EvilQueen_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Mirror, Mirror",
+          "거울아, 거울아",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_EvilQueen_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Cripple",
+          "부식",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_EvilQueen_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Dark Desires",
+          "어두운 욕망",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_EvilQueen_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Mirror's Choice",
+          "거울의 선택",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_EvilQueen_Active",
+        "TermType": 0,
+        "Languages": [
+          "Fairest in the Land",
+          "최고의 아름다움",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_JeonWooChi_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Martial Prowess",
+          "도술",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_JeonWooChi_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Escape Peril",
+          "일촉즉발",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_JeonWooChi_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Evasive",
+          "회피",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_JeonWooChi_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Elusive Sorcerer",
+          "날뛰는 도사",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_JeonWooChi_Active",
+        "TermType": 0,
+        "Languages": [
+          "Martial Strike",
+          "일심격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Morgana_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "AoE Damage",
+          "광역 피해",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Morgana_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Arcane Knowledge",
+          "마법의 지식",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Morgana_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Wiser With Age",
+          "지혜의 기량",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Morgana_Active",
+        "TermType": 0,
+        "Languages": [
+          "Arcana",
+          "아르카나",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_KangRim_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Summon Reapers",
+          "저승사자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_KangRim_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Life Exchange",
+          "삶과 죽음의 교환",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_KangRim_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Ghostfire",
+          "유령불",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_KangRim_Active",
+        "TermType": 0,
+        "Languages": [
+          "Soul Harvest",
+          "영혼채취",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_VanHelsing_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Barbed Arrowheads",
+          "가시 화살촉",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_VanHelsing_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Silver Bolts",
+          "실버 볼트",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_VanHelsing_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "True Sight",
+          "명사수",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_VanHelsing_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Retribution",
+          "응징",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_VanHelsing_Active",
+        "TermType": 0,
+        "Languages": [
+          "Crucify",
+          "크루시파이",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Alice_Active",
+        "TermType": 0,
+        "Languages": [
+          "Strikes with her vorpal sword three times, dealing <color=red>[250*1.1]%</color> True DMG per hit. If the enemy has less than 20% HP, they are <color=red>Executed</color>.",
+          "3회 연속으로 공격하여 타격당 공격력의 <color=red>[250*1.1]%</color> 만큼 고정 피해를 줍니다. 적의 생명력이 20% 이하인 경우 <color=red>즉사</color>시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Alice_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, Alice heals all allies for <color=#91E489>[30*1.1]%</color> of her ATK and gains +5 Energy.",
+          "매 3번 공격마다 모든 아군을 공격력의 <color=#91E489>[30*1.1]%</color> 만큼 치유하고 +5의 에너지를 얻습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Alice_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All Fire allies on the field get +5% ATK.",
+          "전투 시작 시, 필드의 모든 아군 불 속성 메르헨에게 공격력 +5% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Alice_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 20% Evasion.",
+          "기본 회피율 +20%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Aurora_Active",
+        "TermType": 0,
+        "Languages": [
+          "Sanctifies a large area around her target, dealing <color=#3BE5EA>[120*1.1]%</color> DMG three times while removing targets' buffs.",
+          "꿈의 성역을 생성하여 3번에 걸쳐 각 공격력의 <color=#3BE5EA>[120*1.1]%</color> 만큼 범위 피해를 주고, 모든 버프를 제거합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Aurora_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, Aurora calls down a ray of purifying light over a random enemy, dealing <color=#3BE5EA>[135*1.1]%</color> DMG in a small area. Removes targets' buffs.",
+          "매 5번 공격마다 무작위 적에게 공격력의 <color=#3BE5EA>[135*1.1]%</color> 만큼 작은 범위 피해를 주고, 모든 버프를 제거합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Aurora_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Aurora_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field get +5% MRES.",
+          "전투 시작 시, 모든 아군에게 마법 저항력 +5%의 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Bathory_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deals <color=#EAD53B>[200*1.1]%</color> DMG in a small area around the target. Enemies hit have -25% ATK for 10 sec.",
+          "공격력의 <color=#EAD53B>[200*1.1]%</color> 만큼 작은 범위 피해를 주고, 10초간 공격력 -25% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Bathory_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, Bathory increases her ATK by [15+1]% for 60 sec. (Max 5 stacks)",
+          "매 5번 공격마다 60초간 자신에게 공격력 [15+1]% 버프를 부여합니다. (최대 5스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Bathory_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Life Steal.",
+          "기본 생명력 흡수 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Beauty_Active",
+        "TermType": 0,
+        "Languages": [
+          "Heals <color=#91E489>[1500* 1.1]%</color> of Beauty's ATK to the weakest ally and Cleanses their debuffs.",
+          "가장 생명력이 낮은 아군을 공격력의 <color=#91E489>[1500*1.1]%</color> 만큼 치유하고 모든 디버프를 제거합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Beauty_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 2 hits, heal <color=#91E489>[200*1.1]%</color> of ATK to the weakest ally.",
+          "매 2번 공격마다 가장 생명력이 낮은 아군을 공격력의 <color=#91E489>[200*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Beauty_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Gains +50% Healing Bonus if Beast is on your side of the field.",
+          "야수가 필드 위에 있을 경우 자신에게 치유량 50% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_BigBadWolf_Active",
+        "TermType": 0,
+        "Languages": [
+          "Big Bad Wolf howls into the air inflicting -[20+4]% ATK to all enemies for 20 sec.",
+          "20초간 모든 적들의 공격력 -[20+4]% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_BigBadWolf_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Heals 2% of Max HP every 3 seconds.",
+          "매 3초당 자신의 최대 생명력 2% 만큼 회복합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_BriarRose_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deals <color=#3BE5EA>[150*1.1]% DEF</color> DMG in a large area. Enemies hit have -70% MOV and -30% ATKSPD for 10 sec.",
+          "방어력의 <color=#3BE5EA>[150*1.1]%</color> 만큼 광역 범위 피해를 주고, 피격받은 적들에게 10초간 이동 속도 -70%와 공격 속도 -30%의 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_BriarRose_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 2 hits, increase DEF by [20*1.1]% for 20 sec. (Max 3 stacks)",
+          "매 2번 공격마다 20초간 자신에게 방어력 +[20*1.1]% 버프를 부여합니다. (최대 3스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_BriarRose_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Returns 20% of received DMG back to enemies when they attack Briar Rose.",
+          "피격 시 받은 피해의 20%를 적에게 되돌려줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_BriarRose_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Heals 2% of Max HP every 3 seconds.",
+          "매 3초당 자신의 최대 생명력 2% 만큼 회복합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Caterpillar_Active",
+        "TermType": 0,
+        "Languages": [
+          "Heals allies for <color=#91E489>[150*1.1]%</color> of Caterpillar's ATK every second for 10 sec. Grants +25% MRES during the heal.",
+          "10초간 모든 아군을 매초 공격력의 <color=#91E489>[150*1.1]%</color> 만큼 치유하고, 마법 저항력 +25% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Caterpillar_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 2 hits, heal <color=#91E489>[200*1.1]%</color> of ATK to the weakest ally.",
+          "매 2번 공격마다 가장 생명력이 적은 아군을 공격력의 <color=#91E489>[200*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Caterpillar_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field gain +30% Resilience.",
+          "전투 시작 시, 모든 아군에게 +30%의 강인함을 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_CheshireCat_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deals <color=#EAD53B>[265*1.1]%</color> DMG in a small area around the target. Cheshire gains Haste, gaining +75% ATKSPD for 5 sec.",
+          "공격력의 <color=#EAD53B>[265*1.1]%</color> 만큼 작은 범위 피해를 주고 5초간 +75% 공격 속도를 얻습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_CheshireCat_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "After 5 seconds, teleport to the enemy with lowest HP and deal <color=#EAD53B>[200*1.1]%</color> DMG, stunning the enemy for 3 sec. Cheshire will have 40% increased Evasion for 5 sec. (Once per wave)",
+          "전투 시작 5초 후, 가장 생명력이 낮은 적에게 순간 이동하여 공격력의 <color=#EAD53B>[200*1.1]%</color> 만큼 피해를 입힌 후 3초간 기절시킵니다. 스킬 시전 시 5초간 40%의 추가 회피율을 얻습니다. (웨이브당 최대 1회)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_CheshireCat_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 20% Crit Damage.",
+          "기본 치명타 데미지 +20%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_CheshireCat_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Cinderella_Active",
+        "TermType": 0,
+        "Languages": [
+          "Cinderella showers her enemies with 12 crystal lances, each dealing <color=#3BE5EA>[100*1.1]%</color> DMG to a random target.",
+          "12개의 크리스탈 창을 날려 무작위 적에게 각 창마다 공격력의 <color=#3BE5EA>[100*1.1]%</color> 만큼 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Cinderella_Passive1",
+        "TermType": 0,
+        "Languages": [
+          " Every 5 hits, Cinderella launches a barrage of crystal lances, dealing <color=#3BE5EA>[180*1.1]%</color> DMG in a small area and knocking enemies back.",
+          "매 5번 공격마다 4개의 크리스탈 창을 날려 공격력의 <color=#3BE5EA>[180*1.1]%</color> 만큼 작은 범위 피해를 주고 피격된 적을 넉백 시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Cinderella_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Cinderella begins battle with a 25% HP Shield.",
+          "전투 시작 시, 자신에게 최대 생명력의 25% 만큼 보호막을 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Cinderella_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "All allies gain +5 Energy every 3 sec.",
+          "전투 시작 시, 모든 아군에게 매 3초당 +5의 에너지를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_CowardlyLion_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deal <color=#EAD53B>[170*1.1]%</color> DMG in a small area around her target.",
+          "적에게 공격력의 <color=#EAD53B>[170*1.1]%</color> 만큼 작은 범위 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_CowardlyLion_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Heals 2% of Max HP every 3 seconds.",
+          "매 3초당 자신의 최대 생명력 2% 만큼 회복합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Dorothy_Active",
+        "TermType": 0,
+        "Languages": [
+          "Bless all allies with a shield of <color=#FFD63C>[35+3]%</color> of Dorothy's Max HP. The shield lasts for 10 sec.",
+          "모든 아군에게 10초간 자신의 최대 생명력의 <color=#FFD63C>[35+3]%</color>에 달하는 보호막을 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Dorothy_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, heal <color=#91E489>[200*1.1]%</color> of ATK to four nearby allies.",
+          "매 3번 공격마다 가까운 네 명의 아군을 자신의 공격력의 <color=#91E489>[200*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Dorothy_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field gain +5% PRES and MRES.",
+          "전투 시작 시, 모든 아군에게 물리 저항력 +5%와 마법 저항력 +5% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Dracula_Active",
+        "TermType": 0,
+        "Languages": [
+          "Dracula summons a swarm of bats that fly forward dealing <color=#EAD53B>[300*1.1]%</color> DMG and knocking back all enemies in their path.",
+          "박쥐 떼를 소환하여 경로에 있는 모든 적에게 공격력의 <color=#EAD53B>[300*1.1]%</color> 만큼 피해를 주고 넉백 시킵니다. ",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Dracula_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, deal <color=#EAD53B>[210*1.1]%</color> DMG to current target. Enemies are inflicted with Physical Weakness (-20% PRES) for 10 sec.",
+          "매 3번 공격마다 공격력의 <color=#EAD53B>[210*1.1]%</color> 만큼 피해를 줍니다. 10초간 물리 저항력 -20% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Dracula_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Gains +15% ATK for 60 sec after each enemy kill. (Max 5 Stacks)",
+          "적을 처치할 때마다 60초간 +15% 공격력을 얻습니다. (최대 5스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Dracula_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 30% Life Steal.",
+          "기본 생명력 흡수 +30%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Esme_Active",
+        "TermType": 0,
+        "Languages": [
+          "Summons three burning blades to each strike a random enemy, dealing <color=#3BE5EA>[130*1.1]%</color> DMG to each target. Each sword applies Burn.",
+          "세 개의 불타는 대검을 무작위 적에게 날려 공격력의 <color=#3BE5EA>[130*1.1]%</color> 만큼 피해를 주고 화상 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Esme_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, Esme grants a blessing to a random ally buffing their ATK by +[20*1.1]% for 8 seconds.",
+          "매 4번 공격마다 무작위 아군 한 명을 축복하여 8초간 공격력 +[20*1.1]% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Esme_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All Fire allies on the field get +5% ATK.",
+          "전투 시작 시, 필드의 모든 아군 불 속성 메르헨에게 공격력 +5% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Geppeto_Active",
+        "TermType": 0,
+        "Languages": [
+          "Pinocchio is summoned and slams the ground, dealing <color=#3BE5EA>[300*1.1]%</color> DMG to enemies in a line, launching them into the air.",
+          "피노키오를 소환하여 같은 라인에 존재하는 모든 적들에게 공격력의 <color=#3BE5EA>[300*1.1]%</color> 만큼 피해를 주고 공중에 띄웁니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Geppeto_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, summon two puppets that gain <color=white>[20*1.1]%</color> of Geppetto's HP, ATK, and DEF. Can be cast up to 5 times per wave.",
+          "매 3번 공격마다 인형 두 마리를 소환합니다. 인형은 제페토 레벨에 따라 강해지고 제페토의 생명력, 공격력, 방어력의<color=white>[20*1.1]%</color> 만큼 추가로 강해집니다. (웨이브당 최대 5회 소환)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Geppeto_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Ginger_Active",
+        "TermType": 0,
+        "Languages": [
+          "Big Chunk stuns all enemies for 2 seconds and heals all allies by <color=#91E489>[10*1.1]%</color> of Ginger's Max HP every second. Lasts for 10 sec.",
+          "거대한 진저 브래드맨을 소환하여 주변의 적들을 2초간 기절시키고, 10초간 모든 아군에게 매초 자신의 최대 생명력 <color=#91E489>[10*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Ginger_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "At the start of each wave, Ginger summons a Gingerbread man to fight for her. It gains <color=white>[50*1.1]%</color> of Ginger's HP, ATK, and DEF.",
+          "웨이브마다 전투 시작 시, 작은 진저 브래드 병사를 소환합니다. 진저 브래드 병사는 진저 레벨에 따라 강해지고 진저의 생명력, 공격력, 방어력의 <color=white>[50*1.1]%</color> 만큼 추가로 강해집니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Goldilocks_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deals <color=#EAD53B>[166*1.1]%</color> DMG to enemies in a large area, knocking them back and inflicting Physical Weakness (-20% PRES) for 10 seconds.",
+          "공격력의 <color=#EAD53B>[166*1.1]%</color> 만큼 작은 범위 피해를 주고 넉백시킨 후 10초간 물리 저항력 -20% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Goldilocks_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 2 hits, Goldilocks gains a stack of Huntress, increasing her ATKSPD by [30+2]% for 10 sec. (Max 3 stacks)",
+          "매 2번 공격마다 자신에게 10초간 공격 속도 +[30+2]% 버프를 부여합니다. (최대 3스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Goldilocks_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a large area.",
+          "기본 공격이 광역 범위 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Gretel_Active",
+        "TermType": 0,
+        "Languages": [
+          "Gretel increases her own ATK by [20*1.1]% for 15 sec.",
+          "15초간 자신에게 공격력 +[20*1.1]% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Gretel_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Gretel_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Gains +20% ATK if Hansel is on your side of the field.",
+          "헨젤이 아군 필드에 있을 경우 자신에게 공격력 +20% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Hansel_Active",
+        "TermType": 0,
+        "Languages": [
+          "Teleport behind the enemy with the lowest HP and attack them with knives for <color=#EAD53B>[300*1.1]%</color> DMG. Removes all buffs from the target.",
+          "생명력이 가장 낮은 적에게 순간 이동 후 공격력의 <color=#EAD53B>[300*1.1]%</color> 만큼 피해를 주고 모든 버프를 제거합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Hansel_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Gains +20% ATK if Gretel is on your side of the field.",
+          "그레텔이 아군 필드에 있을 경우 자신에게 공격력 +20% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Hansel_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Hook_Active",
+        "TermType": 0,
+        "Languages": [
+          "Hook fires 4 cannons at the furthest enemy, dealing <color=#EAD53B>[150*1.1]%</color> DMG per explosion. Enemies hit by the barrage are stunned for 2 seconds.",
+          "가장 멀리 있는 적에게 4발의 포탄을 발사해 포탄 하나당 공격력의 <color=#EAD53B>[150*1.1]%</color> 만큼 피해를 주고 2초간 기절시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Hook_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, Hook fires a cannon at the weakest enemy on the field dealing <color=#EAD53B>[150*1.1]%</color> DMG in a small area.",
+          "매 3번 공격마다 가장 생명력이 낮은 적에게 대포를 발사하여 작은 범위의 적들에게 공격력의 <color=#EAD53B>[150*1.1]%</color> 만큼 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Hook_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field with the Ranger class gain +5% ATK.",
+          "전투 시작 시, 모든 아군 레인저 클래스 메르헨에게 공격력 +5% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Hook_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 20% Crit Damage.",
+          "기본 치명타 데미지 +20%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Huntsman_Active",
+        "TermType": 0,
+        "Languages": [
+          "Increase ATK by [30*1.1]% for 10 sec.",
+          "10초간 자신에게 공격력 +[30*1.1]% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Huntsman_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Crit Chance.",
+          "기본 치명타 확률 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Kaguya_Active",
+        "TermType": 0,
+        "Languages": [
+          "Kaguya vanishes and reappears behind the furthest enemy in her lane, slashing the target for <color=red>[500*1.1]%</color> True DMG and stunning them for 3 sec.",
+          "은신 후 자신과 같은 라인에서 가장 멀리 떨어져 있는 적에게 순간 이동합니다. 이후 공격력의 <color=red>[500*1.1]%</color> 만큼 고정 피해를 주고 3초간 기절시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Kaguya_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, Kaguya deals <color=#EAD53B>[250*1.1]%</color> DMG to her current target and inflicts Physical Weakness (-20% PRES) for 10 sec.",
+          "매 5번 공격마다 적에게 공격력의 <color=#EAD53B>[250*1.1]%</color> 만큼 피해를 주고 10초간 물리 저항력 -20% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Kaguya_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Gains +3% ATK for each fielded ally of the Dark element. Determined at the start of each wave.",
+          "전투 시작 시, 자신에게 아군 어둠 속성 메르헨 한 명 당 공격력 +3% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Kaguya_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_LittleMatchGirl_Active",
+        "TermType": 0,
+        "Languages": [
+          "Calls down a flurry of flaming matches dealing <color=#3BE5EA>[250*1.1]%</color> DMG in a small area around the target. Enemies hit are Burned.",
+          "공격력의 <color=#3BE5EA>[250*1.1]%</color> 만큼 작은 범위 피해를 주고 화상 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_LittleMatchGirl_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, engulfs her target in a large fireball dealing <color=#3BE5EA>[150*1.1]%</color> DMG in a small area of effect.",
+          "매 4번 공격마다 거대한 화염구를 발사해 공격력의 <color=#3BE5EA>[150*1.1]%</color> 만큼 작은 범위 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_LittleMatchGirl_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_LittleMermaid_Active",
+        "TermType": 0,
+        "Languages": [
+          "Creates a water bubble around Little Mermaid granting +[20+2]% DMG Resist. She also heals herself for <color=#91E489>[80*1.1]%</color> ATK per second for 8 sec.",
+          "주변에 물방울을 생성하여 자신에게 물리 및 마법 저항력 +[20+2]% 버프를 부여하고 8초간 매초 공격력의 <color=#91E489>[80*1.1]%</color> 만큼 치유합니다. ",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_LittleMermaid_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, Little Mermaid will grant all allies +[10+2]% Healing Bonus for 15 seconds. (Stacks 3 times)",
+          "매 3번 공격마다 모든 아군에게 치유량 +[10+2]% 버프를 15초간 부여합니다. (최대 3스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_LittleMermaid_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Immune to stuns and knockbacks.",
+          "기절과 넉백에 면역입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_LittleMermaid_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks inflict Frost (-15% MOVSPD and -15% ATKSPD) for 6 sec.",
+          "기본 공격이 적에게 6초간 서리 디버프를 부여합니다. (이동 속도 -15%, 공격 속도 -15%)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MadHatter_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deal <color=#3BE5EA>[160*1.1]%</color> DMG in a large area around the target. Enemies hit are Silenced for 10 sec.",
+          "공격력의 <color=#3BE5EA>[160*1.1]%</color> 만큼 광역 범위 피해를 주고, 10초간 침묵 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MadHatter_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, Mad Hatter will deal <color=#3BE5EA>[100*1.1]%</color> DMG and remove all buffs from his target.",
+          "매 3번 공격마다 공격력의 <color=#3BE5EA>[100*1.1]%</color> 만큼 피해를 주고, 모든 버프를 제거합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MadHatter_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Gain +3% Attack for each fielded hero. Determined at the start of each wave.",
+          "전투 시작 시, 자신에게 아군 메르헨 한 명당 공격력 +3% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MadHatter_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MarchHare_Active",
+        "TermType": 0,
+        "Languages": [
+          "Activates her gatling gun and unleashes a storm of bullets in a line dealing <color=#EAD53B>[100*1.1]%</color> DMG per second for 3 seconds. Enemies are knocked back.",
+          "회전 대포를 가동해 3초 동안 탄막을 퍼부어 매 초당 공격력의 <color=#EAD53B>[100*1.1]%</color> 만큼 피해를 주고 넉백 시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MarchHare_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 basic attacks, March Hare's burst will deal <color=#EAD53B>[40*1.1]%</color> DMG per bullet and knock back the target enemy.",
+          "매 3번 공격마다 공격력의 <color=#EAD53B>[40*1.1]%</color> 만큼 피해를 주고 넉백 시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MarchHare_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks fire three bullets. (33% DMG per bullet)",
+          "기본 공격은 세발의 탄환을 발사합니다. (탄환 당 공격력의 33%의 피해)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_MarchHare_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Gain +3% Attack for each fielded hero. Determined at the start of each wave.",
+          "전투 시작 시, 자신에게 아군 메르헨 한 명당 공격력 +3% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Odette_Active",
+        "TermType": 0,
+        "Languages": [
+          "Strike from above, dealing <color=#3BE5EA>[200*1.1]%</color> DMG in a small area. Enemies hit are Silenced for 10 seconds.",
+          "공중으로 도약해 공격력의 <color=#3BE5EA>[200*1.1]%</color> 만큼 작은 범위 피해를 주고, 10초간 침묵 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Odette_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Buffs self with +[20+2]% ATKSPD and +[20+2]% EVA for 20 sec at the start of battle.",
+          "전투 시작 시, 자신에게 20초간 공격 속도 +[20+2]%와 회피율 +[20+2]% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Odette_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Odile_Active",
+        "TermType": 0,
+        "Languages": [
+          "Casts a spell in a large area that Silences all enemies and reduces their ATKSPD by -[50*1.1]% for 10 sec.",
+          "광역 범위의 적들에게 10초간 침묵 디버프와 공격 속도 -[50*1.1]% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Odile_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 2 hits, heal <color=#91E489>[200*1.1]%</color> of ATK to the weakest ally.",
+          "매 2번 공격마다 생명력이 가장 낮은 아군을 공격력의 <color=#91E489>[200*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Odile_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Otohime_Active",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field Heal for <color=#91E489>[500*1.1]%</color> of Otohime's ATK immediately and <color=#91E489>[100*1.1]%</color> per second over 5 sec.",
+          "모든 아군을 공격력의 <color=#91E489>[500*1.1]%</color> 만큼 즉시 치유하고, 5초간 매초 자신의 공격력의 <color=#91E489>[100*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Otohime_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 2 hits, heal <color=#91E489>[200*1.1]%</color> of ATK to the weakest ally.",
+          "매 2번 공격마다 생명력이 가장 낮은 아군을 공격력의 <color=#91E489>[200*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_PussInBoots_Active",
+        "TermType": 0,
+        "Languages": [
+          "Puss dashes forward, striking her target 4 times. Each hit inflicts knockup and deals <color=#EAD53B>[80*1.1]%</color> Damage per hit.",
+          "적에게 돌진하여 4번 연속 공격합니다. 각 타격마다 적을 넉백 시키고 공격력의 <color=#EAD53B>[80*1.1]%</color> 만큼 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_PussInBoots_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, strike the enemy for <color=#EAD53B>[150*1.1]</color> DMG to a single target and gain 10% Evasion for 10 sec (Stacks twice).",
+          "매 5번 공격마다 공격력의 <color=#EAD53B>[150*1.1]%</color> 만큼 피해를 주고, 자신에게 10초간 회피율 +10% 버프를 부여합니다. (최대 2스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_PussInBoots_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_QueenOfHearts_Active",
+        "TermType": 0,
+        "Languages": [
+          "The Queen's anger explodes, sending out 3 waves of fireballs across the map, dealing <color=#3BE5EA>[130*1.1]%</color> DMG per hit and applying Burn. (Max 1 Stack)",
+          "파이어볼을 세 차례에 걸쳐 내립니다. 파이어볼 하나당 공격력의 <color=#3BE5EA>[130*1.1]%</color> 만큼 광역 범위 피해를 주고 화상을 입힙니다. (최대 1스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_QueenOfHearts_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, strike a random enemy target, dealing <color=#3BE5EA>[200*1.1]%</color> DMG and stunning them for 2 sec. Targets below 10% HP are <color=red>Executed</color>.",
+          "매 4번 공격마다 무작위의 적에게 공격력의 <color=#3BE5EA>[200*1.1]%</color> 만큼 피해를 주고 2초간 기절시킵니다. 적의 생명력이 10% 이하인 경우 <color=red>즉사</color>시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_QueenOfHearts_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 광역 범위 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_QueenOfHearts_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Gains +3% ATK for each fielded ally of the Fire element. Determined at the start of each wave.",
+          "전투 시작 시, 자신에게 모든 아군 불 속성 메르헨 한 명 당 공격력 +3% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Rapunzel_Active",
+        "TermType": 0,
+        "Languages": [
+          "Heals all allies by <color=#91E489>[800*1.1]%</color> of Rapunzel's ATK and Cleanses all debuffs.",
+          "모든 아군을 공격력의 <color=#91E489>[800*1.1]%</color> 만큼 치유하고 모든 디버프를 제거합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Rapunzel_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, heal <color=#91E489>[150*1.1]%</color> of Rapunzel's ATK to 3 nearby allies.",
+          "매 3번 공격마다 주변 3명의 아군을 공격력의 <color=#91E489>[150*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Rapunzel_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Heals all allies by 6% of Rapunzel's ATK every 3 sec.",
+          "매 3초마다 모든 아군을 공격력의 6% 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RedKnight_Active",
+        "TermType": 0,
+        "Languages": [
+          "The Red Knight swings her sword with great retribution, dealing <color=#EAD53B>[350*1.1]%</color> DMG to enemies in a lane and removes all of the targets' buffs.",
+          "같은 라인에 있는 모든 적에게 공격력의 <color=#EAD53B>[350*1.1]%</color> 만큼 피해를 주고 모든 버프를 제거합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RedKnight_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, deal <color=#EAD53B>[150*1.1]%</color> DMG to enemies, inflicting them with Physical Weakness (-20% PRES) for 10 sec.",
+          "매 5번 공격마다 공격력의 <color=#EAD53B>[150*1.1]%</color> 만큼 피해를 주고 10초간 물리 저항력 -20% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RedKnight_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RedRidingHood_Active",
+        "TermType": 0,
+        "Languages": [
+          "Red swings her crimson blade, dealing <color=#EAD53B>[200*1.1]%</color> DMG + <color=#EAD53B>[60*1.1]%</color> DMG for each Burn stack on the target.",
+          "공격력의 <color=#EAD53B>[200*1.1]%</color> 만큼 피해를 줍니다. 화상 디버프 하나당 공격력의 <color=#EAD53B>[60*1.1]%</color> 만큼 추가 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RedRidingHood_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, Red deals <color=#EAD53B>[120*1.1]%</color> DMG in a small area around her target. Enemies hit are Burned.",
+          "매 3번 공격마다 공격력의 <color=#EAD53B>[120*1.1]%</color> 만큼 작은 범위 피해를 주고 화상 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RedRidingHood_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RobinHood_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deals <color=#EAD53B>[250*1.1]%</color> DMG in a small area around her target. Enemies that have been robbed take an additional 20% per stack.",
+          "화살의 비를 내려  공격력의 <color=#EAD53B>[250*1.1]%</color> 만큼 작은 범위 피해를 줍니다. 약탈 스택 하나 당 20%의 추가 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RobinHood_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, Robin hits her target for <color=#EAD53B>[150*1.1]%</color> DMG and applies a stack of Robbed, stealing 20% ATKSPD from the enemy for 20 sec (Max 3 stacks).",
+          "매 5번 공격마다 공격력의 <color=#EAD53B>[150*1.1]%</color> 만큼 피해를 주고 약탈 스택을 부여하며, 20초간 적으로부터 공격 속도 20%를 훔칩니다. (최대 3스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_RobinHood_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Saffi_Active",
+        "TermType": 0,
+        "Languages": [
+          "Saffi summons a giant freezing beam, dealing <color=#3BE5EA>[180*1.1]%</color> Damage in a small AoE. Enemies with the Frost debuff will be Frozen.",
+          "서리빛 광선을 발사하여 공격력의 <color=#3BE5EA>[180*1.1]%</color> 만큼 작은 범위 피해를 주고, 서리 디버프에 걸린 적들을 얼립니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Saffi_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 7 hits, Saffi grants all allies [80+8]% Cooldown Reduction for 10 seconds.",
+          "매 7번 공격마다 10초간 모든 아군에게 스킬 재사용 대기 시간 -[80+8]% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Saffi_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Saffi_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks inflict Frost (-15% MOVSPD and -15% ATKSPD) for 6 sec.",
+          "기본 공격 적중 시 6초간 서리 디버프를 부여합니다. (이동 속도 -15%, 공격 속도 -15%)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Saffi_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "All Water allies on the field get +5% ATK.",
+          "전투 시작 시, 필드의 모든 아군 물 속성 메르헨에게 공격력 +5% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Scarecrow_Active",
+        "TermType": 0,
+        "Languages": [
+          "Scarecrow stabs 3 times, dealing <color=#EAD53B>[120*1.1]%</color> DMG per hit, knocking back enemies, and afflicting them with Physical Weakness (-20% PRES) for 10 sec.",
+          "적을 3번 연속 찔러 각 타격마다 공격력의 <color=#EAD53B>[120*1.1]%</color> 만큼 피해를 주고 넉백 시킵니다. 첫 타격에 10초 간 -20% 물리 저항력을 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Scarecrow_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% PRES.",
+          "기본 물리 저항력 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_SnowWhite_Active",
+        "TermType": 0,
+        "Languages": [
+          "Snow White smashes the area in front of her, dealing <color=#3BE5EA>[300*1.1]%</color> Magic DMG. Enemies hit have -25% ATK for 10 sec.",
+          "전방의 땅을 내리쳐 공격력의 <color=#3BE5EA>[300*1.1]%</color> 만큼 마법 피해를 주고 10초간 공격력 -25% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_SnowWhite_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field gain a <color=#FFD63C>[5*1.4]%</color> HP Shield at the start of each wave.",
+          "전투 시작 시, 모든 아군에게 최대 생명력의 <color=#FFD63C>[5*1.4]%</color> 만큼 보호막을 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_SnowWhite_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "When Snow White falls, she resurrects with 50% HP and is shielded for 3 sec. Usable once per battle.",
+          "전투에서 쓰러질 경우, 최대 생명력의 50%와 3초간 유지되는 보호막을 가지고 부활합니다. (전투당 최대 1회)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TamamoNoMai_Active",
+        "TermType": 0,
+        "Languages": [
+          "Conjures a powerful gravity bomb that deals <color=#3BE5EA>[320*1.1]%</color> DMG in a large area, knocking them up and inflicting Magic Break (-20% MRES) and Silence for 10 sec.",
+          "적들을 공중에 띄우고 공격력의 <color=#3BE5EA>[320*1.1]%</color> 만큼 광역 범위 피해를 주며 10초간 마법 저항력 -20% 및 침묵을 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TamamoNoMai_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, Tamamo releases three flaming orbs that each seek out a random enemy. Inflicts <color=#3BE5EA>[150*1.1]%</color> DMG and Magic Break (-20% MRES) for 10 sec.",
+          "매 3번 공격마다 3개의 불덩이를 방출하여 하나당 무작위의 적에게 공격력의 <color=#3BE5EA>[150*1.1]%</color> 만큼 피해를 주고 10초간 마법 저항력 -20% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TamamoNoMai_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TamamoNoMai_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "All Water allies on the field get +5% ATK.",
+          "전투 시작 시, 필드의 모든 아군 물 속성 메르헨에게 공격력 +5% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TheBeast_Active",
+        "TermType": 0,
+        "Languages": [
+          "In a roar of fury, gain +[40+3]% ATKSPD and +[50+3]% ATK for 10 sec.",
+          "분노가 가득 찬 포효를 내질러 자신에게 10초간 공격 속도 +[40+3]%와 공격력 +[50+3]% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TheBeast_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, deal <color=#EAD53B>[160*1.1]%</color> DMG in a small area while knocking back enemies.",
+          "매 5번 공격마다 공격력의 <color=#EAD53B>[160*1.1]%</color> 만큼 작은 범위 피해를 주고 넉백 시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TheBeast_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Heals 2% of Max HP every 3 seconds.",
+          "매 3초당 자신의 최대 생명력 2% 만큼 회복합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TinMan_Active",
+        "TermType": 0,
+        "Languages": [
+          "Strike the enemy with a powerful swing, dealing <color=#EAD53B>[140*1.1]%</color> DMG and stunning them for 2 sec.",
+          "공격력의 <color=#EAD53B>[140*1.1]%</color> 만큼 피해를 주고 2초간 기절시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_TinMan_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 25% MRES.",
+          "기본 마법 저항력 +25%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Vita_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deal <color=#3BE5EA>[160*1.1]%</color> DMG in a large area while knocking back enemies. All allies are healed <color=#91E489>[400*1.1]%</color> ATK and receive a 15% PRES buff for 10 seconds.",
+          "공격력의 <color=#3BE5EA>[160*1.1]%</color> 만큼 광역 범위 피해를 주고 넉백 시킵니다. 모든 아군을 공격력의 <color=#91E489>[400*1.1]%</color> 만큼 치유하고 10초간 물리 저항력 +15% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Vita_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, all allies receive Gaia's blessing, healing <color=#91E489>[50*1.1]%</color> ATK per second for 3 seconds.",
+          "매 5번 공격마다 모든 아군에게 생명의 축복을 내려 3초간 공격력의 <color=#91E489>[50*1.1]%</color> 만큼 치유합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Vita_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All Nature allies on the field get +5% ATK.",
+          "전투 시작 시, 필드의 모든 아군 자연 속성 메르헨에게 공격력 +5% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WhiteKnight_Active",
+        "TermType": 0,
+        "Languages": [
+          "Buffs self with a <color=#FFD63C>[20*1.1]%</color> HP shield for 10 sec.",
+          "최대 생명력의 <color=#FFD63C>[20*1.1]%</color>에 해당하는 보호막을 자신에게 10초간 생성합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WhiteKnight_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, deal <color=#EAD53B>[40*1.1]%</color> DMG to enemies in a small area. Enemies hit are inflicted with a -25% ATK debuff for 5 sec.",
+          "매 4번 공격마다 공격력의 <color=#EAD53B>[40*1.1]%</color> 만큼 작은 범위 피해를 주고 5초간 공격력 -25% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WhiteKnight_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field with the Guardian class gain +10% PRES.",
+          "전투 시작 시, 필드의 모든 아군 가디언 클래스 메르헨에게 물리 저항력 +10% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WhiteRabbit_Active",
+        "TermType": 0,
+        "Languages": [
+          "White Rabbit speeds up time, granting all allies [25+2]% Energy and reducing ability cooldown over 5 seconds.",
+          "5초간 서서히 모든 아군에게 [25+2]%의 에너지를 부여하고, 스킬 재사용 대기 시간 2배 감소 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WhiteRabbit_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, White Rabbit will teleport to the weakest ally and grants them Haste (+[25+2]% ATKSPD) for 10 sec.",
+          "매 4번 공격마다 가장 생명력이 낮은 아군의 옆으로 순간 이동하여 10초간 공격 속도 +[25+2]% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WhiteRabbit_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WinterQueen_Active",
+        "TermType": 0,
+        "Languages": [
+          "Unleash a blizzard in a large area that deals <color=#3BE5EA>[110*1.1]%</color> DMG per second for 3 sec. Enemies with the Frost debuff will be Frozen.",
+          "눈보라를 일으켜 3초간 매 초당 공격력의 <color=#3BE5EA>[110*1.1]%</color> 만큼 광역 범위 피해를 주고, 서리 디버프에 걸린 적들을 얼립니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WinterQueen_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, mystical ice crystals will strike two random enemies for <color=#3BE5EA>[120*1.1]%</color> Magic DMG while inflicting Frost.",
+          "매 3번 공격마다 무작위 적 2명에게 공격력의 <color=#3BE5EA>[120*1.1]%</color> 만큼 마법 피해를 주고 서리 디버프를 부여합니다. (이동 속도 -15%, 공격 속도 -15%)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WinterQueen_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WinterQueen_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks inflict Frost (-15% MOVSPD and -15% ATKSPD) for 6 sec.",
+          "기본 공격 적중 시, 6초간 서리 디버프를 부여합니다. (이동 속도 -15%, 공격 속도 -15%)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_WinterQueen_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "All enemies take 10% DMG per second while Winter Queen is fielded.",
+          "모든 적에게 매초 공격력의 10% 만큼 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Siegfried_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "All allies on the field gain +10% DEF.",
+          "모든 아군 메르헨에게 방어력 +10% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Siegfried_Active",
+        "TermType": 0,
+        "Languages": [
+          "Strike a target 4 times, dealing <color=#EAD53B>[85*1.1]%</color> DMG per hit, knocking up on the last hit. The target has -[20+3]% ATK for 10 seconds.",
+          "대상을 4번 공격하여 각 타수마다 공격력의 <color=#EAD53B>[85*1.1]%</color> 만큼 피해를 주고 마지막 타격은 대상을 넉백시킵니다. 첫 피해를 받은 대상에게 10초간 공격력 -[20+3]% 감소 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Siegfried_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 6 hits, buff all allies DEF by [20*1.1]% of Siegfried's base DEF for 10 seconds (Max 1 Stack).",
+          "매 6번 공격마다 모든 아군 메르헨에게 10초 동안 지그프리드 왕자 기본 방어력의 [20*1.1]% 만큼 추가 방어력 버프를 부여합니다. (최대 1스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Thumbelina_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 20% Evasion.",
+          "기본 회피율 +20%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Thumbelina_Active",
+        "TermType": 0,
+        "Languages": [
+          "Thumbelina grants [12+2]% of her base ATK to all allies and +30% Resilience for 15 seconds.",
+          "모든 아군 메르헨에게 엄지공주 기본 공격력의 [12+2]% 만큼 추가 공격력 버프와 강인함 +30%를 15초간 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Thumbelina_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Thumbelina heals all allies by <color=#91E489>[350*1.1]%</color> ATK and a further <color=#91E489>[50*1.1]%</color> per second for 10 seconds. Only casted if an ally is below 50% HP. Usable once per battle.",
+          "아군 한 명의 생명력이 50% 미만으로 떨어질 경우 모든 아군을 엄지공주 공격력의 <color=#91E489>[350*1.1]%</color> 만큼 치유하고 다음 10초 동안 매 초 공격력의 <color=#91E489>[50*1.1]%</color> 치유합니다. (전투당 최대 1회)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Ozma_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Ozma_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "All allies in the same Row as Ozma gain Silence immunity.",
+          "자신과 같은 선상에 있는 모든 아군 메르헨에게 침묵 면역을 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Ozma_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, Ozma will curse the furthest enemy in her lane with -[20+5]% Range and Magic Weakness (-20% MRES) for 10 seconds.",
+          "매 3번 공격마다 동선상의 제일 멀리 떨어진 대상에게 10초 동안 [20+5]% 공격 사거리 감소와 마법 저항력 -20% 디버프를 부여합니다. ",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Ozma_Active",
+        "TermType": 0,
+        "Languages": [
+          "Ozma casts a powerful magic wave at her target dealing <color=#3BE5EA>[300*1.1]%</color> Magic DMG in a large area. Enemies hit are Dispelled, greatly knocked back, and stunned for 2 seconds.",
+          "강력한 주문을 외워 대상 주위 범위에 공격력의 <color=#3BE5EA>[300*1.1]%</color> 만큼 마법 피해를 줍니다. 또한 피해를 입은 적의 이로운 버프를 제거하고 넉백시켜 2초 동안 기절 상태에 빠뜨립니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_EvilQueen_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Evil Queen's basic attacks fire from her two mirrors. Each basic attack deals 50% DMG in a small area.",
+          "기본 공격은 두 개의 거울로부터 발사되어 공격력의 50% 만큼 작은 광역 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_EvilQueen_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Targets hit by any of Evil Queen's attacks are afflicted with Elemental Weakness (20% additional DMG from Elemental bonus) for 10 sec.",
+          "이블 퀸에게 피해를 입은 적들은 10초 동안 약점 속성 피해 20% 증가 디버프가 부여됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_EvilQueen_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "For each Dark ally on the field, Evil Queen gains 3% ATK.",
+          "전투 시작 시, 자신에게 모든 아군 어둠 속성 메르헨 한 명 당 공격력 +3% 버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_EvilQueen_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 6 hits, fire 12 dark bolts at random targets. Each projectile deals <color=#3BE5EA>[20+2]%</color> DMG and inflicts Poison (Nature damage) for 10 seconds. (Max 5 Stacks)",
+          "매 6번 공격마다 무작위의 대상에게 12개의 어둠 창을 발사해 각 창마다 공격력의 <color=#3BE5EA>[20+2]%</color> 만큼 피해를 입히며 10초 동안 대상에게 독 피해를 입힙니다 (자연 속성 독, 최대 5 스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_EvilQueen_Active",
+        "TermType": 0,
+        "Languages": [
+          "Evil Queen releases a barrage of dark energy over the field. Deals <color=#3BE5EA>[330*1.1]%</color> DMG + <color=#3BE5EA>[20+2]%</color> per Poison stack.",
+          "주변에 어두운 에너지를 내뿜어 공격력의 <color=#3BE5EA>[330*1.1]%</color> 만큼 피해를 입히고 독성 스택 하나당 공격력의 <color=#3BE5EA>[20+2]%</color> 만큼 추가 피해를 입힙니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_JeonWooChi_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks strike 3 times. (33% DMG per hit)",
+          "기본 공격은 세 번의 타격을 가합니다. (타격당 공격력의 33%의 피해)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_JeonWooChi_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "When Jeon Woo-Chi falls, he teleports to the weakest ally and heals 50% HP. Can only be used once per battle.",
+          "전우치가 전투 중 쓰러지면 생명력이 가장 적은 아군 메르헨 쪽으로 순간이동해 전우치의 최대 생명력의 50% 만큼 회복합니다 (전투당 최대 1회).",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_JeonWooChi_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Naturally has 10% Evasion.",
+          "기본 회피율 +10%",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_JeonWooChi_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 basic attacks, Jeon Woo-Chi gains [5+1]% Attack Speed, [5+1]% Evasion, and [12 + 2]% Move Speed for 15 seconds. (Max 3 Stacks)",
+          "매 4번 공격마다 자신에게 15초 동안 공격 속도 [5+1]%, 회피율 [5+1]%, 이동 속도 [12+2]% 증가 버프를 부여합니다 (최대 3스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_JeonWooChi_Active",
+        "TermType": 0,
+        "Languages": [
+          "Jeon Woo-Chi winds up his staff, dealing <color=red>[380*1.1]%</color> True DMG to targets in a small area while greatly knocking them back.",
+          "자신의 봉을 감아쳐서 작은 범위에 있는 적들에게 공격력의 <color=red>[380*1.1]%</color> 만큼 광역 고정 피해를 주고 넉백시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Morgana_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Morgana_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "All Mage class allies in the same row as Morgana gain +8% ATK.",
+          "자신과 같은 선상에 있는 모든 메이지 클래스에게 +8% 공격력 증가 버프를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Morgana_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, Morgana gains [12+1]% Energy Recharge for 15 sec. (Stacks 3 times)",
+          "매 4번 공격마다 모르가나는 15초간 에너지 충전률 [12 + 1]%를 획득합니다 (최대 3스택까지 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Morgana_Active",
+        "TermType": 0,
+        "Languages": [
+          "Morgana inflicts <color=#3BE5EA>[180*1.1]%</color> DMG in a large area around her target. Enemies hit have -10% MRES for 10 seconds. All Mage allies on the field gain +5 Energy. ",
+          "공격력의 <color=#3BE5EA>[180*1.1]%</color> 만큼 마법 피해를 대상과 넓은 범위에 존재하는 적들에게 입힙니다. 적에게 10초간 -10% 마법저항력 디버프를 부여하고 모든 아군 메이지 계열 메르헨에게 +5 에너지를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_KangRim_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Summon two Reaper Minions at the beginning of each wave. (Gains 30% of Kang Rim's HP, ATK, and DEF)",
+          "웨이브 마다 전투 시작 시, 작은 저승사자 2마리를 소환합니다. 작은 저승사자는 강림 레벨에 따라 강해지고 강림의 생명력, 공격력, 방어력 30%의 만큼 추가로 강해집니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_KangRim_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "All allies in the same column as Kang Rim gain +15% Lifesteal.",
+          "자신과 동일 세로 선상에 있는 모든 아군 메르헨들은 +15% 생명력 흡수 능력을 얻습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_KangRim_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, Kang Rim fires 2 fireballs at random enemies, dealing <color=#3BE5EA>[120*1.1]%</color> DMG in a small area. Targets are Burned and have -15% ATK for 6 seconds.",
+          "매 4번 공격마다 두개의 화염을 무작위의 적에게 발사해 공격력의 <color=#3BE5EA>[120 * 1.1]%</color> 만큼의 작은 범위 피해를 입히고 적들에게 6초 동안 화상 디버프와 공격력 감소 15% 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_KangRim_Active",
+        "TermType": 0,
+        "Languages": [
+          "Ignite a large area in spectral fire, dealing <color=#3BE5EA>[350*1.1]%</color> DMG. All allies fielded heal for <color=#91E489>[500*1.1]%</color> ATK. Enemy targets below 10% HP are <color=red>Executed</color>.",
+          "공격력의 <color=#3BE5EA>[350*1.1]%</color> 만큼 광역 피해를 주고 모든 아군을 공격력의 <color=#91E489>[500*1.1]%</color> 만큼 회복시킵니다. 적의 생명력이 10% 이하인 경우 <color=red>즉사</color>시킵니다. ",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_VanHelsing_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Van Helsing's attacks afflict Grievous Wounds (50% Healing Reduction) for 10 seconds.",
+          "반 헬싱에게 피해를 입은 적들은 10초 동안 치유량 50% 감소 디버프가 부여됩니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_VanHelsing_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Deals +10% additional damage against Dark enemies.",
+          "어둠 속성 적에게 주는 데미지가 10% 증가합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_VanHelsing_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Van Helsing has 100% Accuracy.",
+          "반 헬싱은 100%의 명중률을 가집니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_VanHelsing_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 5 hits, fire a barrage of 5 bolts at the enemy with lowest HP, dealing <color=#EAD53B>[50*1.1]%</color> DMG per bolt and inflicting knockback.",
+          "매 5번 공격마다 체력이 가장 적은 적을 향해 5개의 볼트를 발사하여 볼트당 공격력의 <color=#EAD53B>[50*1.1]%</color> 데미지를 주고 넉백 시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_VanHelsing_Active",
+        "TermType": 0,
+        "Languages": [
+          "Summon a magic cross down in a large area, dealing <color=#EAD53B>[300*1.1]%</color> DMG. Enemies hit are Stunned for 3 seconds.",
+          "마력을 담은 십자가를 소환하여 공격력의 <color=#EAD53B>[300*1.1]%</color> 만큼 광역 피해를 주고 맞은 적들을 3초간 기절 시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      }
+    ],
+    "CaseInsensitiveTerms": 0,
+    "OnMissingTranslation": 1,
+    "mTerm_AppName": "",
+    "mLanguages": [
+      {
+        "Name": "English",
+        "Code": "en",
+        "Flags": 0
+      },
+      {
+        "Name": "Korean",
+        "Code": "ko",
+        "Flags": 0
+      },
+      {
+        "Name": "Japanese",
+        "Code": "ja",
+        "Flags": 0
+      }
+    ],
+    "IgnoreDeviceLanguage": 0,
+    "_AllowUnloadingLanguages": 0,
+    "Google_WebServiceURL": "https://script.google.com/macros/s/AKfycbwFv2D9sGfFquY8SX2dnWIyPhy-awtf603LGDXVkE_OhcCx3VJFXuu9RGlNhWcBWrJt/exec",
+    "Google_SpreadsheetKey": "1S_LOC54ZpJyTCGCShdBicGEwV7FBWPFXH79PORFX7MI",
+    "Google_SpreadsheetName": "I2Loc ProjectR Abilities",
+    "Google_LastUpdatedVersion": "1664459740229",
+    "GoogleUpdateFrequency": 1,
+    "GoogleInEditorCheckFrequency": 2,
+    "GoogleUpdateSynchronization": 0,
+    "GoogleUpdateDelay": 0.0,
+    "Assets": []
+  }
+}

@@ -1,0 +1,418 @@
+
+SD_WhiteRabbit_Skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 333, 73
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 463, 226
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 220, 156
+  size: 30, 97
+  orig: 30, 97
+  offset: 0, 0
+  index: -1
+Lponytail
+  rotate: false
+  xy: 327, 174
+  size: 135, 192
+  orig: 135, 192
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 499, 477
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 249, 4
+  size: 31, 50
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+Rarm_bow
+  rotate: false
+  xy: 453, 371
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 441, 12
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 154, 3
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+Rshoulder_strap
+  rotate: false
+  xy: 499, 490
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 327, 244
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+bag2
+  rotate: false
+  xy: 364, 245
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+bang1
+  rotate: true
+  xy: 197, 107
+  size: 78, 168
+  orig: 78, 168
+  offset: 0, 0
+  index: -1
+bang2
+  rotate: false
+  xy: 400, 269
+  size: 111, 95
+  orig: 111, 95
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 451, 42
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+clockspell layer 2
+  rotate: false
+  xy: 0, 185
+  size: 327, 327
+  orig: 333, 333
+  offset: 3, 3
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 85, 61
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+eyeflinch
+  rotate: false
+  xy: 0, 53
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 122
+  size: 99, 64
+  orig: 99, 64
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 98, 122
+  size: 99, 64
+  orig: 99, 64
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 181, 35
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 327, 362
+  size: 140, 151
+  orig: 140, 157
+  offset: 0, 6
+  index: -1
+glow
+  rotate: false
+  xy: 154, 36
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+glowingripple
+  rotate: false
+  xy: 258, 34
+  size: 73, 73
+  orig: 77, 77
+  offset: 2, 2
+  index: -1
+hat
+  rotate: false
+  xy: 346, 134
+  size: 166, 112
+  orig: 166, 112
+  offset: 0, 0
+  index: -1
+hourhand
+  rotate: true
+  xy: 331, 26
+  size: 32, 106
+  orig: 34, 109
+  offset: 1, 1
+  index: -1
+minutehand
+  rotate: false
+  xy: 467, 364
+  size: 32, 148
+  orig: 34, 151
+  offset: 1, 1
+  index: -1
+mouth_shout
+  rotate: false
+  xy: 445, 499
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 438, 366
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 327, 509
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 499, 465
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+pocketwatch
+  rotate: true
+  xy: 85, 12
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+pocketwatchhingeclosed
+  rotate: true
+  xy: 0, 6
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+pocketwatchhingemid
+  rotate: false
+  xy: 299, 11
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+pocketwatchhingeopen
+  rotate: true
+  xy: 52, 2
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 362, 58
+  size: 81, 76
+  orig: 83, 81
+  offset: 1, 3
+  index: -1
+tail
+  rotate: false
+  xy: 376, 3
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+watch1_ear
+  rotate: false
+  xy: 497, 259
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+watch2_ear
+  rotate: false
+  xy: 497, 259
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+watch1_ear2
+  rotate: true
+  xy: 348, 6
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+watch2_ear2
+  rotate: true
+  xy: 348, 6
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+watch1_tail
+  rotate: false
+  xy: 461, 188
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+watch2_tail
+  rotate: false
+  xy: 461, 188
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+watch1_wing
+  rotate: false
+  xy: 358, 206
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+watch2_wing2
+  rotate: false
+  xy: 358, 206
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+watch1_wing2
+  rotate: false
+  xy: 327, 203
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+watch2_wing
+  rotate: false
+  xy: 327, 203
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+
+SD_WhiteRabbit_Skin22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lear
+  rotate: false
+  xy: 320, 137
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Lhaircharm
+  rotate: 180
+  xy: 404, 167
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Rhairtie
+  rotate: false
+  xy: 387, 338
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 375, 131
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Rponytail
+  rotate: false
+  xy: 320, 322
+  size: 109, 125
+  orig: 109, 125
+  offset: 0, 0
+  index: -1
+bag_strap
+  rotate: false
+  xy: 408, 247
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+bang3
+  rotate: false
+  xy: 320, 188
+  size: 85, 135
+  orig: 85, 135
+  offset: 0, 0
+  index: -1
+bang4
+  rotate: false
+  xy: 380, 210
+  size: 31, 90
+  orig: 31, 90
+  offset: 0, 0
+  index: -1
+clockspell layer 1
+  rotate: false
+  xy: 0, 127
+  size: 320, 320
+  orig: 322, 322
+  offset: 1, 1
+  index: -1
+watch1
+  rotate: false
+  xy: 380, 301
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+watch2
+  rotate: false
+  xy: 320, 408
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1

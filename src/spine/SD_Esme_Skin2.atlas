@@ -1,0 +1,250 @@
+
+SD_Esme_Skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 459, 12
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 470, 231
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+backhairx
+  rotate: 180
+  xy: 237, 83
+  size: 266, 221
+  orig: 266, 221
+  offset: 0, 0
+  index: -1
+crown2
+  rotate: true
+  xy: 488, 386
+  size: 125, 19
+  orig: 125, 19
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 157, 4
+  size: 153, 83
+  orig: 153, 83
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 0, 14
+  size: 157, 90
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 284, 304
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+flowerstem
+  rotate: false
+  xy: 88, 188
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 310, 7
+  size: 84, 149
+  orig: 84, 149
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: 270
+  xy: 133, 157
+  size: 72, 145
+  orig: 72, 145
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 0, 103
+  size: 126, 210
+  orig: 126, 210
+  offset: 0, 0
+  index: -1
+llifesaver
+  rotate: false
+  xy: 0, 229
+  size: 284, 282
+  orig: 284, 282
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 36, 222
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+mouthshock
+  rotate: false
+  xy: 92, 212
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 62, 203
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+
+SD_Esme_Skin22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: 270
+  xy: 189, 170
+  size: 51, 144
+  orig: 51, 144
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 427, 259
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 155
+  size: 50, 139
+  orig: 50, 139
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 432, 180
+  size: 43, 79
+  orig: 43, 79
+  offset: 0, 0
+  index: -1
+backfrill
+  rotate: true
+  xy: 406, 372
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 304
+  size: 222, 188
+  orig: 222, 188
+  offset: 0, 0
+  index: -1
+backribbon1
+  rotate: false
+  xy: 334, 372
+  size: 72, 97
+  orig: 72, 97
+  offset: 0, 0
+  index: -1
+backribbon2
+  rotate: true
+  xy: 333, 194
+  size: 65, 99
+  orig: 65, 99
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 226, 228
+  size: 110, 144
+  orig: 110, 144
+  offset: 0, 0
+  index: -1
+crown1
+  rotate: false
+  xy: 138, 131
+  size: 136, 39
+  orig: 136, 39
+  offset: 0, 0
+  index: -1
+crownheart
+  rotate: false
+  xy: 426, 128
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 402
+  size: 153, 90
+  orig: 153, 90
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 222, 372
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 328, 273
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: 270
+  xy: 65, 193
+  size: 88, 161
+  orig: 88, 161
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: 270
+  xy: 21, 228
+  size: 136, 220
+  orig: 136, 220
+  offset: 0, 0
+  index: -1
+hairband
+  rotate: false
+  xy: 36, 128
+  size: 102, 31
+  orig: 102, 31
+  offset: 0, 0
+  index: -1
+hairribbon
+  rotate: 180
+  xy: 4, 345
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 333, 145
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1

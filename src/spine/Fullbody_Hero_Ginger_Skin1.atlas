@@ -1,0 +1,845 @@
+
+Fullbody_Hero_Ginger_Skin1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcapecrystal
+  rotate: false
+  xy: 494, 20
+  size: 124, 52
+  orig: 124, 52
+  offset: 0, 0
+  index: -1
+Leyebrow
+  rotate: false
+  xy: 215, 23
+  size: 79, 16
+  orig: 79, 16
+  offset: 0, 0
+  index: -1
+Leyelashbottom
+  rotate: true
+  xy: 1982, 1423
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+Leyelashtop
+  rotate: true
+  xy: 1982, 1606
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+Leyelid
+  rotate: false
+  xy: 407, 3
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 1214, 689
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: true
+  xy: 1982, 1864
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 1152, 8
+  size: 117, 376
+  orig: 123, 388
+  offset: 0, 12
+  index: -1
+Lleg
+  rotate: true
+  xy: 1837, 350
+  size: 839, 183
+  orig: 839, 183
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 1837, 1147
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Lsleeve2
+  rotate: false
+  xy: 494, 72
+  size: 122, 253
+  orig: 122, 253
+  offset: 0, 0
+  index: -1
+Racpecrystal
+  rotate: false
+  xy: 823, 9
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 1770, 14
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 1303, 779
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+Reyelashbottom
+  rotate: true
+  xy: 1837, 1078
+  size: 69, 37
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+Reyelashtop
+  rotate: false
+  xy: 335, 3
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Reyelid
+  rotate: true
+  xy: 1998, 1518
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 1215, 697
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: true
+  xy: 1982, 1693
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 1517, 833
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Rfinger2
+  rotate: false
+  xy: 1197, 673
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: false
+  xy: 2004, 1619
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+Rfinger4
+  rotate: false
+  xy: 1372, 767
+  size: 81, 29
+  orig: 81, 33
+  offset: 0, 4
+  index: -1
+Rhand
+  rotate: false
+  xy: 1634, 11
+  size: 136, 78
+  orig: 136, 78
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: true
+  xy: 172, 5
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 1061, 93
+  size: 91, 349
+  orig: 91, 349
+  offset: 0, 0
+  index: -1
+ahoge
+  rotate: false
+  xy: 1982, 1506
+  size: 55, 106
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 0, 879
+  size: 1559, 1168
+  orig: 1569, 1242
+  offset: 7, 0
+  index: -1
+backribbon
+  rotate: true
+  xy: 1417, 769
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+backskirtfold
+  rotate: false
+  xy: 1197, 730
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 1152, 307
+  size: 36, 135
+  orig: 36, 136
+  offset: 0, 1
+  index: -1
+bigcookieapron
+  rotate: 180
+  xy: 1179, 94
+  size: 380, 674
+  orig: 380, 689
+  offset: 0, 15
+  index: -1
+breadbasket
+  rotate: false
+  xy: 0, 325
+  size: 621, 554
+  orig: 621, 555
+  offset: 0, 1
+  index: -1
+cakerack
+  rotate: false
+  xy: 621, 441
+  size: 576, 438
+  orig: 576, 438
+  offset: 0, 0
+  index: -1
+cakeslice
+  rotate: false
+  xy: 0, 38
+  size: 494, 287
+  orig: 494, 288
+  offset: 0, 1
+  index: -1
+chesttie1
+  rotate: true
+  xy: 1864, 5
+  size: 83, 154
+  orig: 83, 154
+  offset: 0, 0
+  index: -1
+chesttie2
+  rotate: false
+  xy: 1981, 1180
+  size: 50, 148
+  orig: 50, 148
+  offset: 0, 0
+  index: -1
+cookie1
+  rotate: false
+  xy: 294, 9
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+cookie2
+  rotate: false
+  xy: 0, 3
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+cookie3
+  rotate: false
+  xy: 88, 6
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+forksweetleaf
+  rotate: false
+  xy: 584, 309
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+gingerbread1_Larm
+  rotate: true
+  xy: 1303, 795
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+gingerbread1_Lbackarm
+  rotate: true
+  xy: 1982, 1926
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+gingerbread1_Lleg
+  rotate: true
+  xy: 1061, 3
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+gingerbread1_Rarm
+  rotate: true
+  xy: 1527, 12
+  size: 76, 107
+  orig: 76, 107
+  offset: 0, 0
+  index: -1
+gingerbread1_Rbackarm
+  rotate: true
+  xy: 922, 7
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+gingerbread2_arm
+  rotate: true
+  xy: 618, 7
+  size: 52, 105
+  orig: 52, 105
+  offset: 0, 0
+  index: -1
+gingerbread3_Rleg
+  rotate: true
+  xy: 722, 1
+  size: 57, 101
+  orig: 57, 101
+  offset: 0, 0
+  index: -1
+gingerbread3_head
+  rotate: false
+  xy: 1197, 770
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+hairbead1
+  rotate: false
+  xy: 1212, 673
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+hairbead2
+  rotate: false
+  xy: 1303, 769
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hairbead3
+  rotate: false
+  xy: 1214, 682
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hairheart1
+  rotate: true
+  xy: 48, 1
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+hairheart2
+  rotate: false
+  xy: 1527, 767
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+necklacecrystals
+  rotate: false
+  xy: 1982, 1748
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+pottedplant
+  rotate: false
+  xy: 1559, 337
+  size: 278, 851
+  orig: 278, 851
+  offset: 0, 0
+  index: -1
+sideskirtfold
+  rotate: false
+  xy: 1197, 628
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+sticker2
+  rotate: false
+  xy: 1982, 1811
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+sticker3
+  rotate: true
+  xy: 1982, 1981
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+sticker4
+  rotate: false
+  xy: 135, 1
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+stiicker5
+  rotate: false
+  xy: 570, 315
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+strawberrycake
+  rotate: false
+  xy: 1559, 88
+  size: 467, 249
+  orig: 467, 249
+  offset: 0, 0
+  index: -1
+sweetrack
+  rotate: false
+  xy: 1559, 1188
+  size: 423, 859
+  orig: 423, 859
+  offset: 0, 0
+  index: -1
+wineglass
+  rotate: false
+  xy: 621, 58
+  size: 440, 383
+  orig: 441, 383
+  offset: 1, 0
+  index: -1
+
+Fullbody_Hero_Ginger_Skin12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lear
+  rotate: false
+  xy: 1013, 1692
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 1391, 1238
+  size: 380, 370
+  orig: 380, 370
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 1777, 1160
+  size: 143, 354
+  orig: 143, 354
+  offset: 0, 0
+  index: -1
+Lsleeve1
+  rotate: true
+  xy: 20, 170
+  size: 185, 293
+  orig: 185, 293
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 1938, 1698
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 325, 782
+  size: 344, 383
+  orig: 344, 383
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 765, 601
+  size: 456, 254
+  orig: 456, 254
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: 180
+  xy: 1133, 318
+  size: 278, 255
+  orig: 278, 255
+  offset: 0, 0
+  index: -1
+Rsleeveback
+  rotate: 270
+  xy: 1093, 76
+  size: 149, 246
+  orig: 149, 246
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: 270
+  xy: 537, 264
+  size: 190, 270
+  orig: 190, 270
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: 180
+  xy: 723, 170
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+backhead
+  rotate: false
+  xy: 1415, 147
+  size: 288, 235
+  orig: 288, 235
+  offset: 0, 0
+  index: -1
+backskirt
+  rotate: true
+  xy: 356, 225
+  size: 121, 370
+  orig: 121, 370
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 974, 448
+  size: 227, 281
+  orig: 227, 281
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 610, 412
+  size: 230, 338
+  orig: 230, 338
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 1073, 157
+  size: 160, 301
+  orig: 160, 301
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 1269, 1286
+  size: 74, 122
+  orig: 74, 122
+  offset: 0, 0
+  index: -1
+bigcookie_Larm
+  rotate: false
+  xy: 1411, 259
+  size: 175, 183
+  orig: 175, 183
+  offset: 0, 0
+  index: -1
+bigcookie_Rarm
+  rotate: 180
+  xy: 1741, 233
+  size: 287, 155
+  orig: 287, 155
+  offset: 0, 0
+  index: -1
+bigcookie_RarmX
+  rotate: true
+  xy: 1611, 382
+  size: 137, 292
+  orig: 137, 292
+  offset: 0, 0
+  index: -1
+bigcookie_Rshoulder
+  rotate: true
+  xy: 452, 642
+  size: 156, 313
+  orig: 156, 313
+  offset: 0, 0
+  index: -1
+bigcookie_head
+  rotate: true
+  xy: 1012, 954
+  size: 318, 421
+  orig: 318, 421
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1013, 1355
+  size: 411, 691
+  orig: 411, 691
+  offset: 0, 0
+  index: -1
+cape1
+  rotate: 270
+  xy: 313, 130
+  size: 225, 331
+  orig: 225, 331
+  offset: 0, 0
+  index: -1
+cape2
+  rotate: true
+  xy: 1119, 732
+  size: 235, 643
+  orig: 252, 649
+  offset: 17, 0
+  index: -1
+cape3
+  rotate: false
+  xy: 0, 480
+  size: 266, 154
+  orig: 266, 154
+  offset: 0, 0
+  index: -1
+cape4
+  rotate: false
+  xy: 1773, 1205
+  size: 272, 562
+  orig: 299, 563
+  offset: 0, 0
+  index: -1
+cape5
+  rotate: false
+  xy: 265, 354
+  size: 271, 139
+  orig: 271, 139
+  offset: 0, 0
+  index: -1
+cart
+  rotate: false
+  xy: 0, 1126
+  size: 1013, 920
+  orig: 1055, 920
+  offset: 0, 0
+  index: -1
+cookieskillet
+  rotate: false
+  xy: 321, 493
+  size: 289, 149
+  orig: 289, 150
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1777, 913
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+fork
+  rotate: false
+  xy: 923, 148
+  size: 148, 123
+  orig: 148, 123
+  offset: 0, 0
+  index: -1
+forksweet
+  rotate: true
+  xy: 1976, 1887
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+gingerbread1_body
+  rotate: 270
+  xy: 1221, 605
+  size: 199, 466
+  orig: 199, 466
+  offset: 0, 0
+  index: -1
+gingerbread2_body
+  rotate: 270
+  xy: 0, 36
+  size: 156, 236
+  orig: 172, 236
+  offset: 0, 0
+  index: -1
+gingerbread3_Larm
+  rotate: false
+  xy: 1794, 1524
+  size: 101, 133
+  orig: 101, 133
+  offset: 0, 0
+  index: -1
+gingerbread3_body
+  rotate: true
+  xy: 1703, 106
+  size: 136, 333
+  orig: 136, 333
+  offset: 0, 0
+  index: -1
+gingerbread3_cakeslice
+  rotate: false
+  xy: 911, 271
+  size: 222, 150
+  orig: 222, 150
+  offset: 0, 0
+  index: -1
+hairribbon1
+  rotate: true
+  xy: 1013, 1596
+  size: 97, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+hairribbon2
+  rotate: true
+  xy: 1013, 1975
+  size: 72, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+hairribbon3
+  rotate: false
+  xy: 1013, 1218
+  size: 178, 138
+  orig: 178, 142
+  offset: 0, 0
+  index: -1
+hairribbon4
+  rotate: true
+  xy: 652, 541
+  size: 101, 188
+  orig: 101, 188
+  offset: 0, 0
+  index: -1
+hairtail1
+  rotate: true
+  xy: 491, 67
+  size: 169, 239
+  orig: 169, 239
+  offset: 0, 0
+  index: -1
+hairtail2
+  rotate: false
+  xy: 1016, 1504
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+lights1
+  rotate: true
+  xy: 1433, 954
+  size: 283, 344
+  orig: 283, 344
+  offset: 0, 0
+  index: -1
+lights2
+  rotate: true
+  xy: 0, 858
+  size: 268, 325
+  orig: 268, 325
+  offset: 0, 0
+  index: -1
+lights3
+  rotate: true
+  xy: 708, 825
+  size: 253, 307
+  orig: 253, 307
+  offset: 0, 0
+  index: -1
+lights4
+  rotate: false
+  xy: 1768, 1766
+  size: 208, 280
+  orig: 208, 280
+  offset: 0, 0
+  index: -1
+mug1
+  rotate: false
+  xy: 1688, 518
+  size: 252, 181
+  orig: 252, 181
+  offset: 0, 0
+  index: -1
+mug2
+  rotate: false
+  xy: 0, 332
+  size: 226, 148
+  orig: 226, 148
+  offset: 0, 0
+  index: -1
+neck
+  rotate: 180
+  xy: 1294, 442
+  size: 317, 201
+  orig: 317, 201
+  offset: 0, 0
+  index: -1
+squeezebottle
+  rotate: false
+  xy: 1672, 688
+  size: 354, 248
+  orig: 354, 248
+  offset: 0, 0
+  index: -1
+sticker1
+  rotate: false
+  xy: 1976, 1956
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1404, 1607
+  size: 391, 440
+  orig: 391, 440
+  offset: 0, 0
+  index: -1
+waterheater
+  rotate: true
+  xy: 0, 634
+  size: 224, 321
+  orig: 224, 321
+  offset: 0, 0
+  index: -1

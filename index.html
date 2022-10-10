@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grimlight</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+          rel="stylesheet" 
+          integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" 
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">  
+    <script src="src/js/spine-player.js"></script>
+    <link rel="stylesheet" href="src/css/spine-player.css">
+    <link rel="stylesheet" type="text/css" href="src/css/main.css">
+  </head>
+  <body style="background-image: url(src/img/bg1.png); background-attachment: fixed;">
+    <div id="app">
+      <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+        <div class="container px-4 px-lg-5">
+            <a class="navbar-brand" href="index.html"><img src="src/img/logo_black.png" alt="Grimlight" style="width: 15%;"></a>
+            <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                Menu
+                <svg class="svg-inline--fa fa-bars" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"></path></svg>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                    <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Home</a></li>
+                </ul>
+            </div> -->
+        </div>
+      </nav>
+      <div class="container">
+        <div class="row">
+          <!-- 左側欄 -->
+          <div class="col-md-2">
+            <nav class="nav flex-column" style="position: relative;">
+              <form class="d-flex" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="searchFilter">
+              </form>
+              <div class="me-2 mb-3">
+                <select class="form-select mt-2" v-model="elementFilter" @click="clearSearch">
+                  <option selected>Element</option>
+                  <option value="Water">Water</option>
+                  <option value="Fire">Fire</option>
+                  <option value="Nature">Nature</option>
+                  <option value="Light">Light</option>
+                  <option value="Dark">Dark</option>
+                </select>
+                <select class="form-select mt-2" v-model="classFilter" @click="clearSearch">
+                  <option selected>Class</option>
+                  <option value="Guardian">Guardian</option>
+                  <option value="Warrior">Warrior</option>
+                  <option value="Assassin">Assassin</option>
+                  <option value="Ranger">Ranger</option>
+                  <option value="Mage">Mage</option>
+                  <option value="Sage">Sage</option>
+                </select>
+              </div>
+              <div style="overflow-y: scroll; overflow-x: hidden; height: 70vh;">
+                <template v-for="(item, key) in charsFilter" :key="item.name">
+                    <a class="nav-link" href="#" @click.prevent="showChar(item)"
+                    @mouseover="showIcon(item)" @mouseleave="hideIcon()">{{ item.name }}</a>
+                </template>
+              </div>
+              <div style="position: absolute; top: 50%; left: 100%; width: 120%;">
+                <img :src="selectIcon" alt="" style="width: 30%;" v-show="isSelectIcon">
+              </div>
+            </nav>
+          </div>
+          <!-- 中間主畫面 -->
+          <div class="offset-md-1 col">
+            <div class="row">
+              <div class="col-4 offset-1" style="text-align: center;">
+                <img :src="ui_card_path" alt="" style="width: 70%;">
+                <h3>{{ char.name }}</h3>
+                <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()" v-if="!isFullBody">SHOW ANIMATION</button>
+                <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button>
+              </div>
+              <div class="col-6 offset-1">
+                <!-- 面板數值 -->
+                <table class="table table-hover">
+                  <thead>
+                    <tr>
+                      <th scope="col" style="width: 50%;">
+                        <div class="d-inline-block">
+                          <template v-for="index in char.star">
+                            <img src="src/img/UI_Icon_Star_Hero.png" alt="" style="width: 2em;">
+                          </template>
+                        </div>
+                      </th>
+                      <th scope="col" class="d-flex">
+                        <img src="src/img/UI_Icon_CombatCost.png" alt="" style="width: 1.5em;">
+                        <h3 class="my-auto ms-3"><b>{{ char.cost }}</b></h3>
+                          <button type="button" class="btn btn-outline-secondary ms-auto" @click="isDetail = !isDetail" v-show="!isDetail">
+                            <i class="bi bi-plus-lg"></i>
+                          </button>
+                          <button type="button" class="btn btn-outline-secondary ms-auto" @click="isDetail = !isDetail" v-show="isDetail">
+                            <i class="bi bi-dash-lg"></i>
+                          </button>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">CLASS</th>
+                      <td><span class="me-2"><img :src="'src//img//UI_Icon_Class_' + char.class + '.png'" alt="" style="width: 2em;"></span>{{ char.class }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">ELEMENT</th>
+                      <td><span class="me-2"><img :src="'src//img//UI_Icon_Attribute_' + char.element + '.png'" alt="" style="width: 2em;"></span>{{ char.element }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">DMG TYPE</th>
+                      <td>{{ char.dmgType }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">LEVEL</th>
+                      <td>
+                        <div class="input-group input-group-sm w-50">
+                          <input type="number" aria-label="level" class="form-control" 
+                          style="background: transparent; font-weight: bold;" 
+                          :value="level" max="70" min="1" v-model="level">
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">ATK</th>
+                      <td>{{ atk }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">DEF</th>
+                      <td>{{ def }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">HP</th>
+                      <td>{{ hp }}</td>
+                    </tr>
+                    <template v-if="isDetail">
+                      <tr>
+                        <th scope="row">RANGE</th>
+                        <td>{{ char.rangeType }}({{ char.range }})</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">ASPD</th>
+                        <td>{{ char.aspd }}</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">CRIT RATE</th>
+                        <td>{{ char.crit }}%</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">CRIT DMG</th>
+                        <td>{{ char.cdmg }}%</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">EVA</th>
+                        <td>{{ char.eva }}%</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">PRES</th>
+                        <td>{{ char.pres }}%</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">MRES</th>
+                        <td>{{ char.mres }}%</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">RESILENCE</th>
+                        <td>{{ char.resilence }}%</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">LIFE STEAL</th>
+                        <td>{{ char.lifesteal }}%</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">HEAL BONUS</th>
+                        <td>{{ char.healBonus }}%</td>
+                      </tr>
+                    </template>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <!-- spine動畫 -->
+            <div class="row" v-show="isFullBody">
+              <ul class="nav nav-tabs">
+                <li class="nav-item">
+                  <a class="nav-link" :class="{ active: skin === ''}" @click="skin = ''; setSpine()" href="#">Normal</a>
+                </li>
+                <li class="nav-item" v-if="char.skin1">
+                  <a class="nav-link" :class="{ active: skin === '_skin1'}" @click="skin = '_skin1'; setSpine()" href="#">Skin1</a>
+                </li>
+                <li class="nav-item" v-if="char.skin2">
+                  <a class="nav-link" :class="{ active: skin === '_skin2'}" @click="skin = '_skin2'; setSpine()" href="#">Skin2</a>
+                </li>
+                <li class="nav-item" v-if="char.skin3">
+                  <a class="nav-link" :class="{ active: skin === '_skin3'}" @click="skin = '_skin3'; setSpine()" href="#">Skin3</a>
+                </li>
+              </ul>
+              <div id="spineViewer" class="col"></div>
+            </div>
+            <!-- 技能 -->
+            <div class="row">
+              <table class="table table-hover table-dark" style="opacity: 0.9;">
+                <thead>
+                  <tr>
+                    <th scope="col" style="width: 30%;">
+                      <h4>Abilities</h4>
+                    </th>
+                    <th scope="col">
+                      <div class="input-group d-flex justify-content-end" role="group" 
+                      @click="skillProcess2(descriptionActive, processedActive); skillProcess2(descriptionPassive1, processedPassive);">
+                        <span class="input-group-text">LV:</span>
+                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 1}" @click="skillLevel = 1">1</button>
+                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 2}" @click="skillLevel = 2">2</button>
+                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 3}" @click="skillLevel = 3">3</button>
+                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 4}" @click="skillLevel = 4">4</button>
+                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 5}" @click="skillLevel = 5">5</button>
+                    </div>
+                  </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-if="nameActive">
+                    <th scope="row">{{nameActive}} / Active</th>
+                    <td>
+                      <span v-text="processedActive.part1"></span>
+                      <span :style="processedActive.color1" v-text="processedActive.value1"></span>
+                      <span v-text="processedActive.part2"></span>
+                      <span :style="processedActive.color2" v-text="processedActive.value2" v-if="processedActive.part3"></span>
+                      <span v-text="processedActive.part3" v-if="processedActive.part3"></span>
+                      <span :style="processedActive.color3" v-text="processedActive.value3" v-if="processedActive.part4"></span>
+                      <span v-text="processedActive.part4" v-if="processedActive.part4"></span>
+                    </td>
+                  </tr>
+                  <tr v-if="namePassive1">
+                    <th scope="row">{{namePassive1}} / Passive</th>
+                    <td>
+                      <span v-text="processedPassive.part1"></span>
+                      <span :style="processedPassive.color1" v-text="processedPassive.value1"></span>
+                      <span v-text="processedPassive.part2"></span>
+                      <span :style="processedPassive.color2" v-text="processedPassive.value2" v-if="processedPassive.part3"></span>
+                      <span v-text="processedPassive.part3" v-if="processedPassive.part3"></span>
+                      <span :style="processedPassive.color3" v-text="processedPassive.value3" v-if="processedPassive.part4"></span>
+                      <span v-text="processedPassive.part4" v-if="processedPassive.part4"></span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="col" style="width: 30%;">
+                      <h4>Traits</h4>
+                    </th>
+                    <th scope="col"></th>
+                  </tr>
+                  <tr v-if="nameTrait1">
+                    <th scope="row">{{nameTrait1}} / Trait1</th>
+                    <td v-html="descriptionTrait1"></td>
+                  </tr>
+                  <tr v-if="nameTrait2">
+                    <th scope="row">{{nameTrait2}} / Trait2</th>
+                    <td v-html="descriptionTrait2"></td>
+                  </tr>
+                  <tr v-if="nameTrait3">
+                    <th scope="row">{{nameTrait3}} / Trait3</th>
+                    <td v-html="descriptionTrait3"></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="p-4 p-6">
+        <hr class="my-6 mx-sm-auto">
+        <div class="flex items-center justify-between">
+          <div>
+            <span class="text-sm text-center"> Images and data: © Gaudium Inc. &amp; EIGHT STUDIO Inc.</span>
+            <br>
+            <span class="text-sm text-center">made by <i>Dieark(幽黯魂殤)</i></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" 
+            integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" 
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.1.4/vue.global.min.js"></script>
+    <script type="module" src="src/js/vue.js"></script>
+  </body>
+</html>

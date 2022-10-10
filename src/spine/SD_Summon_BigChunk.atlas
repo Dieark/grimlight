@@ -1,0 +1,208 @@
+
+SD_Summon_BigChunk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leyebrow
+  rotate: false
+  xy: 426, 335
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Leyedeath
+  rotate: false
+  xy: 209, 434
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: 270
+  xy: 287, 0
+  size: 153, 223
+  orig: 153, 223
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 452, 355
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Reyebrow
+  rotate: false
+  xy: 216, 415
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+Reyedeath
+  rotate: false
+  xy: 226, 391
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Rpupil
+  rotate: false
+  xy: 426, 356
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 270, 140
+  size: 147, 192
+  orig: 147, 192
+  offset: 0, 0
+  index: -1
+collar3
+  rotate: true
+  xy: 417, 184
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+collarflap2
+  rotate: true
+  xy: 270, 79
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 251, 332
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: true
+  xy: 426, 381
+  size: 131, 61
+  orig: 131, 61
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: false
+  xy: 206, 461
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+roller
+  rotate: false
+  xy: 0, 12
+  size: 270, 194
+  orig: 270, 194
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 206
+  size: 258, 306
+  orig: 258, 306
+  offset: 0, 0
+  index: -1
+
+SD_Summon_BigChunk2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: false
+  xy: 209, 26
+  size: 110, 58
+  orig: 110, 58
+  offset: 0, 0
+  index: -1
+Rfootrunning
+  rotate: false
+  xy: 209, 26
+  size: 110, 58
+  orig: 110, 58
+  offset: 0, 0
+  index: -1
+Lglove
+  rotate: false
+  xy: 296, 309
+  size: 147, 175
+  orig: 147, 175
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 166, 80
+  size: 122, 153
+  orig: 122, 153
+  offset: 0, 0
+  index: -1
+Rarmx
+  rotate: true
+  xy: 0, 25
+  size: 130, 158
+  orig: 130, 158
+  offset: 0, 0
+  index: -1
+Rfootidle
+  rotate: false
+  xy: 166, 238
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Rglove
+  rotate: 180
+  xy: 160, 298
+  size: 136, 186
+  orig: 136, 186
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 0, 272
+  size: 162, 212
+  orig: 162, 212
+  offset: 0, 0
+  index: -1
+Rshoulderx
+  rotate: true
+  xy: 0, 155
+  size: 117, 166
+  orig: 117, 166
+  offset: 0, 0
+  index: -1
+collarflap1
+  rotate: true
+  xy: 154, 11
+  size: 47, 101
+  orig: 47, 101
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: false
+  xy: 242, 200
+  size: 182, 109
+  orig: 182, 109
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 319, 0
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 319, 60
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1

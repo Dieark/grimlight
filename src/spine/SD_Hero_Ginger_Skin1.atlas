@@ -1,0 +1,404 @@
+
+SD_Hero_Ginger_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ltailgem
+  rotate: false
+  xy: 439, 374
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 0, 195
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Rearback
+  rotate: false
+  xy: 441, 25
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 23
+  size: 50, 148
+  orig: 50, 148
+  offset: 0, 0
+  index: -1
+Rtailgem
+  rotate: false
+  xy: 439, 355
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 240, 31
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 312
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+backtie1
+  rotate: false
+  xy: 390, 275
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+backtie2
+  rotate: false
+  xy: 483, 194
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 180
+  xy: 110, 179
+  size: 151, 140
+  orig: 151, 140
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 261, 105
+  size: 124, 214
+  orig: 124, 214
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 313, 176
+  size: 199, 225
+  orig: 199, 225
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 270
+  xy: 248, 235
+  size: 73, 145
+  orig: 73, 145
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 274, 16
+  size: 154, 89
+  orig: 154, 89
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 120, 64
+  size: 154, 90
+  orig: 154, 90
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 73
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 232, 308
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+hairheart1
+  rotate: false
+  xy: 215, 318
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hairheart2
+  rotate: false
+  xy: 107, 294
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hairpearl1
+  rotate: false
+  xy: 472, 409
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hairpearl2
+  rotate: false
+  xy: 487, 408
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 454, 410
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 315, 291
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 475, 123
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+neckclip
+  rotate: false
+  xy: 439, 394
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 148, 9
+  size: 92, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+skirtflap1
+  rotate: false
+  xy: 87, 247
+  size: 20, 68
+  orig: 20, 69
+  offset: 0, 0
+  index: -1
+skirtflap2
+  rotate: true
+  xy: 439, 416
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 0, 216
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+weaponheart
+  rotate: false
+  xy: 494, 401
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+weaponribbon1
+  rotate: false
+  xy: 475, 149
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+weaponribbon2
+  rotate: false
+  xy: 79, 196
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Ginger_Skin12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 249, 232
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 155, 310
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+Learfront
+  rotate: false
+  xy: 429, 262
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 322, 335
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 131, 372
+  size: 51, 148
+  orig: 51, 148
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 0, 229
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+Ltail
+  rotate: true
+  xy: 173, 250
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 416, 209
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+Rearfront
+  rotate: false
+  xy: 429, 312
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 304, 202
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 339, 243
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+Rtail
+  rotate: true
+  xy: 105, 218
+  size: 64, 111
+  orig: 64, 111
+  offset: 0, 0
+  index: -1
+ahoge
+  rotate: false
+  xy: 229, 200
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+bangs3x
+  rotate: 270
+  xy: 284, 371
+  size: 112, 202
+  orig: 112, 202
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 0, 423
+  size: 147, 89
+  orig: 147, 89
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: false
+  xy: 283, 433
+  size: 141, 79
+  orig: 141, 79
+  offset: 0, 0
+  index: -1
+eyehappy
+  rotate: false
+  xy: 147, 422
+  size: 136, 90
+  orig: 136, 90
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 351
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1
+hairribbon1
+  rotate: true
+  xy: 236, 313
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+hairribbon2
+  rotate: true
+  xy: 0, 273
+  size: 40, 105
+  orig: 40, 105
+  offset: 0, 0
+  index: -1
+hairribbon3
+  rotate: true
+  xy: 33, 198
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+necktie
+  rotate: false
+  xy: 349, 202
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+ponytail
+  rotate: true
+  xy: 305, 269
+  size: 66, 124
+  orig: 66, 124
+  offset: 0, 0
+  index: -1
+whisk
+  rotate: false
+  xy: 0, 313
+  size: 137, 38
+  orig: 137, 38
+  offset: 0, 0
+  index: -1

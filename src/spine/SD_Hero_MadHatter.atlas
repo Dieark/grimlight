@@ -1,0 +1,390 @@
+
+SD_Hero_MadHatter.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lcollar
+  rotate: false
+  xy: 425, 340
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 480, 426
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Lsleevebelt
+  rotate: false
+  xy: 480, 458
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 492, 264
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Rcape
+  rotate: false
+  xy: 13, 121
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 425, 306
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 476, 1
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 350, 6
+  size: 45, 122
+  orig: 45, 122
+  offset: 0, 0
+  index: -1
+Rsleevebuckle
+  rotate: false
+  xy: 360, 188
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 491, 286
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+backcoat
+  rotate: 180
+  xy: 0, 18
+  size: 198, 95
+  orig: 198, 95
+  offset: 0, 0
+  index: -1
+backcollar
+  rotate: false
+  xy: 425, 265
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+backhead
+  rotate: true
+  xy: 186, 74
+  size: 161, 175
+  orig: 161, 175
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 180
+  xy: 384, 44
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 68, 119
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 0, 184
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+feather1
+  rotate: 270
+  xy: 447, 280
+  size: 127, 65
+  orig: 127, 65
+  offset: 0, 0
+  index: -1
+hatbase
+  rotate: false
+  xy: 0, 367
+  size: 330, 140
+  orig: 330, 140
+  offset: 0, 0
+  index: -1
+hatfold
+  rotate: false
+  xy: 186, 235
+  size: 239, 132
+  orig: 239, 132
+  offset: 0, 0
+  index: -1
+hattop
+  rotate: false
+  xy: 330, 368
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 498, 164
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+medal
+  rotate: false
+  xy: 480, 405
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+medalchain
+  rotate: false
+  xy: 425, 281
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 480, 399
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 468, 268
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: 270
+  xy: 469, 75
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 197, 25
+  size: 153, 50
+  orig: 153, 50
+  offset: 0, 0
+  index: -1
+
+SD_Hero_MadHatter2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 313, 403
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Lcape
+  rotate: false
+  xy: 158, 58
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+Lcoat
+  rotate: 180
+  xy: 432, 287
+  size: 73, 166
+  orig: 73, 166
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 83, 214
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 436, 174
+  size: 44, 113
+  orig: 44, 113
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 303, 22
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+Lsleeve1
+  rotate: true
+  xy: 175, 301
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+Lsleeve2
+  rotate: false
+  xy: 473, 106
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Lsleeve3
+  rotate: false
+  xy: 257, 205
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 200, 66
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+Rcoat
+  rotate: true
+  xy: 0, 42
+  size: 106, 158
+  orig: 106, 158
+  offset: 0, 0
+  index: -1
+Rcollar
+  rotate: false
+  xy: 106, 1
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 148, 21
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: 180
+  xy: 231, 10
+  size: 132, 122
+  orig: 132, 122
+  offset: 0, 0
+  index: -1
+backahir
+  rotate: false
+  xy: 0, 278
+  size: 214, 175
+  orig: 214, 175
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 180
+  xy: 329, 299
+  size: 112, 153
+  orig: 112, 153
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 180
+  xy: 211, 253
+  size: 118, 200
+  orig: 118, 200
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 83, 117
+  size: 129, 84
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 127, 200
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 0, 149
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 326, 191
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+feather2
+  rotate: false
+  xy: 0, 18
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+hatbeak
+  rotate: true
+  xy: 16, 325
+  size: 128, 99
+  orig: 128, 99
+  offset: 0, 0
+  index: -1
+hatcard
+  rotate: true
+  xy: 467, 6
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+ponytail
+  rotate: false
+  xy: 364, 18
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+tailcoat
+  rotate: 270
+  xy: 345, 81
+  size: 111, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+torso
+  rotate: 270
+  xy: 212, 111
+  size: 89, 137
+  orig: 89, 137
+  offset: 0, 0
+  index: -1

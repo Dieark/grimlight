@@ -1,0 +1,811 @@
+
+Fullbody_Hero_VanHelsing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 248, 516
+  size: 114, 197
+  orig: 114, 197
+  offset: 0, 0
+  index: -1
+Larmback
+  rotate: false
+  xy: 454, 921
+  size: 73, 119
+  orig: 73, 119
+  offset: 0, 0
+  index: -1
+Larmstrap
+  rotate: false
+  xy: 2014, 1830
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Lcollar
+  rotate: 270
+  xy: 0, 785
+  size: 175, 634
+  orig: 175, 634
+  offset: 0, 0
+  index: -1
+Lcrossbow1
+  rotate: false
+  xy: 513, 1482
+  size: 336, 566
+  orig: 336, 566
+  offset: 0, 0
+  index: -1
+Lcrossbowbackbow
+  rotate: true
+  xy: 976, 1194
+  size: 207, 148
+  orig: 207, 148
+  offset: 0, 0
+  index: -1
+Lcrossbowstringback
+  rotate: false
+  xy: 951, 438
+  size: 207, 70
+  orig: 207, 70
+  offset: 0, 0
+  index: -1
+Lcuff
+  rotate: false
+  xy: 678, 387
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+Lcuffback
+  rotate: false
+  xy: 1055, 1460
+  size: 65, 89
+  orig: 65, 89
+  offset: 0, 0
+  index: -1
+Leyelidbottom
+  rotate: false
+  xy: 335, 1331
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Leyelidtop
+  rotate: false
+  xy: 1572, 1554
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+Leyespark
+  rotate: false
+  xy: 1972, 2043
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Leyewhite
+  rotate: false
+  xy: 1500, 1555
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Lfinger1
+  rotate: false
+  xy: 1403, 1487
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Lfinger2
+  rotate: false
+  xy: 1299, 1409
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+Lfinger3
+  rotate: false
+  xy: 849, 1508
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+Lfinger4
+  rotate: false
+  xy: 1485, 1842
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 1071, 703
+  size: 85, 145
+  orig: 85, 145
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 0, 1036
+  size: 123, 535
+  orig: 123, 535
+  offset: 0, 0
+  index: -1
+Loutcoat1
+  rotate: 270
+  xy: 12, 877
+  size: 172, 454
+  orig: 172, 454
+  offset: 0, 0
+  index: -1
+Loutcoat2
+  rotate: false
+  xy: 1024, 817
+  size: 491, 162
+  orig: 491, 162
+  offset: 0, 0
+  index: -1
+Loutcoat3
+  rotate: 180
+  xy: 1071, 1401
+  size: 636, 648
+  orig: 636, 648
+  offset: 0, 0
+  index: -1
+Lpupil
+  rotate: false
+  xy: 1648, 2000
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 0, 551
+  size: 128, 248
+  orig: 128, 248
+  offset: 0, 0
+  index: -1
+Ltailcoatbelt
+  rotate: false
+  xy: 1944, 1323
+  size: 104, 289
+  orig: 104, 289
+  offset: 0, 0
+  index: -1
+Ltipflame
+  rotate: true
+  xy: 1706, 399
+  size: 117, 240
+  orig: 117, 256
+  offset: 0, 0
+  index: -1
+Ltriggerguard
+  rotate: false
+  xy: 1687, 1837
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+Lundercoat
+  rotate: 180
+  xy: 1791, 904
+  size: 164, 647
+  orig: 164, 647
+  offset: 0, 0
+  index: -1
+Rbowstring
+  rotate: false
+  xy: 1158, 1143
+  size: 306, 263
+  orig: 306, 263
+  offset: 0, 0
+  index: -1
+Rcoat1
+  rotate: false
+  xy: 1804, 1192
+  size: 35, 359
+  orig: 35, 359
+  offset: 0, 0
+  index: -1
+Rcoat2
+  rotate: true
+  xy: 485, 574
+  size: 89, 544
+  orig: 89, 544
+  offset: 0, 0
+  index: -1
+Rcoat3
+  rotate: false
+  xy: 1630, 1693
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Rcoat4
+  rotate: true
+  xy: 906, 979
+  size: 121, 780
+  orig: 121, 780
+  offset: 0, 0
+  index: -1
+Rcoatstrap
+  rotate: true
+  xy: 105, 419
+  size: 105, 302
+  orig: 105, 302
+  offset: 0, 0
+  index: -1
+Rcollar
+  rotate: 270
+  xy: 1167, 764
+  size: 180, 367
+  orig: 180, 367
+  offset: 0, 0
+  index: -1
+Rcrossbow1
+  rotate: true
+  xy: 1464, 1074
+  size: 181, 346
+  orig: 181, 346
+  offset: 0, 0
+  index: -1
+Rcrossbow2
+  rotate: false
+  xy: 1464, 1255
+  size: 327, 296
+  orig: 327, 296
+  offset: 0, 0
+  index: -1
+Rcrossbowblade1
+  rotate: false
+  xy: 1932, 1264
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Rcrossbowblade2
+  rotate: false
+  xy: 1612, 1944
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Rcrossbowbolt
+  rotate: false
+  xy: 1946, 400
+  size: 102, 190
+  orig: 102, 190
+  offset: 0, 0
+  index: -1
+Rcrossbowcap
+  rotate: false
+  xy: 971, 1422
+  size: 84, 127
+  orig: 84, 127
+  offset: 0, 0
+  index: -1
+Rcrossbowscope
+  rotate: false
+  xy: 1527, 1908
+  size: 85, 140
+  orig: 85, 140
+  offset: 0, 0
+  index: -1
+Rcrossbowstock
+  rotate: false
+  xy: 783, 405
+  size: 104, 172
+  orig: 104, 172
+  offset: 0, 0
+  index: -1
+Rcrossbowtrigger
+  rotate: false
+  xy: 2006, 1294
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+Rcuff
+  rotate: false
+  xy: 1392, 1822
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+Reyelidbottom
+  rotate: false
+  xy: 1460, 1834
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Reyelidtop
+  rotate: false
+  xy: 1460, 1853
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Reyepupil
+  rotate: false
+  xy: 1672, 2038
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Reyespark
+  rotate: false
+  xy: 2018, 2043
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Reyewhite
+  rotate: false
+  xy: 1556, 1871
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Rfinger1
+  rotate: false
+  xy: 1673, 1552
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Rfinger3
+  rotate: false
+  xy: 1559, 1887
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Rfingers2
+  rotate: false
+  xy: 921, 1502
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Rfold1
+  rotate: false
+  xy: 1125, 1263
+  size: 33, 141
+  orig: 33, 141
+  offset: 0, 0
+  index: -1
+Rfold2
+  rotate: false
+  xy: 1535, 1563
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Rfold3
+  rotate: false
+  xy: 431, 1289
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 0, 1159
+  size: 175, 682
+  orig: 175, 682
+  offset: 0, 0
+  index: -1
+Rmetalring
+  rotate: false
+  xy: 1648, 2015
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Rshoe
+  rotate: true
+  xy: 570, 623
+  size: 119, 318
+  orig: 119, 318
+  offset: 0, 0
+  index: -1
+Rshoex
+  rotate: true
+  xy: 1153, 1804
+  size: 70, 239
+  orig: 70, 239
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 824, 809
+  size: 183, 325
+  orig: 183, 325
+  offset: 0, 0
+  index: -1
+Rsleeve
+  rotate: false
+  xy: 1918, 1036
+  size: 130, 224
+  orig: 130, 224
+  offset: 0, 0
+  index: -1
+Rsleevestrap
+  rotate: false
+  xy: 2018, 1358
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Rtipflame
+  rotate: false
+  xy: 0, 392
+  size: 105, 188
+  orig: 105, 195
+  offset: 0, 7
+  index: -1
+angry
+  rotate: true
+  xy: 634, 739
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+annoy
+  rotate: true
+  xy: 0, 684
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+backbelt
+  rotate: true
+  xy: 1142, 476
+  size: 149, 193
+  orig: 149, 193
+  offset: 0, 0
+  index: -1
+backbeltring1
+  rotate: false
+  xy: 1226, 1768
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+backbeltring2
+  rotate: false
+  xy: 1055, 1432
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+backcoat1
+  rotate: 270
+  xy: 591, 1051
+  size: 168, 651
+  orig: 168, 651
+  offset: 0, 0
+  index: -1
+backspike
+  rotate: false
+  xy: 2031, 1887
+  size: 17, 60
+  orig: 17, 60
+  offset: 0, 0
+  index: -1
+backtassel1
+  rotate: 270
+  xy: 1113, 378
+  size: 229, 413
+  orig: 229, 413
+  offset: 0, 0
+  index: -1
+backtassel2
+  rotate: true
+  xy: 442, 494
+  size: 79, 330
+  orig: 79, 370
+  offset: 0, 0
+  index: -1
+backtassel3
+  rotate: true
+  xy: 1180, 395
+  size: 262, 455
+  orig: 262, 455
+  offset: 0, 0
+  index: -1
+backtassel4
+  rotate: false
+  xy: 1959, 1606
+  size: 81, 442
+  orig: 81, 442
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 1572, 1566
+  size: 135, 153
+  orig: 135, 153
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 1153, 1693
+  size: 73, 111
+  orig: 73, 111
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 887, 374
+  size: 71, 136
+  orig: 71, 136
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 105, 385
+  size: 115, 173
+  orig: 115, 173
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: false
+  xy: 1959, 1966
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+beltstakes
+  rotate: false
+  xy: 1668, 546
+  size: 249, 220
+  orig: 249, 220
+  offset: 0, 0
+  index: -1
+bolt1
+  rotate: false
+  xy: 1707, 1551
+  size: 252, 497
+  orig: 252, 497
+  offset: 0, 0
+  index: -1
+bolt1flame
+  rotate: true
+  xy: 1708, 500
+  size: 171, 340
+  orig: 171, 340
+  offset: 0, 0
+  index: -1
+bolt2
+  rotate: true
+  xy: 1153, 1874
+  size: 174, 374
+  orig: 174, 374
+  offset: 0, 0
+  index: -1
+bolt2flame
+  rotate: true
+  xy: 407, 386
+  size: 126, 272
+  orig: 126, 284
+  offset: 0, 0
+  index: -1
+bolt3
+  rotate: true
+  xy: 535, 894
+  size: 157, 308
+  orig: 157, 308
+  offset: 0, 0
+  index: -1
+bolt3flame
+  rotate: false
+  xy: 1905, 927
+  size: 93, 231
+  orig: 93, 231
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 518, 1273
+  size: 222, 458
+  orig: 222, 458
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 1512, 656
+  size: 97, 159
+  orig: 97, 159
+  offset: 0, 0
+  index: -1
+cross1
+  rotate: false
+  xy: 0, 1359
+  size: 513, 689
+  orig: 513, 689
+  offset: 0, 0
+  index: -1
+cross2
+  rotate: true
+  xy: 849, 1549
+  size: 499, 304
+  orig: 499, 304
+  offset: 0, 0
+  index: -1
+crossbelt1
+  rotate: 270
+  xy: 887, 492
+  size: 291, 404
+  orig: 291, 404
+  offset: 0, 0
+  index: -1
+crossbelt2
+  rotate: true
+  xy: 1792, 766
+  size: 138, 222
+  orig: 138, 222
+  offset: 0, 0
+  index: -1
+crossbobelthinge
+  rotate: false
+  xy: 265, 1326
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+crosswrap1
+  rotate: false
+  xy: 2004, 1659
+  size: 44, 171
+  orig: 44, 176
+  offset: 0, 0
+  index: -1
+crosswrap2
+  rotate: false
+  xy: 2014, 877
+  size: 32, 159
+  orig: 32, 159
+  offset: 0, 0
+  index: -1
+crosswrap3
+  rotate: true
+  xy: 1508, 428
+  size: 73, 214
+  orig: 73, 214
+  offset: 0, 0
+  index: -1
+crosswrap4
+  rotate: false
+  xy: 682, 1198
+  size: 23, 75
+  orig: 23, 75
+  offset: 0, 0
+  index: -1
+crosswrap5
+  rotate: false
+  xy: 1612, 1963
+  size: 36, 85
+  orig: 36, 85
+  offset: 0, 0
+  index: -1
+crosswrap6
+  rotate: false
+  xy: 480, 1294
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+crosswrap7
+  rotate: false
+  xy: 303, 1324
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+crosswrap8
+  rotate: false
+  xy: 1671, 1734
+  size: 36, 101
+  orig: 36, 101
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1609, 672
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+glassesback
+  rotate: false
+  xy: 1460, 1827
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+glassesfront
+  rotate: false
+  xy: 1365, 1416
+  size: 99, 64
+  orig: 99, 64
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 888, 662
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 218, 1332
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1448, 501
+  size: 137, 220
+  orig: 137, 220
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 1534, 822
+  size: 258, 189
+  orig: 258, 189
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 183, 650
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 366, 630
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1291, 630
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+zipper1
+  rotate: false
+  xy: 1959, 1934
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+zipper2
+  rotate: false
+  xy: 1959, 2039
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+zipper3
+  rotate: false
+  xy: 2040, 2038
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1

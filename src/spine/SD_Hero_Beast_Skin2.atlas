@@ -1,0 +1,480 @@
+
+SD_Hero_Beast_Skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lthumb
+  rotate: true
+  xy: 372, 6
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+Roar_Skin2
+  rotate: false
+  xy: 316, 22
+  size: 137, 206
+  orig: 139, 206
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: true
+  xy: 346, 6
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 453, 19
+  size: 55, 106
+  orig: 55, 106
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: false
+  xy: 491, 430
+  size: 20, 82
+  orig: 20, 82
+  offset: 0, 0
+  index: -1
+candleflame1
+  rotate: false
+  xy: 393, 3
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+candleflame2
+  rotate: true
+  xy: 21, 1
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+candleflame3
+  rotate: false
+  xy: 500, 410
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+candleflame4
+  rotate: false
+  xy: 499, 394
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+candleflame5
+  rotate: false
+  xy: 499, 379
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: true
+  xy: 0, 2
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 453, 124
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+metalband1
+  rotate: false
+  xy: 491, 232
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+metalband2
+  rotate: true
+  xy: 316, 7
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 40, 6
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 60, 9
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 466, 2
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+slash4
+  rotate: true
+  xy: 0, 14
+  size: 214, 316
+  orig: 218, 325
+  offset: 2, 4
+  index: -1
+slash5
+  rotate: false
+  xy: 0, 228
+  size: 491, 284
+  orig: 501, 293
+  offset: 3, 3
+  index: -1
+tailcoatback
+  rotate: false
+  xy: 491, 266
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+weaponwrap1
+  rotate: false
+  xy: 491, 323
+  size: 14, 107
+  orig: 14, 107
+  offset: 0, 0
+  index: -1
+weaponwrap2
+  rotate: false
+  xy: 495, 60
+  size: 13, 57
+  orig: 13, 57
+  offset: 0, 0
+  index: -1
+weaponwrap3
+  rotate: true
+  xy: 409, 9
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Beast_Skin22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhorn
+  rotate: false
+  xy: 416, 135
+  size: 74, 140
+  orig: 74, 140
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 472, 402
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 305, 2
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 416, 101
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Rhorn
+  rotate: true
+  xy: 309, 275
+  size: 71, 153
+  orig: 71, 153
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 464, 275
+  size: 41, 111
+  orig: 41, 111
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: true
+  xy: 229, 1
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 447, 12
+  size: 123, 59
+  orig: 123, 59
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 131, 3
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 309, 346
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+slash3
+  rotate: false
+  xy: 0, 255
+  size: 309, 257
+  orig: 314, 262
+  offset: 2, 4
+  index: -1
+weaponbase
+  rotate: true
+  xy: 0, 99
+  size: 157, 417
+  orig: 157, 417
+  offset: 0, 0
+  index: -1
+weaponcandle1
+  rotate: true
+  xy: 229, 34
+  size: 66, 137
+  orig: 66, 137
+  offset: 0, 0
+  index: -1
+weaponcandle2
+  rotate: true
+  xy: 0, 22
+  size: 78, 131
+  orig: 78, 131
+  offset: 0, 0
+  index: -1
+weaponcandle4
+  rotate: false
+  xy: 366, 7
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Beast_Skin23.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 460, 163
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 232, 134
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 401, 388
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 97, 108
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 228
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: 270
+  xy: 134, 124
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+bangs10
+  rotate: 270
+  xy: 94, 83
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 83, 168
+  size: 102, 146
+  orig: 102, 146
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: true
+  xy: 320, 302
+  size: 210, 186
+  orig: 210, 186
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: true
+  xy: 0, 128
+  size: 40, 98
+  orig: 40, 98
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 401, 108
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+bangs9
+  rotate: true
+  xy: 40, 104
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 252, 318
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+cravat
+  rotate: false
+  xy: 327, 95
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 360, 96
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: 180
+  xy: 386, 243
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 252, 251
+  size: 122, 59
+  orig: 122, 59
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 326, 135
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+ponytail
+  rotate: true
+  xy: 367, 133
+  size: 73, 141
+  orig: 73, 141
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 148, 270
+  size: 104, 101
+  orig: 117, 115
+  offset: 6, 8
+  index: -1
+slash2
+  rotate: false
+  xy: 0, 371
+  size: 320, 141
+  orig: 339, 154
+  offset: 16, 4
+  index: -1
+tailcoat1
+  rotate: 270
+  xy: 182, 166
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+tailcoat2
+  rotate: true
+  xy: 229, 165
+  size: 86, 138
+  orig: 86, 138
+  offset: 0, 0
+  index: -1
+tailcoat3
+  rotate: 270
+  xy: 194, 108
+  size: 41, 133
+  orig: 41, 133
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 321, 223
+  size: 28, 63
+  orig: 28, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 443, 386
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+weaponcandle3
+  rotate: true
+  xy: 0, 177
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+weaponcandle5
+  rotate: true
+  xy: 395, 203
+  size: 41, 103
+  orig: 41, 103
+  offset: 0, 0
+  index: -1
