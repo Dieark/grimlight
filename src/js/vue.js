@@ -178,7 +178,7 @@ const app = createApp({
                     debugRender: false,
                     transitionTime: 1,
                     // x: -800,
-                    // y: 0,
+                    // y: 400,
                     // width: 1400,
                     // height: 1400 // -800, 0, 1600, 1600
                     // padTop: "100%",

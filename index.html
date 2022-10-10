@@ -59,7 +59,7 @@
               </div>
               <div style="overflow-y: scroll; overflow-x: hidden; height: 70vh;">
                 <template v-for="(item, key) in charsFilter" :key="item.name">
-                    <a class="nav-link" href="#" @click.prevent="showChar(item)"
+                    <a class="btn btn-outline-secondary nav-link my-1 mx-3 text-dark" href="#" @click.prevent="showChar(item)"
                     @mouseover="showIcon(item)" @mouseleave="hideIcon()">{{ item.name }}</a>
                 </template>
               </div>
@@ -74,8 +74,8 @@
               <div class="col-4 offset-1" style="text-align: center;">
                 <img :src="ui_card_path" alt="" style="width: 70%;">
                 <h3>{{ char.name }}</h3>
-                <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()" v-if="!isFullBody">SHOW ANIMATION</button>
-                <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button>
+                <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()">SHOW ANIMATION</button>
+                <!-- <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button> -->
               </div>
               <div class="col-6 offset-1">
                 <!-- 面板數值 -->
@@ -183,19 +183,19 @@
               </div>
             </div>
             <!-- spine動畫 -->
-            <div class="row" v-show="isFullBody">
+            <div class="row" v-show="isFullBody" style="position: absolute; top: 5vh ; bottom: 5vh; left: 5vw; width: 90vw; z-index: 100; background-color: rgba(255, 255, 255, 0.9);" @click="isFullBody = !isFullBody">
               <ul class="nav nav-tabs">
                 <li class="nav-item">
-                  <a class="nav-link" :class="{ active: skin === ''}" @click="skin = ''; setSpine()" href="#">Normal</a>
+                  <a class="nav-link btn-outline-secondary" :class="{ active: skin === ''}" @click="skin = ''; setSpine(); isFullBody = !isFullBody" href="#">Normal</a>
                 </li>
                 <li class="nav-item" v-if="char.skin1">
-                  <a class="nav-link" :class="{ active: skin === '_skin1'}" @click="skin = '_skin1'; setSpine()" href="#">Skin1</a>
+                  <a class="nav-link" :class="{ active: skin === '_skin1'}" @click="skin = '_skin1'; setSpine(); isFullBody = !isFullBody" href="#">Skin1</a>
                 </li>
                 <li class="nav-item" v-if="char.skin2">
-                  <a class="nav-link" :class="{ active: skin === '_skin2'}" @click="skin = '_skin2'; setSpine()" href="#">Skin2</a>
+                  <a class="nav-link" :class="{ active: skin === '_skin2'}" @click="skin = '_skin2'; setSpine(); isFullBody = !isFullBody" href="#">Skin2</a>
                 </li>
                 <li class="nav-item" v-if="char.skin3">
-                  <a class="nav-link" :class="{ active: skin === '_skin3'}" @click="skin = '_skin3'; setSpine()" href="#">Skin3</a>
+                  <a class="nav-link" :class="{ active: skin === '_skin3'}" @click="skin = '_skin3'; setSpine(); isFullBody = !isFullBody" href="#">Skin3</a>
                 </li>
               </ul>
               <div id="spineViewer" class="col"></div>
