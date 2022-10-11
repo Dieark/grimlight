@@ -1,4 +1,5 @@
 import { createApp } from 'https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.40/vue.esm-browser.min.js'
+
 const app = createApp({
     created(){
         this.isMobile()
@@ -8,7 +9,7 @@ const app = createApp({
             allChars:[],
             char:{},
             level:70,
-            isNav:true,
+            isNav:true && !this.isMobile,
             searchFilter:'', // 搜尋篩選
             selectIcon:'', // 顯示小圖
             isSelectIcon:false,
@@ -81,10 +82,6 @@ const app = createApp({
             this.level = 70
             this.skillLevel = 5
             this.skin = ''
-            // if 手機
-            if (this.isMobile()){
-                this.isNav = !this.isNav
-            }
             // 取得小圖與spine動畫
             axios.get('src/json/chars.json')
               .then((res) => {
@@ -92,7 +89,7 @@ const app = createApp({
                 const index = this.allChars.findIndex(obj => obj.name === item.name)
                 this.char = res.data[index]
                 this.ui_card_path = 'src/img/UI_Card_S/UI_Card_' + this.char.imgName +'_S.png'
-                this.setSpine()
+                // this.setSpine()
               })
             // 取得技能資訊
             axios.get('src/LanguageSource_Ability.json')
@@ -245,7 +242,7 @@ const app = createApp({
     //初始化
     mounted() {
         this.setDefault()
-        this.setSpine()
+        // this.setSpine()
         
     }
 });

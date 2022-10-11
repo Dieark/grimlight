@@ -61,7 +61,7 @@
               </div>
               <div style="overflow-y: scroll; overflow-x: hidden; height: 70vh;">
                 <template v-for="(item, key) in charsFilter" :key="item.name">
-                    <a class="btn btn-outline-secondary nav-link my-1 mx-3 text-dark" href="#" @click.prevent="showChar(item)"
+                    <a class="btn btn-outline-secondary nav-link my-1 mx-3 me-md-4" href="#" @click.prevent="showChar(item)"
                     @mouseover="showIcon(item)" @mouseleave="hideIcon()">{{ item.name }}</a>
                 </template>
               </div>
@@ -76,8 +76,10 @@
               <div class="col-md-4 offset-md-1 col-11" style="text-align: center;">
                 <img class="rounded mb-3" :src="ui_card_path" alt="" style="width: 70%;">
                 <h3 class="mb-3">{{ char.name }}</h3>
-                <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="!isFullBody">SHOW ANIMATION</button>
-                <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button>
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="!isFullBody">SHOW ANIMATION</button>
+                  <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button>
+                </div>
               </div>
               <div class="col-md-6 offset-md-1 col-11">
                 <!-- 面板數值 -->
@@ -86,14 +88,14 @@
                     <tr>
                       <th scope="col" style="width: 50%;">
                         <div class="d-inline-block">
-                          <template v-for="index in char.star">
-                            <img src="src/img/UI_Icon_Star_Hero.png" alt="" style="width: 2em;">
+                          <template v-for="index in char.rarity">
+                            <img class="img_star" src="src/img/UI_Icon_Star_Hero.png" alt="">
                           </template>
                         </div>
                       </th>
                       <th scope="col" class="d-flex">
                         <img src="src/img/UI_Icon_CombatCost.png" alt="" style="width: 1.5em;">
-                        <h3 class="my-auto ms-3"><b>{{ char.cost }}</b></h3>
+                        <h3 class="my-auto ms-3"><b>{{ char.dp }}</b></h3>
                           <button type="button" class="btn btn-outline-secondary ms-auto" @click="isDetail = !isDetail" v-show="!isDetail">
                             <i class="bi bi-plus-lg"></i>
                           </button>
@@ -188,16 +190,16 @@
             <div class="row" v-show="isFullBody" style="position: absolute; top: 5vh ; bottom: 5vh; left: 5vw; width: 90vw; z-index: 5; background-color: rgba(255, 255, 255, 0.9);">
               <ul class="nav nav-tabs fs-5">
                 <li class="nav-item">
-                  <a class="nav-link btn-outline-secondary" :class="{ active: skin === ''}" @click="skin = ''; setSpine()" href="#">Normal</a>
+                  <a class="nav-link btn-outline-secondary" :class="[ skin === '' ? ['active', 'fw-bold'] : '' ]" @click="skin = ''; setSpine()" href="#">Normal</a>
                 </li>
                 <li class="nav-item" v-if="char.skin1">
-                  <a class="nav-link" :class="{ active: skin === '_Skin1'}" @click="skin = '_Skin1'; setSpine()" href="#">Skin1</a>
+                  <a class="nav-link" :class="[ skin === '_Skin1' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin1'; setSpine()" href="#">Skin1</a>
                 </li>
                 <li class="nav-item" v-if="char.skin2">
-                  <a class="nav-link" :class="{ active: skin === '_Skin2'}" @click="skin = '_Skin2'; setSpine()" href="#">Skin2</a>
+                  <a class="nav-link" :class="[ skin === '_Skin2' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin2'; setSpine()" href="#">Skin2</a>
                 </li>
                 <li class="nav-item" v-if="char.skin3">
-                  <a class="nav-link" :class="{ active: skin === '_Skin3'}" @click="skin = '_Skin3'; setSpine()" href="#">Skin3</a>
+                  <a class="nav-link" :class="[ skin === '_Skin3' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin3'; setSpine()" href="#">Skin3</a>
                 </li>
                 <li class="nav-item ms-auto">
                   <button class="btn fs-5" @click="isFullBody = !isFullBody">
@@ -210,7 +212,7 @@
             <!-- 技能 -->
             <div class="row justify-content-center">
               <div class="col-md-auto offset-md-auto col-11">
-                <table class="table table-hover table-dark rounded" style="opacity: 0.9;">
+                <table class="table table-hover table-dark rounded" style="opacity: 0.9; table-layout:fixed;">
                   <thead>
                     <tr>
                       <th scope="col" style="width: 30%;">
@@ -220,18 +222,18 @@
                         <div class="input-group d-flex justify-content-end" role="group" 
                         @click="skillProcess2(descriptionActive, processedActive); skillProcess2(descriptionPassive1, processedPassive);">
                           <span class="input-group-text">LV:</span>
-                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 1}" @click="skillLevel = 1">1</button>
-                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 2}" @click="skillLevel = 2">2</button>
-                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 3}" @click="skillLevel = 3">3</button>
-                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 4}" @click="skillLevel = 4">4</button>
-                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 5}" @click="skillLevel = 5">5</button>
-                      </div>
-                    </th>
+                          <button type="button" class="btn btn-outline-light btn-sm" :class="{ active: skillLevel === 1 }" @click="skillLevel = 1">1</button>
+                          <button type="button" class="btn btn-outline-light btn-sm" :class="{ active: skillLevel === 2 }" @click="skillLevel = 2">2</button>
+                          <button type="button" class="btn btn-outline-light btn-sm" :class="{ active: skillLevel === 3 }" @click="skillLevel = 3">3</button>
+                          <button type="button" class="btn btn-outline-light btn-sm" :class="{ active: skillLevel === 4 }" @click="skillLevel = 4">4</button>
+                          <button type="button" class="btn btn-outline-light btn-sm" :class="{ active: skillLevel === 5 }" @click="skillLevel = 5">5</button>
+                        </div>
+                      </th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr v-if="nameActive">
-                      <th scope="row">{{nameActive}} / Active</th>
+                      <th scope="row" class="table-group-divider">{{nameActive}} /Active</th>
                       <td>
                         <span v-text="processedActive.part1"></span>
                         <span :style="processedActive.color1" v-text="processedActive.value1"></span>
@@ -243,7 +245,7 @@
                       </td>
                     </tr>
                     <tr v-if="namePassive1">
-                      <th scope="row">{{namePassive1}} / Passive</th>
+                      <th scope="row">{{namePassive1}} /Passive</th>
                       <td>
                         <span v-text="processedPassive.part1"></span>
                         <span :style="processedPassive.color1" v-text="processedPassive.value1"></span>
@@ -261,15 +263,15 @@
                       <th scope="col"></th>
                     </tr>
                     <tr v-if="nameTrait1">
-                      <th scope="row">{{nameTrait1}} / Trait1</th>
+                      <th scope="row" class="table-group-divider">{{nameTrait1}} /Trait1</th>
                       <td v-html="descriptionTrait1"></td>
                     </tr>
                     <tr v-if="nameTrait2">
-                      <th scope="row">{{nameTrait2}} / Trait2</th>
+                      <th scope="row">{{nameTrait2}} /Trait2</th>
                       <td v-html="descriptionTrait2"></td>
                     </tr>
                     <tr v-if="nameTrait3">
-                      <th scope="row">{{nameTrait3}} / Trait3</th>
+                      <th scope="row">{{nameTrait3}} /Trait3</th>
                       <td v-html="descriptionTrait3"></td>
                     </tr>
                   </tbody>
@@ -283,6 +285,13 @@
         <hr class="my-6 mx-sm-auto">
         <div class="flex items-center justify-between">
           <div>
+            <span class="text-sm text-center">any suggestion or problem or issue please @Dieark in 
+              <a class="btn btn-outline-secondary border-0" href="https://discord.gg/2wh4Yr5dNg" target="_blank">
+                <i class="bi bi-discord"></i>
+              </a>
+
+            </span>
+            <br>
             <span class="text-sm text-center"> Images and data: © Gaudium Inc. &amp; EIGHT STUDIO Inc.</span>
             <br>
             <span class="text-sm text-center">made by <i>Dieark(幽黯魂殤)</i></span>
