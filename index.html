@@ -191,17 +191,41 @@
             <div class="row" v-show="isFullBody" style="position: absolute; top: 5vh ; bottom: 5vh; left: 5vw; width: 90vw; z-index: 5; background-color: rgba(255, 255, 255, 0.9);">
               <ul class="nav nav-tabs fs-5">
                 <li class="nav-item">
-                  <a class="nav-link btn-outline-secondary" :class="[ skin === '' ? ['active', 'fw-bold'] : '' ]" @click="skin = ''; setSpine()" href="#">Normal</a>
+                  <a class="nav-link" :class="[ skin === '' && body === 'Fullbody' ? ['active', 'fw-bold'] : '' ]" @click="skin = ''; body = 'Fullbody'; setSpine()" href="#">Normal</a>
                 </li>
                 <li class="nav-item" v-if="char.skin1">
-                  <a class="nav-link" :class="[ skin === '_Skin1' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin1'; setSpine()" href="#">Skin1</a>
+                  <a class="nav-link" :class="[ skin === '_Skin1' && body === 'Fullbody' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin1'; body = 'Fullbody'; setSpine()" href="#">Skin1</a>
                 </li>
                 <li class="nav-item" v-if="char.skin2">
-                  <a class="nav-link" :class="[ skin === '_Skin2' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin2'; setSpine()" href="#">Skin2</a>
+                  <a class="nav-link" :class="[ skin === '_Skin2' && body === 'Fullbody' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin2'; body = 'Fullbody'; setSpine()" href="#">Skin2</a>
                 </li>
                 <li class="nav-item" v-if="char.skin3">
-                  <a class="nav-link" :class="[ skin === '_Skin3' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin3'; setSpine()" href="#">Skin3</a>
+                  <a class="nav-link" :class="[ skin === '_Skin3' && body === 'Fullbody' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin3'; body = 'Fullbody'; setSpine()" href="#">Skin3</a>
                 </li>
+                <li class="nav-item" v-if="char.skin4">
+                  <a class="nav-link" :class="[ skin === '_Skin4' && body === 'Fullbody' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin4'; body = 'Fullbody'; setSpine()" href="#">Skin4</a>
+                </li>
+                <li class="nav-item" v-if="char.skin5">
+                  <a class="nav-link" :class="[ skin === '_Skin5' && body === 'Fullbody' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin5'; body = 'Fullbody'; setSpine()" href="#">Skin5</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a class="nav-link" :class="[ skin === '' && body === 'SD' ? ['active', 'fw-bold'] : '' ]" @click="skin = ''; body = 'SD'; setSpine()" href="#">SD_Normal</a>
+                </li>
+                <li class="nav-item" v-if="char.skin1">
+                  <a class="nav-link" :class="[ skin === '_Skin1' && body === 'SD' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin1'; body = 'SD'; setSpine()" href="#">SD_Skin1</a>
+                </li>
+                <li class="nav-item" v-if="char.skin2">
+                  <a class="nav-link" :class="[ skin === '_Skin2' && body === 'SD' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin2'; body = 'SD'; setSpine()" href="#">SD_Skin2</a>
+                </li>
+                <li class="nav-item" v-if="char.skin3">
+                  <a class="nav-link" :class="[ skin === '_Skin3' && body === 'SD' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin3'; body = 'SD'; setSpine()" href="#">SD_Skin3</a>
+                </li>
+                <li class="nav-item" v-if="char.skin4">
+                  <a class="nav-link" :class="[ skin === '_Skin4' && body === 'SD' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin4'; body = 'SD'; setSpine()" href="#">SD_Skin4</a>
+                </li>
+                <li class="nav-item" v-if="char.skin5">
+                  <a class="nav-link" :class="[ skin === '_Skin5' && body === 'SD' ? ['active', 'fw-bold'] : '' ]" @click="skin = '_Skin5'; body = 'SD'; setSpine()" href="#">SD_Skin5</a>
+                </li> -->
                 <li class="nav-item ms-auto">
                   <button class="btn fs-5" @click="isFullBody = !isFullBody">
                     <i class="bi bi-x-lg"></i>

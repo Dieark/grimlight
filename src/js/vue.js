@@ -17,6 +17,7 @@ const app = createApp({
             isFullBody:false, //展開動畫
             elementFilter:'Element',
             classFilter:'Class',
+            body:'Fullbody',
             skin:'',
             skillLevel:5,
             nameActive:'',
@@ -109,9 +110,6 @@ const app = createApp({
                 this.skillProcess2(this.descriptionPassive1, this.processedPassive)
                 console.log('active', this.nameActive, this.descriptionActive)
                 console.log('passive', this.namePassive1, this.descriptionPassive1)
-                console.log('trait1', this.nameTrait1, this.descriptionTrait1)
-                console.log('trait2', this.nameTrait2, this.descriptionTrait2)
-                console.log('trait3', this.nameTrait3, this.descriptionTrait3)
               })
         },
         skillProcess1(res, srcName, p, q, r) {
@@ -120,46 +118,105 @@ const app = createApp({
             return p
         },
         skillProcess2(p, q) {
-            q.part1 = p.indexOf('<color') > 0 ? p.slice(0, p.indexOf('<color')) : p.slice(0, p.indexOf('['))
-            q.part2 = p.indexOf('<color') > 0 ? p.slice(p.indexOf('</color>') + 8, p.length) : p.slice(p.indexOf(']') + 1, p.length)
-            q.color1 = p.indexOf('<color') > 0 ? p.slice(p.indexOf('<color') + 7, p.indexOf('>')) : 'currentColor'
-            q.color1 = 'color: ' + q.color1 + ';'
-            q.value1 = this.skillValueProcess(p)
-
-            if (q.part2.indexOf('<color') > 0) {
+            q.part2 = ''
+            q.part3 = ''
+            q.part4 = ''
+            var index = Math.min(...[p.indexOf('<color'), p.indexOf('['), p.indexOf('+')].filter(num => num > 0))
+            if (index === p.indexOf('<color') || (index === p.indexOf('+') && p.indexOf('<color') > 0)) {
+                q.part1 = p.slice(0, p.indexOf('<color'))
+                q.part2 = p.slice(p.indexOf('</color>') + 8, p.length)
+                q.color1 = 'color: ' + p.slice(p.indexOf('<color') + 7, p.indexOf('>')) + ';'
+                q.value1 = this.skillValueProcess(p)
+            }
+            if (index === p.indexOf('[')) {
+                q.part1 = p.slice(0, p.indexOf('['))
+                q.part2 = p.slice(p.indexOf(']') + 1, p.length)
+                q.color1 = 'color: currentColor;'
+                q.value1 = this.skillValueProcess(p)
+            }
+            if (index === p.indexOf('+') && p.indexOf('[') - p.indexOf('+') === 1) {
+                console.log(1234)
+                q.part1 = p.slice(0, p.indexOf('+'))
+                q.part2 = p.slice(p.indexOf(']') + 1, p.length)
+                q.color1 = 'color: currentColor;'
+                q.value1 = this.skillValueProcess(p)
+            }
+            if (p.indexOf('%') - p.indexOf(']') === 1) {
+                q.part2 = q.part2.replace('%', '')
+            }
+            if (q.part2.indexOf('<color') || q.part2.indexOf('[') || q.part2.indexOf('+')) {
                 p = q.part2
-                q.part2 = p.slice(0, p.indexOf('<color'))
-                q.part3 = p.slice(p.indexOf('</color>') + 8, p.length)
-                q.color2 = p.slice(p.indexOf('<color') + 7, p.indexOf('>'))
-                q.color2 = 'color: ' + q.color2 + ';'
-                q.value2 = this.skillValueProcess(p)
+                var index2 = Math.min(...[p.indexOf('<color'), p.indexOf('['), p.indexOf('+')].filter(num => num > 0))
+                if (index2 === p.indexOf('<color') || (index2 === p.indexOf('+') && p.indexOf('<color') > 0)) {
+                    q.part2 = p.slice(0, p.indexOf('<color'))
+                    q.part3 = p.slice(p.indexOf('</color>') + 8, p.length)
+                    q.color2 = 'color: ' + p.slice(p.indexOf('<color') + 7, p.indexOf('>')) + ';'
+                    q.value2 = this.skillValueProcess(p)
+                    console.log(1111)
+                }
+                if (index2 === p.indexOf('[')) {
+                    q.part2 = p.slice(0, p.indexOf('['))
+                    q.part3 = p.slice(p.indexOf(']') + 1, p.length)
+                    q.color2 = 'color: currentColor;'
+                    q.value2 = this.skillValueProcess(p)
+                    console.log(2222)
+                }
+                if (index2 === p.indexOf('+') && p.indexOf('[') - p.indexOf('+') === 1) {
+                    q.part2 = p.slice(0, p.indexOf('+'))
+                    q.part3 = p.slice(p.indexOf(']') + 1, p.length)
+                    q.color2 = 'color: currentColor;'
+                    q.value2 = this.skillValueProcess(p)
+                    console.log(3333)
+                }
+                if (p.indexOf('%') - p.indexOf(']') === 1) {
+                    q.part3 = q.part3.replace('%', '')
+                }
             }else {
                 q.part3 = ''
             }
-
-            if (q.part3.indexOf('<color') > 0) {
+            if (q.part3.indexOf('<color') || q.part3.indexOf('[') || q.part3.indexOf('+')) {
                 p = q.part3
-                q.part3 = p.slice(0, p.indexOf('<color'))
-                q.part4 = p.slice(p.indexOf('</color>') + 8, p.length)
-                q.color3 = p.slice(p.indexOf('<color') + 7, p.indexOf('>'))
-                q.color3 = 'color: ' + q.color3 + ';'
-                q.value3 = this.skillValueProcess(p)
+                var index3 = Math.min(...[p.indexOf('<color'), p.indexOf('['), p.indexOf('+')].filter(num => num > 0))
+                if (index3 === p.indexOf('<color') || (index3 === p.indexOf('+') && p.indexOf('<color') > 0)) {
+                    q.part3 = p.slice(0, p.indexOf('<color'))
+                    q.part4 = p.slice(p.indexOf('</color>') + 8, p.length)
+                    q.color3 = 'color: ' + p.slice(p.indexOf('<color') + 7, p.indexOf('>')) + ';'
+                    q.value3 = this.skillValueProcess(p)
+                }
+                if (index3 === p.indexOf('[')) {
+                    q.part3 = p.slice(0, p.indexOf('['))
+                    q.part4 = p.slice(p.indexOf(']') + 1, p.length)
+                    q.color3 = 'color: currentColor;'
+                    q.value3 = this.skillValueProcess(p)
+                }
+                if (index3 === p.indexOf('+') && p.indexOf('[') - p.indexOf('+') === 1) {
+                    q.part3 = p.slice(0, p.indexOf('+'))
+                    q.part4 = p.slice(p.indexOf(']') + 1, p.length)
+                    q.color3 = 'color: currentColor;'
+                    q.value3 = this.skillValueProcess(p)
+                }
+                if (p.indexOf('%') - p.indexOf(']') === 1) {
+                    q.part4 = q.part4.replace('%', '')
+                }
             }else {
                 q.part4 = ''
             }
-            console.log(this.processedActive)
+            console.log(q)
         },
         skillValueProcess(p) {
-            if (p.indexOf('*') > 0){
+            var index = Math.min(...[p.indexOf('*'), p.indexOf('+')].filter(num => num > 0))
+            if (index === p.indexOf('*')) {
                 var operator = p.indexOf('*')
                 var multiValue = parseInt(p.slice(p.indexOf('[') + 1, operator)) * (parseFloat(p.slice(operator + 1, p.indexOf(']'))) ** (this.skillLevel - 1))
-            }else if (p.indexOf('+') > 0){
-                var operator = p.indexOf('+')
-                var multiValue = parseInt(p.slice(p.indexOf('[') + 1, operator)) + (parseInt(p.slice(operator + 1, p.indexOf(']'))) * (this.skillLevel - 1))
-            }else {
-                return p.slice(p.indexOf('>') + 1, p.indexOf('</color>'))
+                    return String(Math.round( ( multiValue + Number.EPSILON ) * 100 ) / 100) + '%'
             }
-            return String(Math.floor( ( multiValue + Number.EPSILON ) * 100 ) / 100) + '%'
+            if (index === p.indexOf('+')) {
+                var operator = p.indexOf('+') > p.indexOf('[') ? p.indexOf('+') : Math.min(...[p.slice(p.indexOf('+') + 1, p.length).indexOf('+'), p.slice(p.indexOf('+') + 1, p.length).indexOf('*')].filter(num => num > 0)) + p.indexOf('+') + 1
+                var multiValue = parseInt(p.slice(p.indexOf('[') + 1, operator)) + (parseInt(p.slice(operator + 1, p.indexOf(']'))) * (this.skillLevel - 1))
+                console.log(p.slice(p.indexOf('[') + 1, operator))
+                    return String(Math.round( ( multiValue + Number.EPSILON ) * 100 ) / 100) + '%'
+            }
+            return String(p.slice(p.indexOf('>') + 1, p.indexOf('</color>')))
         },
         //清空搜尋欄位
         clearSearch() {
@@ -180,8 +237,8 @@ const app = createApp({
             node.innerHTML = '';
             const charName = this.char.atlasName ? this.char.atlasName : "Alice";
             this.player = new spine.SpinePlayer("spineViewer", {
-                jsonUrl: "src/spine/Fullbody_Hero_" + charName + this.skin + ".json",
-                atlasUrl: "src/spine/Fullbody_Hero_" + charName + this.skin + ".atlas",
+                jsonUrl: "src/spine/" + this.body + "_Hero_" + charName + this.skin + ".json",
+                atlasUrl: "src/spine/" + this.body + "_Hero_" + charName + this.skin + ".atlas",
                 backgroundColor: "#00000000",
                 defaultMix: 0,
                 showControls: false,
