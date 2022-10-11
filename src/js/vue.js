@@ -1,10 +1,14 @@
 import { createApp } from 'https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.40/vue.esm-browser.min.js'
 const app = createApp({
+    created(){
+        this.isMobile()
+    },
     data() {
         return {
             allChars:[],
             char:{},
             level:70,
+            isNav:true,
             searchFilter:'', // 搜尋篩選
             selectIcon:'', // 顯示小圖
             isSelectIcon:false,
@@ -53,6 +57,13 @@ const app = createApp({
         }
     },
     methods: {
+        isMobile() {
+            if (screen.width <= 768) {
+              return true
+            } else {
+              return false
+            }
+        },
         setDefault() {
             // 左側nav取得所有角色
             axios.get('src/json/chars.json')
@@ -70,6 +81,10 @@ const app = createApp({
             this.level = 70
             this.skillLevel = 5
             this.skin = ''
+            // if 手機
+            if (this.isMobile()){
+                this.isNav = !this.isNav
+            }
             // 取得小圖與spine動畫
             axios.get('src/json/chars.json')
               .then((res) => {
@@ -230,6 +245,7 @@ const app = createApp({
     mounted() {
         this.setDefault()
         this.setSpine()
+        
     }
 });
 app.mount('#app');

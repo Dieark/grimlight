@@ -18,23 +18,25 @@
     <div id="app">
       <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
         <div class="container px-4 px-lg-5">
-            <a class="navbar-brand" href="index.html"><img src="src/img/logo_black.png" alt="Grimlight" style="width: 15%;"></a>
-            <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                Menu
-                <svg class="svg-inline--fa fa-bars" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"></path></svg>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ms-auto py-4 py-lg-0">
-                    <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Home</a></li>
-                </ul>
-            </div> -->
+          <button type="button" class="btn fs-1" @click="isNav = !isNav" v-if="isMobile()">
+            <i class="bi bi-list"></i>
+          </button>
+          <a class="navbar-brand mx-0" href="index.html"><img src="src/img/logo_black.png" alt="Grimlight" style="width: 100%;"></a>
+          <!-- <button class="btn btn-primary" type="button" @click="isNav = !isNav">
+              <svg class="svg-inline--fa fa-bars" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"></path></svg>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+              <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Home</a></li>
+              </ul>
+          </div> -->
         </div>
       </nav>
       <div class="container">
         <div class="row">
           <!-- 左側欄 -->
-          <div class="col-md-2">
-            <nav class="nav flex-column" style="position: relative;">
+          <div class="col-md-2 side-nav" :class="{ in: !isNav, out: isNav}">
+            <nav class="nav flex-column my-3" style="position: relative;">
               <form class="d-flex" role="search">
                 <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="searchFilter">
               </form>
@@ -70,16 +72,16 @@
           </div>
           <!-- 中間主畫面 -->
           <div class="offset-md-1 col">
-            <div class="row">
-              <div class="col-4 offset-1" style="text-align: center;">
-                <img :src="ui_card_path" alt="" style="width: 70%;">
-                <h3>{{ char.name }}</h3>
-                <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()">SHOW ANIMATION</button>
-                <!-- <button type="button" class="btn btn-secondary" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button> -->
+            <div class="row justify-content-center">
+              <div class="col-md-4 offset-md-1 col-11" style="text-align: center;">
+                <img class="rounded mb-3" :src="ui_card_path" alt="" style="width: 70%;">
+                <h3 class="mb-3">{{ char.name }}</h3>
+                <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="!isFullBody">SHOW ANIMATION</button>
+                <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button>
               </div>
-              <div class="col-6 offset-1">
+              <div class="col-md-6 offset-md-1 col-11">
                 <!-- 面板數值 -->
-                <table class="table table-hover">
+                <table class="table table-hover rounded">
                   <thead>
                     <tr>
                       <th scope="col" style="width: 50%;">
@@ -183,8 +185,8 @@
               </div>
             </div>
             <!-- spine動畫 -->
-            <div class="row" v-show="isFullBody" style="position: absolute; top: 5vh ; bottom: 5vh; left: 5vw; width: 90vw; z-index: 100; background-color: rgba(255, 255, 255, 0.9);" @click="isFullBody = !isFullBody">
-              <ul class="nav nav-tabs">
+            <div class="row" v-show="isFullBody" style="position: absolute; top: 5vh ; bottom: 5vh; left: 5vw; width: 90vw; z-index: 5; background-color: rgba(255, 255, 255, 0.9);">
+              <ul class="nav nav-tabs fs-5">
                 <li class="nav-item">
                   <a class="nav-link btn-outline-secondary" :class="{ active: skin === ''}" @click="skin = ''; setSpine(); isFullBody = !isFullBody" href="#">Normal</a>
                 </li>
@@ -197,75 +199,82 @@
                 <li class="nav-item" v-if="char.skin3">
                   <a class="nav-link" :class="{ active: skin === '_Skin3'}" @click="skin = '_Skin3'; setSpine(); isFullBody = !isFullBody" href="#">Skin3</a>
                 </li>
+                <li class="nav-item ms-auto" @click="isFullBody = !isFullBody">
+                  <button class="btn fs-5">
+                    <i class="bi bi-x-lg"></i>
+                  </button>
+                </li>
               </ul>
               <div id="spineViewer" class="col"></div>
             </div>
             <!-- 技能 -->
-            <div class="row">
-              <table class="table table-hover table-dark" style="opacity: 0.9;">
-                <thead>
-                  <tr>
-                    <th scope="col" style="width: 30%;">
-                      <h4>Abilities</h4>
+            <div class="row justify-content-center">
+              <div class="col-md-auto offset-md-auto col-11">
+                <table class="table table-hover table-dark rounded" style="opacity: 0.9;">
+                  <thead>
+                    <tr>
+                      <th scope="col" style="width: 30%;">
+                        <h4>Abilities</h4>
+                      </th>
+                      <th scope="col">
+                        <div class="input-group d-flex justify-content-end" role="group" 
+                        @click="skillProcess2(descriptionActive, processedActive); skillProcess2(descriptionPassive1, processedPassive);">
+                          <span class="input-group-text">LV:</span>
+                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 1}" @click="skillLevel = 1">1</button>
+                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 2}" @click="skillLevel = 2">2</button>
+                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 3}" @click="skillLevel = 3">3</button>
+                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 4}" @click="skillLevel = 4">4</button>
+                          <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 5}" @click="skillLevel = 5">5</button>
+                      </div>
                     </th>
-                    <th scope="col">
-                      <div class="input-group d-flex justify-content-end" role="group" 
-                      @click="skillProcess2(descriptionActive, processedActive); skillProcess2(descriptionPassive1, processedPassive);">
-                        <span class="input-group-text">LV:</span>
-                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 1}" @click="skillLevel = 1">1</button>
-                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 2}" @click="skillLevel = 2">2</button>
-                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 3}" @click="skillLevel = 3">3</button>
-                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 4}" @click="skillLevel = 4">4</button>
-                        <button type="button" class="btn btn-outline-light" :class="{ active: skillLevel === 5}" @click="skillLevel = 5">5</button>
-                    </div>
-                  </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr v-if="nameActive">
-                    <th scope="row">{{nameActive}} / Active</th>
-                    <td>
-                      <span v-text="processedActive.part1"></span>
-                      <span :style="processedActive.color1" v-text="processedActive.value1"></span>
-                      <span v-text="processedActive.part2"></span>
-                      <span :style="processedActive.color2" v-text="processedActive.value2" v-if="processedActive.part3"></span>
-                      <span v-text="processedActive.part3" v-if="processedActive.part3"></span>
-                      <span :style="processedActive.color3" v-text="processedActive.value3" v-if="processedActive.part4"></span>
-                      <span v-text="processedActive.part4" v-if="processedActive.part4"></span>
-                    </td>
-                  </tr>
-                  <tr v-if="namePassive1">
-                    <th scope="row">{{namePassive1}} / Passive</th>
-                    <td>
-                      <span v-text="processedPassive.part1"></span>
-                      <span :style="processedPassive.color1" v-text="processedPassive.value1"></span>
-                      <span v-text="processedPassive.part2"></span>
-                      <span :style="processedPassive.color2" v-text="processedPassive.value2" v-if="processedPassive.part3"></span>
-                      <span v-text="processedPassive.part3" v-if="processedPassive.part3"></span>
-                      <span :style="processedPassive.color3" v-text="processedPassive.value3" v-if="processedPassive.part4"></span>
-                      <span v-text="processedPassive.part4" v-if="processedPassive.part4"></span>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th scope="col" style="width: 30%;">
-                      <h4>Traits</h4>
-                    </th>
-                    <th scope="col"></th>
-                  </tr>
-                  <tr v-if="nameTrait1">
-                    <th scope="row">{{nameTrait1}} / Trait1</th>
-                    <td v-html="descriptionTrait1"></td>
-                  </tr>
-                  <tr v-if="nameTrait2">
-                    <th scope="row">{{nameTrait2}} / Trait2</th>
-                    <td v-html="descriptionTrait2"></td>
-                  </tr>
-                  <tr v-if="nameTrait3">
-                    <th scope="row">{{nameTrait3}} / Trait3</th>
-                    <td v-html="descriptionTrait3"></td>
-                  </tr>
-                </tbody>
-              </table>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr v-if="nameActive">
+                      <th scope="row">{{nameActive}} / Active</th>
+                      <td>
+                        <span v-text="processedActive.part1"></span>
+                        <span :style="processedActive.color1" v-text="processedActive.value1"></span>
+                        <span v-text="processedActive.part2"></span>
+                        <span :style="processedActive.color2" v-text="processedActive.value2" v-if="processedActive.part3"></span>
+                        <span v-text="processedActive.part3" v-if="processedActive.part3"></span>
+                        <span :style="processedActive.color3" v-text="processedActive.value3" v-if="processedActive.part4"></span>
+                        <span v-text="processedActive.part4" v-if="processedActive.part4"></span>
+                      </td>
+                    </tr>
+                    <tr v-if="namePassive1">
+                      <th scope="row">{{namePassive1}} / Passive</th>
+                      <td>
+                        <span v-text="processedPassive.part1"></span>
+                        <span :style="processedPassive.color1" v-text="processedPassive.value1"></span>
+                        <span v-text="processedPassive.part2"></span>
+                        <span :style="processedPassive.color2" v-text="processedPassive.value2" v-if="processedPassive.part3"></span>
+                        <span v-text="processedPassive.part3" v-if="processedPassive.part3"></span>
+                        <span :style="processedPassive.color3" v-text="processedPassive.value3" v-if="processedPassive.part4"></span>
+                        <span v-text="processedPassive.part4" v-if="processedPassive.part4"></span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="col" style="width: 30%;">
+                        <h4>Traits</h4>
+                      </th>
+                      <th scope="col"></th>
+                    </tr>
+                    <tr v-if="nameTrait1">
+                      <th scope="row">{{nameTrait1}} / Trait1</th>
+                      <td v-html="descriptionTrait1"></td>
+                    </tr>
+                    <tr v-if="nameTrait2">
+                      <th scope="row">{{nameTrait2}} / Trait2</th>
+                      <td v-html="descriptionTrait2"></td>
+                    </tr>
+                    <tr v-if="nameTrait3">
+                      <th scope="row">{{nameTrait3}} / Trait3</th>
+                      <td v-html="descriptionTrait3"></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
             </div>
           </div>
         </div>

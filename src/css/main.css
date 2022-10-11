@@ -1,4 +1,6 @@
-
+.navbar-brand {
+    width: 15%;
+}
 
 
 table {
@@ -14,4 +16,24 @@ footer {
     left: 0;
     padding: 1rem;
     background-color: rgb(255, 255, 255, 0.4);
+}
+@media screen and (max-width: 768px) {
+    .navbar-brand {
+        width: 25%;
+    }
+    .side-nav{
+        position:fixed;
+        overflow:hidden;
+        background-color: rgba(255, 255, 255, 0.9);
+        z-index: 10;
+        width:100%;
+        left:-100%;
+        transition:left 1.5s;
+    }
+    .side-nav.out{
+        left:0;
+    }
+    .side-nav.in {
+        left:-100%;
+    }
 }
