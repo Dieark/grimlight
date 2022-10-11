@@ -177,6 +177,7 @@ const app = createApp({
             this.isSelectIcon = false
             this.selectIcon = ''
         },
+        // 設定spine
         setSpine() {
             const node = document.getElementById("spineViewer");
             node.innerHTML = '';

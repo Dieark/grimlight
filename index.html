@@ -188,19 +188,19 @@
             <div class="row" v-show="isFullBody" style="position: absolute; top: 5vh ; bottom: 5vh; left: 5vw; width: 90vw; z-index: 5; background-color: rgba(255, 255, 255, 0.9);">
               <ul class="nav nav-tabs fs-5">
                 <li class="nav-item">
-                  <a class="nav-link btn-outline-secondary" :class="{ active: skin === ''}" @click="skin = ''; setSpine(); isFullBody = !isFullBody" href="#">Normal</a>
+                  <a class="nav-link btn-outline-secondary" :class="{ active: skin === ''}" @click="skin = ''; setSpine()" href="#">Normal</a>
                 </li>
                 <li class="nav-item" v-if="char.skin1">
-                  <a class="nav-link" :class="{ active: skin === '_Skin1'}" @click="skin = '_Skin1'; setSpine(); isFullBody = !isFullBody" href="#">Skin1</a>
+                  <a class="nav-link" :class="{ active: skin === '_Skin1'}" @click="skin = '_Skin1'; setSpine()" href="#">Skin1</a>
                 </li>
                 <li class="nav-item" v-if="char.skin2">
-                  <a class="nav-link" :class="{ active: skin === '_Skin2'}" @click="skin = '_Skin2'; setSpine(); isFullBody = !isFullBody" href="#">Skin2</a>
+                  <a class="nav-link" :class="{ active: skin === '_Skin2'}" @click="skin = '_Skin2'; setSpine()" href="#">Skin2</a>
                 </li>
                 <li class="nav-item" v-if="char.skin3">
-                  <a class="nav-link" :class="{ active: skin === '_Skin3'}" @click="skin = '_Skin3'; setSpine(); isFullBody = !isFullBody" href="#">Skin3</a>
+                  <a class="nav-link" :class="{ active: skin === '_Skin3'}" @click="skin = '_Skin3'; setSpine()" href="#">Skin3</a>
                 </li>
-                <li class="nav-item ms-auto" @click="isFullBody = !isFullBody">
-                  <button class="btn fs-5">
+                <li class="nav-item ms-auto">
+                  <button class="btn fs-5" @click="isFullBody = !isFullBody">
                     <i class="bi bi-x-lg"></i>
                   </button>
                 </li>
