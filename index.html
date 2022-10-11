@@ -80,6 +80,7 @@
                   <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="!isFullBody">SHOW ANIMATION</button>
                   <button type="button" class="btn btn-secondary mb-3" @click="isFullBody = !isFullBody; setSpine()" v-if="isFullBody">HIDE ANIMATION</button>
                 </div>
+                <p v-if="isMobile()">(animation best viewed on desktop)</p>
               </div>
               <div class="col-md-6 offset-md-1 col-11">
                 <!-- 面板數值 -->
