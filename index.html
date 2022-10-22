@@ -202,7 +202,7 @@
               </div>
             </div>
             <!-- spine動畫 -->
-            <div class="row" v-show="isFullBody" style="position: absolute; top: 5vh ; bottom: 5vh; left: 5vw; width: 90vw; height: 60vw; z-index: 5; background-color: rgba(255, 255, 255, 0.9);">
+            <div id="spine-div" class="row" v-show="isFullBody">
               <ul class="nav nav-tabs fs-5">
                 <li class="nav-item" v-if="char.skin0">
                   <a class="nav-link" :class="[ skin == char.skin0 ? ['active', 'fw-bold'] : '' ]" @click="skin = char.skin0; setSpine()" href="#">Skin0</a>
