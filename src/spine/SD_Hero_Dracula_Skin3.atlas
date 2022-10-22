@@ -1,0 +1,313 @@
+
+SD_Hero_Dracula_Skin3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg
+  rotate: true
+  xy: 219, 13
+  size: 31, 85
+  orig: 31, 85
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 134, 66
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 152, 52
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 457, 310
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Rcollar
+  rotate: false
+  xy: 457, 344
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 134, 12
+  size: 33, 85
+  orig: 33, 85
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 388, 14
+  size: 110, 104
+  orig: 110, 114
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 487, 16
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+bladeglow
+  rotate: false
+  xy: 176, 174
+  size: 217, 135
+  orig: 217, 135
+  offset: 0, 0
+  index: -1
+collar_back
+  rotate: false
+  xy: 304, 15
+  size: 78, 30
+  orig: 78, 30
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 393, 123
+  size: 101, 187
+  orig: 101, 187
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 0, 13
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 176, 310
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 191, 314
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 134, 54
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: true
+  xy: 399, 310
+  size: 201, 58
+  orig: 202, 58
+  offset: 0, 0
+  index: -1
+slash25
+  rotate: false
+  xy: 0, 317
+  size: 225, 194
+  orig: 226, 194
+  offset: 0, 0
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 144
+  size: 173, 176
+  orig: 175, 176
+  offset: 1, 0
+  index: -1
+slash4
+  rotate: false
+  xy: 225, 309
+  size: 174, 202
+  orig: 175, 202
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 176, 44
+  size: 213, 131
+  orig: 213, 131
+  offset: 0, 0
+  index: -1
+swordhandle
+  rotate: true
+  xy: 457, 386
+  size: 125, 53
+  orig: 125, 53
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Dracula_Skin32.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 355, 231
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Lcollar
+  rotate: false
+  xy: 387, 236
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Lpigtail
+  rotate: false
+  xy: 256, 322
+  size: 48, 188
+  orig: 48, 188
+  offset: 0, 0
+  index: -1
+Rpigtail
+  rotate: 270
+  xy: 46, 284
+  size: 46, 187
+  orig: 46, 187
+  offset: 0, 0
+  index: -1
+Rpigtail_charm
+  rotate: false
+  xy: 0, 293
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 430, 233
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 300, 253
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 405, 383
+  size: 76, 126
+  orig: 76, 126
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 180
+  xy: 350, 273
+  size: 84, 139
+  orig: 84, 139
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 140, 369
+  size: 24, 83
+  orig: 24, 83
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 0, 378
+  size: 166, 131
+  orig: 166, 131
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 98, 231
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+eyefurious
+  rotate: false
+  xy: 0, 232
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 434, 292
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 350, 412
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: true
+  xy: 304, 286
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: 270
+  xy: 0, 330
+  size: 56, 170
+  orig: 56, 170
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 291, 364
+  size: 59, 144
+  orig: 59, 144
+  offset: 0, 0
+  index: -1
+headback
+  rotate: false
+  xy: 211, 226
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: true
+  xy: 166, 385
+  size: 124, 72
+  orig: 125, 73
+  offset: 1, 1
+  index: -1
+tail
+  rotate: 270
+  xy: 456, 228
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 169, 307
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1

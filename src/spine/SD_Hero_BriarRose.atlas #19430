@@ -1,0 +1,431 @@
+
+SD_Hero_BriarRose.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lfoot
+  rotate: false
+  xy: 362, 324
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: false
+  xy: 412, 56
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 382, 325
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 212, 289
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+RoseImpact
+  rotate: false
+  xy: 0, 316
+  size: 338, 195
+  orig: 338, 197
+  offset: 0, 2
+  index: -1
+Rpelvis
+  rotate: false
+  xy: 224, 10
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: false
+  xy: 244, 88
+  size: 169, 228
+  orig: 169, 228
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 180
+  xy: 0, 282
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: true
+  xy: 224, 2
+  size: 86, 176
+  orig: 86, 176
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 338, 346
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 45, 312
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+mouthshocked
+  rotate: false
+  xy: 225, 276
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 338, 326
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+vine8
+  rotate: false
+  xy: 0, 18
+  size: 225, 98
+  orig: 225, 98
+  offset: 0, 0
+  index: -1
+vine9
+  rotate: false
+  xy: 0, 116
+  size: 244, 201
+  orig: 244, 201
+  offset: 0, 0
+  index: -1
+vinespike2
+  rotate: true
+  xy: 400, 2
+  size: 51, 106
+  orig: 51, 106
+  offset: 0, 0
+  index: -1
+vinespike5
+  rotate: false
+  xy: 412, 54
+  size: 98, 293
+  orig: 98, 293
+  offset: 0, 0
+  index: -1
+
+SD_Hero_BriarRose2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 311, 201
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 205, 339
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 324, 353
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: false
+  xy: 461, 353
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 399, 84
+  size: 102, 177
+  orig: 102, 177
+  offset: 0, 0
+  index: -1
+bangs8
+  rotate: false
+  xy: 256, 239
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: true
+  xy: 0, 261
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: false
+  xy: 375, 12
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: false
+  xy: 0, 15
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: true
+  xy: 460, 260
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+flower9
+  rotate: false
+  xy: 193, 113
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 434, 420
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+vine1
+  rotate: 270
+  xy: 72, 231
+  size: 182, 228
+  orig: 182, 228
+  offset: 0, 0
+  index: -1
+vine2
+  rotate: 270
+  xy: 0, 112
+  size: 141, 228
+  orig: 141, 228
+  offset: 0, 0
+  index: -1
+vine3
+  rotate: false
+  xy: 0, 357
+  size: 327, 155
+  orig: 327, 155
+  offset: 0, 0
+  index: -1
+vine4
+  rotate: 270
+  xy: 296, 231
+  size: 221, 166
+  orig: 221, 174
+  offset: 0, 0
+  index: -1
+vine6
+  rotate: false
+  xy: 234, 94
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1
+vinespike3
+  rotate: true
+  xy: 308, 451
+  size: 62, 126
+  orig: 62, 126
+  offset: 0, 0
+  index: -1
+vinespike4
+  rotate: 270
+  xy: 123, 20
+  size: 94, 252
+  orig: 94, 252
+  offset: 0, 0
+  index: -1
+
+SD_Hero_BriarRose3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 300, 237
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 290, 124
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 465, 159
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 439, 413
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 465, 207
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+backhair1
+  rotate: false
+  xy: 322, 311
+  size: 98, 198
+  orig: 98, 198
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: 270
+  xy: 11, 252
+  size: 117, 178
+  orig: 117, 178
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 199, 182
+  size: 60, 134
+  orig: 60, 134
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 344, 215
+  size: 124, 142
+  orig: 124, 142
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: false
+  xy: 0, 346
+  size: 214, 163
+  orig: 214, 163
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 83, 177
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: false
+  xy: 0, 437
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: true
+  xy: 333, 131
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: false
+  xy: 419, 356
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+flower4
+  rotate: true
+  xy: 68, 123
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+flower5
+  rotate: false
+  xy: 0, 121
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+flower6
+  rotate: false
+  xy: 124, 124
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+flower7
+  rotate: false
+  xy: 0, 185
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+flower8
+  rotate: false
+  xy: 388, 465
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+vine10
+  rotate: true
+  xy: 199, 133
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+vine5
+  rotate: 270
+  xy: 189, 346
+  size: 163, 133
+  orig: 163, 133
+  offset: 0, 0
+  index: -1
+vine7
+  rotate: false
+  xy: 199, 243
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+vinespike1
+  rotate: false
+  xy: 418, 132
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1

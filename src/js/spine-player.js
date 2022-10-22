@@ -10932,7 +10932,7 @@ var spine;
 			this.time = new spine.TimeKeeper();
 			this.paused = true;
 			this.playTime = 0;
-			this.speed = 1;
+			this.speed = 0.75;
 			this.animationViewports = {};
 			this.currentViewport = null;
 			this.previousViewport = null;

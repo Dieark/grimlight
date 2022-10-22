@@ -1,0 +1,178 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7118662915785212894
+  },
+  "m_Name": "Ability_Vita_Active_GaiasBalance",
+  "abilityID": "Ability_Vita_Active",
+  "cooldown": 45.0,
+  "passiveTriggerType": 1,
+  "numberOfHits": 0,
+  "timeFromStart": 0.0,
+  "maximumCasts": 0,
+  "attackSequence": [
+    {
+      "attackType": 2,
+      "effectedType": 0,
+      "targetType": 0,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 0,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 1.6,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.6,
+      "knockupHeight": 8.0,
+      "knockbackDistance": 10.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 5,
+        "Scaler": 1.5
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    },
+    {
+      "attackType": 4,
+      "effectedType": 1,
+      "targetType": 2,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 1,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": -323177266737190476
+          },
+          "chanceToApplyPercent": 100
+        }
+      ],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 0.0,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 1,
+      "HealAmountScaler": {
+        "StatToScaleBy": 5,
+        "Scaler": 4.0
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    }
+  ],
+  "IgnoresRange": 1,
+  "RequiresAtLeast1HeroIsOnTheFieldAt50PercentHPOrLess": 0,
+  "displayInfo": {
+    "displayType": 0,
+    "abilityIcon": {
+      "m_FileID": 0,
+      "m_PathID": -3131151620622084822
+    }
+  },
+  "abilityUpgradeCostElement": 0,
+  "attackSequenceDetails": [
+    {
+      "modifications": [
+        {
+          "descriptor": "Inflicts damage equal to runtime damage value multiplied by 1.6",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "valueType": 1,
+          "modifiedStat": 0,
+          "statToScaleBy": 0,
+          "value": 1.6
+        }
+      ]
+    },
+    {
+      "modifications": [
+        {
+          "descriptor": "",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "valueType": 6,
+          "modifiedStat": 0,
+          "statToScaleBy": 5,
+          "value": 4.0
+        },
+        {
+          "descriptor": "",
+          "isScaling": 1,
+          "scalerType": 0,
+          "scaler": 1.5,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": -323177266737190476
+          },
+          "valueType": 0,
+          "modifiedStat": 8,
+          "statToScaleBy": 1,
+          "value": 15.0
+        }
+      ]
+    }
+  ]
+}

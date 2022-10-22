@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7118662915785212894
+  },
+  "m_Name": "Ability_Morgana_Active_Arcana",
+  "abilityID": "Ability_Morgana_Active",
+  "cooldown": 10.0,
+  "passiveTriggerType": 1,
+  "numberOfHits": 0,
+  "timeFromStart": 0.0,
+  "maximumCasts": 0,
+  "attackSequence": [
+    {
+      "attackType": 2,
+      "effectedType": 0,
+      "targetType": 0,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 0,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": 5396061564290389962
+          },
+          "chanceToApplyPercent": 100
+        }
+      ],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 1.8,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    },
+    {
+      "attackType": 4,
+      "effectedType": 1,
+      "targetType": 2,
+      "targetFilter": 3,
+      "targetFilterValue": "Mage",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 1,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 0.0,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "TargetOverdriveGain": 5,
+      "IsSuicide": 0
+    }
+  ],
+  "IgnoresRange": 0,
+  "RequiresAtLeast1HeroIsOnTheFieldAt50PercentHPOrLess": 0,
+  "displayInfo": {
+    "displayType": 0,
+    "abilityIcon": {
+      "m_FileID": 0,
+      "m_PathID": -6188882382563232655
+    }
+  },
+  "abilityUpgradeCostElement": 0,
+  "attackSequenceDetails": [
+    {
+      "modifications": [
+        {
+          "descriptor": "Inflicts damage equal to runtime damage value multiplied by 1.8",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "valueType": 1,
+          "modifiedStat": 0,
+          "statToScaleBy": 0,
+          "value": 1.8
+        },
+        {
+          "descriptor": "",
+          "isScaling": 0,
+          "scalerType": 0,
+          "scaler": -1.0,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 5396061564290389962
+          },
+          "valueType": 0,
+          "modifiedStat": 9,
+          "statToScaleBy": 1,
+          "value": -10.0
+        }
+      ]
+    },
+    {
+      "modifications": []
+    }
+  ]
+}

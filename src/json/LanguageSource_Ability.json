@@ -2640,6 +2640,171 @@
         "Languages_Touch": []
       },
       {
+        "Term": "AbilityNames/Ability_Frankenstein_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Power of Science",
+          "과학의 힘",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Frankenstein_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "High Voltage",
+          "고압전류",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Frankenstein_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Bob",
+          "밥, 너로 정했다!",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Frankenstein_Trait4",
+        "TermType": 0,
+        "Languages": [
+          "Creator's Contract",
+          "창조주의 계약",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Frankenstein_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Stimulant",
+          "각성제",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_Frankenstein_Active",
+        "TermType": 0,
+        "Languages": [
+          "Coilgun",
+          "코일건",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_HeadlessHorseman_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Rider of Night",
+          "밤의 질주자",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_HeadlessHorseman_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Cleave",
+          "분쇄",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_HeadlessHorseman_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "That Head is Mine",
+          "너의 머리는 나의 것이다",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_HeadlessHorseman_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Fearless Charge",
+          "저돌맹진",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_HeadlessHorseman_Active",
+        "TermType": 0,
+        "Languages": [
+          "Spine Blade",
+          "스파인 블레이드",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
         "Term": "AbilityDescription/Ability_Alice_Active",
         "TermType": 0,
         "Languages": [
@@ -2748,8 +2913,8 @@
         "Term": "AbilityDescription/Ability_Aurora_Trait2",
         "TermType": 0,
         "Languages": [
-          "All allies on the field get +5% MRES.",
-          "전투 시작 시, 모든 아군에게 마법 저항력 +5%의 버프를 부여합니다.",
+          "All allies on the field get +10% MRES.",
+          "전투 시작 시, 모든 아군에게 마법 저항력 +10%의 버프를 부여합니다.",
           ""
         ],
         "Flags": [
@@ -3258,8 +3423,8 @@
         "Term": "AbilityDescription/Ability_Esme_Passive1",
         "TermType": 0,
         "Languages": [
-          "Every 4 hits, Esme grants a blessing to a random ally buffing their ATK by +[20*1.1]% for 8 seconds.",
-          "매 4번 공격마다 무작위 아군 한 명을 축복하여 8초간 공격력 +[20*1.1]% 버프를 부여합니다.",
+          "Every 4 hits, Esme grants a blessing to a random ally buffing their ATK by +[20*1.1]% for 12 seconds.",
+          "매 4번 공격마다 무작위 아군 한 명을 축복하여 12초간 공격력 +[20*1.1]% 버프를 부여합니다.",
           ""
         ],
         "Flags": [
@@ -3918,8 +4083,8 @@
         "Term": "AbilityDescription/Ability_Odile_Active",
         "TermType": 0,
         "Languages": [
-          "Casts a spell in a large area that Silences all enemies and reduces their ATKSPD by -[50*1.1]% for 10 sec.",
-          "광역 범위의 적들에게 10초간 침묵 디버프와 공격 속도 -[50*1.1]% 디버프를 부여합니다.",
+          "Casts a spell in a large area that Silences all enemies and reduces their ATKSPD by -[30+5]% for 10 sec.",
+          "광역 범위의 적들에게 10초간 침묵 디버프와 공격 속도 -[30+5]% 디버프를 부여합니다.",
           ""
         ],
         "Flags": [
@@ -4233,8 +4398,8 @@
         "Term": "AbilityDescription/Ability_RobinHood_Active",
         "TermType": 0,
         "Languages": [
-          "Deals <color=#EAD53B>[250*1.1]%</color> DMG in a small area around her target. Enemies that have been robbed take an additional 20% per stack.",
-          "화살의 비를 내려  공격력의 <color=#EAD53B>[250*1.1]%</color> 만큼 작은 범위 피해를 줍니다. 약탈 스택 하나 당 20%의 추가 피해를 줍니다.",
+          "Deals <color=#EAD53B>[250*1.1]%</color> DMG in a small area around her target. Enemies that have been robbed take an additional [25*1.1]% per stack.",
+          "화살의 비를 내려  공격력의 <color=#EAD53B>[250*1.1]%</color> 만큼 작은 범위 피해를 줍니다. 약탈 스택 하나 당 [25*1.1]%의 추가 피해를 줍니다.",
           ""
         ],
         "Flags": [
@@ -5239,7 +5404,7 @@
         "TermType": 0,
         "Languages": [
           "Every 5 hits, fire a barrage of 5 bolts at the enemy with lowest HP, dealing <color=#EAD53B>[50*1.1]%</color> DMG per bolt and inflicting knockback.",
-          "매 5번 공격마다 체력이 가장 적은 적을 향해 5개의 볼트를 발사하여 볼트당 공격력의 <color=#EAD53B>[50*1.1]%</color> 데미지를 주고 넉백 시킵니다.",
+          "매 5번 공격마다 생명력이 가장 적은 적을 향해 5개의 볼트를 발사하여 볼트당 공격력의 <color=#EAD53B>[50*1.1]%</color> 데미지를 주고 넉백 시킵니다.",
           ""
         ],
         "Flags": [
@@ -5255,6 +5420,171 @@
         "Languages": [
           "Summon a magic cross down in a large area, dealing <color=#EAD53B>[300*1.1]%</color> DMG. Enemies hit are Stunned for 3 seconds.",
           "마력을 담은 십자가를 소환하여 공격력의 <color=#EAD53B>[300*1.1]%</color> 만큼 광역 피해를 주고 맞은 적들을 3초간 기절 시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Frankenstein_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Immune to Silence.",
+          "침묵에 면역입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Frankenstein_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks have a 10% chance to inflict Stun for 2 seconds.",
+          "기본 공격이 10% 확률로 적을 2초 동안 기절시킵니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Frankenstein_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Summons Bob at the beginning of each wave. Bob gains 100% of Frankenstein's ATK, HP, and DEF. The monster is immune to Stun, Silence, and Knockback. Has 20% DMG Reduction.",
+          "웨이브가 시작할 때 밥을 소환합니다. 밥은 프랑켄슈타인의 생명력, 공격력, 방어력의 100%를 가집니다. 또한 밥은 기절과 침묵, 넉백에 면역입니다. 또한 기절과 침묵, 넉백에 면역 및 20% 물리,마법 저항력을 가지고 있습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Frankenstein_Trait4",
+        "TermType": 0,
+        "Languages": [
+          "If Doctor Frankenstein dies, Bob dies too.",
+          "프랑켄슈타인이 전투에서 쓰러지면 밥 또한 전투에서 쓰러지게 됩니다,",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Frankenstein_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 4 hits, heal Bob for <color=#91E489>[6+1]%</color> Dr. Frankenstein's Max HP. Bob gains <color=white>+[20+2]%</color> ATK SPD for 20 seconds. (Stacks 3 times)",
+          "매 4번 공격마다 밥을 프랑켄슈타인 자신의 최대 생명력의 <color=#91E489>[6+1]%</color> 만큼 회복시키고 밥은 20초 동안 공격속도 <color=white>[20+2]%</color> 를 추가로 획득합니다 (최대 3스택 중첩).",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_Frankenstein_Active",
+        "TermType": 0,
+        "Languages": [
+          "Fires a charged shot at the enemy with the highest ATK stat. Deals <color=#3BE5EA>[500*1.1]%</color> Magic DMG while stunning them for 3 seconds. The target will have -35% ATK for 10 seconds.",
+          "공격력이 제일 높은 적에게 충전된 공격을 날려 공격력의 <color=#3BE5EA>[500*1.1]%</color> 만큼 피해를 입히고 3초간 기절시킵니다. 또한 피해를 입은 적에게 10초 동안 공격력 35% 감소 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_HeadlessHorseman_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "At the start of battle, gain +50% Move Speed and +20% Damage Reduction for 8 seconds. Immune to Knockback.",
+          "전투 시작 시, 자신에게 8초간 이동 속도 +50%와 피해감소 +20% 버프를 부여합니다. 넉백에 면역입니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_HeadlessHorseman_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks deal DMG in a small area.",
+          "기본 공격이 작은 범위에 피해를 줍니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_HeadlessHorseman_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Before Headless Horseman dies, he deals 100% DMG to the weakest enemy. If they have less than 30% HP, they are <color=red>Executed</color>. Headless Horseman heals for 30% HP. (Once per battle)",
+          "목 없는 기사가 전투에서 쓰러지면 자신의 최대 생명력의 30% 만큼 회복합니다. 동시에 생명력이 가장 낮은 적에게 공격력의 100% 만큼 피해를 주고 대상의 생명력이 30% 미만일 경우 대상을 <color=red>즉사</color>시킵니다.  (전투당 최대 1회).",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_HeadlessHorseman_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "3 seconds after the start of a wave, charge the furthest enemy in the lane on screen, dealing <color=#EAD53B>[250*1.1]%</color> DMG to enemies in the way. Targets are Stunned for 3 seconds.",
+          "전투 시작 3초 후, 동일 선상에서 화면 내에 가장 멀리 있는 적에게 빠르게 돌진하여 경로에 있는 모든 적에게 공격력의 <color=#EAD53B>[250*1.1]%</color> 만큼 피해를 입히고 넉백 및 3초 동안 기절시킵니다. (웨이브당 최대 1회)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_HeadlessHorseman_Active",
+        "TermType": 0,
+        "Languages": [
+          "Whirls his spine blade before sweeping all surrounding enemies into the air. Deals <color=#EAD53B>[350*1.1]%</color> DMG and applies Burn.",
+          "척추뼈로 이루어진 칼을 휘둘러 주변의 모든 적들을 공중에 떠오르게 만들며 공격력의 <color=#EAD53B>[350*1.1]%</color>  만큼 피해를 입히고 추가로 화상 디버프를 부여합니다.",
           ""
         ],
         "Flags": [
@@ -5290,7 +5620,7 @@
     "Google_WebServiceURL": "https://script.google.com/macros/s/AKfycbwFv2D9sGfFquY8SX2dnWIyPhy-awtf603LGDXVkE_OhcCx3VJFXuu9RGlNhWcBWrJt/exec",
     "Google_SpreadsheetKey": "1S_LOC54ZpJyTCGCShdBicGEwV7FBWPFXH79PORFX7MI",
     "Google_SpreadsheetName": "I2Loc ProjectR Abilities",
-    "Google_LastUpdatedVersion": "1664459740229",
+    "Google_LastUpdatedVersion": "1666220440525",
     "GoogleUpdateFrequency": 1,
     "GoogleInEditorCheckFrequency": 2,
     "GoogleUpdateSynchronization": 0,

@@ -1,0 +1,164 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7118662915785212894
+  },
+  "m_Name": "Ability_CheshireCat_Active_RavagingStrike",
+  "abilityID": "Ability_CheshireCat_Active",
+  "cooldown": 5.0,
+  "passiveTriggerType": 1,
+  "numberOfHits": 0,
+  "timeFromStart": 0.0,
+  "maximumCasts": 0,
+  "attackSequence": [
+    {
+      "attackType": 2,
+      "effectedType": 0,
+      "targetType": 0,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 0,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 2.65,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    },
+    {
+      "attackType": 0,
+      "effectedType": 1,
+      "targetType": 2,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 1,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": -6115748077215063269
+          },
+          "chanceToApplyPercent": 100
+        }
+      ],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 0.0,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    }
+  ],
+  "IgnoresRange": 0,
+  "RequiresAtLeast1HeroIsOnTheFieldAt50PercentHPOrLess": 0,
+  "displayInfo": {
+    "displayType": 0,
+    "abilityIcon": {
+      "m_FileID": 0,
+      "m_PathID": 3917581584991975643
+    }
+  },
+  "abilityUpgradeCostElement": 0,
+  "attackSequenceDetails": [
+    {
+      "modifications": [
+        {
+          "descriptor": "Inflicts damage equal to runtime damage value multiplied by 2.65",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "valueType": 1,
+          "modifiedStat": 0,
+          "statToScaleBy": 0,
+          "value": 2.65
+        }
+      ]
+    },
+    {
+      "modifications": [
+        {
+          "descriptor": "",
+          "isScaling": 0,
+          "scalerType": 0,
+          "scaler": 0.175,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": -6115748077215063269
+          },
+          "valueType": 0,
+          "modifiedStat": 13,
+          "statToScaleBy": 13,
+          "value": 1.75
+        }
+      ]
+    }
+  ]
+}

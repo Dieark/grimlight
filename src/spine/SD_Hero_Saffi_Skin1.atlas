@@ -1,0 +1,390 @@
+
+SD_Hero_Saffi_Skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backbow1
+  rotate: true
+  xy: 0, 3
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: false
+  xy: 0, 280
+  size: 186, 230
+  orig: 186, 230
+  offset: 0, 0
+  index: -1
+backribbon2
+  rotate: true
+  xy: 386, 457
+  size: 53, 113
+  orig: 53, 113
+  offset: 0, 0
+  index: -1
+backribbon3
+  rotate: false
+  xy: 377, 288
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+backribbon4
+  rotate: true
+  xy: 191, 3
+  size: 26, 79
+  orig: 26, 79
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 344, 185
+  size: 107, 237
+  orig: 107, 237
+  offset: 0, 0
+  index: -1
+bangs5
+  rotate: 180
+  xy: 391, 238
+  size: 118, 237
+  orig: 118, 237
+  offset: 0, 0
+  index: -1
+bangs7
+  rotate: false
+  xy: 72, 14
+  size: 198, 242
+  orig: 198, 242
+  offset: 0, 0
+  index: -1
+crystal3
+  rotate: true
+  xy: 269, 192
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+crystal4
+  rotate: false
+  xy: 434, 183
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+crystal5
+  rotate: true
+  xy: 98, 50
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: 180
+  xy: 251, 28
+  size: 121, 139
+  orig: 121, 139
+  offset: 0, 0
+  index: -1
+eyeclosed
+  rotate: 270
+  xy: 371, 46
+  size: 137, 100
+  orig: 137, 100
+  offset: 0, 0
+  index: -1
+eyemid
+  rotate: true
+  xy: 286, 362
+  size: 148, 100
+  orig: 148, 100
+  offset: 0, 0
+  index: -1
+eyeopen
+  rotate: true
+  xy: 186, 356
+  size: 154, 100
+  orig: 154, 100
+  offset: 0, 0
+  index: -1
+eyeshocked
+  rotate: 270
+  xy: 255, 234
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 79
+  size: 188, 201
+  orig: 188, 201
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 471, 100
+  size: 138, 34
+  orig: 138, 34
+  offset: 0, 0
+  index: -1
+glassstrand1
+  rotate: false
+  xy: 237, 264
+  size: 15, 93
+  orig: 15, 93
+  offset: 0, 0
+  index: -1
+headband
+  rotate: false
+  xy: 372, 1
+  size: 127, 45
+  orig: 127, 45
+  offset: 0, 0
+  index: -1
+mouthgrit
+  rotate: false
+  xy: 188, 166
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+mouthidle
+  rotate: false
+  xy: 0, 505
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+mouthshout
+  rotate: false
+  xy: 270, 166
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 471, 49
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 188, 262
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+
+SD_Hero_Saffi_Skin12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: false
+  xy: 474, 474
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: 270
+  xy: 141, 286
+  size: 50, 103
+  orig: 50, 103
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 172, 249
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 432, 218
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+Lsleeve1
+  rotate: 270
+  xy: 389, 315
+  size: 63, 123
+  orig: 63, 123
+  offset: 0, 0
+  index: -1
+Lsleeve2
+  rotate: true
+  xy: 358, 242
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+Lsleeve3
+  rotate: true
+  xy: 159, 332
+  size: 94, 112
+  orig: 97, 112
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: 270
+  xy: 238, 326
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 269, 374
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 264, 281
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 257, 245
+  size: 36, 79
+  orig: 36, 79
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 98, 386
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+Rsleeve1
+  rotate: true
+  xy: 386, 466
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+Rsleeve2
+  rotate: 270
+  xy: 0, 295
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+backribbon1
+  rotate: 270
+  xy: 370, 272
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1
+backribbon1x
+  rotate: 270
+  xy: 336, 178
+  size: 90, 174
+  orig: 90, 174
+  offset: 0, 0
+  index: -1
+backribbon2x
+  rotate: true
+  xy: 0, 222
+  size: 27, 192
+  orig: 27, 192
+  offset: 0, 0
+  index: -1
+backtie1
+  rotate: true
+  xy: 93, 242
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+backtie2
+  rotate: false
+  xy: 91, 291
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 248, 448
+  size: 64, 138
+  orig: 64, 138
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 0, 369
+  size: 71, 139
+  orig: 71, 139
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: 270
+  xy: 352, 373
+  size: 82, 160
+  orig: 82, 160
+  offset: 0, 0
+  index: -1
+bangs6
+  rotate: 270
+  xy: 264, 414
+  size: 80, 210
+  orig: 80, 210
+  offset: 0, 0
+  index: -1
+crystal1
+  rotate: false
+  xy: 192, 212
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+crystal2
+  rotate: false
+  xy: 315, 205
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: 270
+  xy: 0, 250
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 0, 440
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1
+glassstrand2
+  rotate: true
+  xy: 231, 191
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 131, 416
+  size: 96, 117
+  orig: 96, 117
+  offset: 0, 0
+  index: -1

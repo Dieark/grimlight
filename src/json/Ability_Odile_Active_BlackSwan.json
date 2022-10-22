@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7118662915785212894
+  },
+  "m_Name": "Ability_Odile_Active_BlackSwan",
+  "abilityID": "Ability_Odile_Active",
+  "cooldown": 35.0,
+  "passiveTriggerType": 1,
+  "numberOfHits": 0,
+  "timeFromStart": 0.0,
+  "maximumCasts": 0,
+  "attackSequence": [
+    {
+      "attackType": 2,
+      "effectedType": 0,
+      "targetType": 0,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 1,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": 7930041543093916456
+          },
+          "chanceToApplyPercent": 100
+        },
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": 7552087686963820869
+          },
+          "chanceToApplyPercent": 100
+        }
+      ],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 0.0,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    }
+  ],
+  "IgnoresRange": 0,
+  "RequiresAtLeast1HeroIsOnTheFieldAt50PercentHPOrLess": 0,
+  "displayInfo": {
+    "displayType": 0,
+    "abilityIcon": {
+      "m_FileID": 0,
+      "m_PathID": 4348932394679830088
+    }
+  },
+  "abilityUpgradeCostElement": 0,
+  "attackSequenceDetails": [
+    {
+      "modifications": [
+        {
+          "descriptor": "",
+          "isScaling": 1,
+          "scalerType": 0,
+          "scaler": -0.05,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 7930041543093916456
+          },
+          "valueType": 0,
+          "modifiedStat": 13,
+          "statToScaleBy": 13,
+          "value": -0.3
+        }
+      ]
+    }
+  ]
+}

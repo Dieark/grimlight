@@ -1,0 +1,108 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7118662915785212894
+  },
+  "m_Name": "Ability_RedRidingHood_Active_BeneathTheCrimsonVeil",
+  "abilityID": "Ability_RedRidingHood_Active",
+  "cooldown": 3.0,
+  "passiveTriggerType": 1,
+  "numberOfHits": 0,
+  "timeFromStart": 0.0,
+  "maximumCasts": 0,
+  "attackSequence": [
+    {
+      "attackType": 2,
+      "effectedType": 0,
+      "targetType": 0,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 0,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 1,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 2.0,
+      "DamageMultiplierScaler": {
+        "StatusType": 3,
+        "ScalerMultiplier": 0.6,
+        "MaxEffectiveStacks": 5
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    }
+  ],
+  "IgnoresRange": 0,
+  "RequiresAtLeast1HeroIsOnTheFieldAt50PercentHPOrLess": 0,
+  "displayInfo": {
+    "displayType": 0,
+    "abilityIcon": {
+      "m_FileID": 0,
+      "m_PathID": -8607192374158050922
+    }
+  },
+  "abilityUpgradeCostElement": 0,
+  "attackSequenceDetails": [
+    {
+      "modifications": [
+        {
+          "descriptor": "Inflicts damage equal to runtime damage value multiplied by 2",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "valueType": 1,
+          "modifiedStat": 0,
+          "statToScaleBy": 0,
+          "value": 2.0
+        },
+        {
+          "descriptor": "Inflicts additional damage equal to Burn stack count multiplied by 0.4 with maximum of 5 stacks",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "valueType": 2,
+          "modifiedStat": 0,
+          "statToScaleBy": 0,
+          "value": 0.6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7118662915785212894
+  },
+  "m_Name": "Ability_Frankenstein_Active_Coilgun",
+  "abilityID": "Ability_Frankenstein_Active",
+  "cooldown": 30.0,
+  "passiveTriggerType": 1,
+  "numberOfHits": 0,
+  "timeFromStart": 0.0,
+  "maximumCasts": 0,
+  "attackSequence": [
+    {
+      "attackType": 1,
+      "effectedType": 0,
+      "targetType": 12,
+      "targetFilter": 0,
+      "targetFilterValue": "",
+      "priorityCount": 99,
+      "prioritySorting": 0,
+      "NoDamage": 0,
+      "RestrictToSameLane": 0,
+      "StraightForwardDistance": 0.0,
+      "MoveToTarget": 0,
+      "teleportDelay": 0.0,
+      "StatusRequied": [],
+      "StatusOnHit": [
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": 4132443235337514055
+          },
+          "chanceToApplyPercent": 100
+        },
+        {
+          "status": {
+            "m_FileID": 0,
+            "m_PathID": 4751267428293467072
+          },
+          "chanceToApplyPercent": 100
+        }
+      ],
+      "RemoveDebuffsOnHit": 0,
+      "RemoveBuffsOnHit": 0,
+      "SummonOnCast": [],
+      "InstakillThreshold": -1,
+      "element": 0,
+      "damageType": 0,
+      "nonAttackDamageMultiplier": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "damageMultiplier": 5.0,
+      "DamageMultiplierScaler": {
+        "StatusType": 0,
+        "ScalerMultiplier": 0.0,
+        "MaxEffectiveStacks": 0
+      },
+      "bonusCritChance": 0,
+      "bonusCritMultiplier": 0,
+      "flinchDuration": 0.0,
+      "knockupHeight": 0.0,
+      "knockbackDistance": 0.0,
+      "HealAmount": 0,
+      "HealAmountScaler": {
+        "StatToScaleBy": 0,
+        "Scaler": 0.0
+      },
+      "TargetOverdriveGain": 0,
+      "IsSuicide": 0
+    }
+  ],
+  "IgnoresRange": 1,
+  "RequiresAtLeast1HeroIsOnTheFieldAt50PercentHPOrLess": 0,
+  "displayInfo": {
+    "displayType": 0,
+    "abilityIcon": {
+      "m_FileID": 0,
+      "m_PathID": 4447800902124555290
+    }
+  },
+  "abilityUpgradeCostElement": 0,
+  "attackSequenceDetails": [
+    {
+      "modifications": [
+        {
+          "descriptor": "Inflicts damage equal to runtime damage value multiplied by 7",
+          "isScaling": 1,
+          "scalerType": 1,
+          "scaler": 1.1,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "valueType": 1,
+          "modifiedStat": 0,
+          "statToScaleBy": 0,
+          "value": 5.0
+        },
+        {
+          "descriptor": "",
+          "isScaling": 0,
+          "scalerType": 0,
+          "scaler": 0.0,
+          "statusReference": {
+            "m_FileID": 0,
+            "m_PathID": 4751267428293467072
+          },
+          "valueType": 0,
+          "modifiedStat": 5,
+          "statToScaleBy": 5,
+          "value": -0.35
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,21 @@ const app = createApp({
         return {
             allChars:[],
             char:{},
+            unitData:{},
+            unitStatData:{},
+            DamageType:0,
+            classType:['Guardian', 'Mage', 'Sage', 'Assassin', 'Ranger', 'Warrior'],
+            elementType:['Nature', 'Water', 'Fire', 'Light', 'Dark'],
+            damageType:['Physical', 'Magic'],
+            skinAssetNames:[],
+
+            baseATK:0,
+            baseHP:0,
+            baseDEF:0,
+            activeCooldown:0,
+
             level:70,
+            
             isNav:true && !this.isMobile,
             searchFilter:'', // 搜尋篩選
             selectIcon:'', // 顯示小圖
@@ -17,7 +31,6 @@ const app = createApp({
             isFullBody:false, //展開動畫
             elementFilter:'Element',
             classFilter:'Class',
-            body:'Fullbody',
             skin:'',
             skillLevel:5,
             nameActive:'',
@@ -25,11 +38,13 @@ const app = createApp({
             nameTrait1:'',
             nameTrait2:'',
             nameTrait3:'',
+            nameTrait4:'',
             descriptionActive:'',
             descriptionPassive1:'',
             descriptionTrait1:'',
             descriptionTrait2:'',
             descriptionTrait3:'',
+            descriptionTrait4:'',
             processedActive:{
                 part1:'',
                 part2:'',
@@ -67,13 +82,11 @@ const app = createApp({
             }
         },
         setDefault() {
-            // 左側nav取得所有角色
-            axios.get('src/json/chars.json')
+            // 取得所有角色
+            axios.get('src/json/char.json')
               .then((res) => {
-                console.log(res);
                 this.allChars = res.data
                 this.char = this.allChars[0] // 預設Alice
-                this.level = 70 // 預設70等
                 this.showChar(this.char)
               })
         },
@@ -82,18 +95,43 @@ const app = createApp({
             // 重設
             this.level = 70
             this.skillLevel = 5
-            this.skin = ''
-            // 取得小圖與spine動畫
-            axios.get('src/json/chars.json')
-              .then((res) => {
-                console.log(res)
-                const index = this.allChars.findIndex(obj => obj.name === item.name)
-                this.char = res.data[index]
-                this.ui_card_path = 'src/img/UI_Card_S/UI_Card_' + this.char.imgName +'_S.png'
-                // this.setSpine()
+            this.char = this.allChars[this.allChars.findIndex(obj => obj.displayName === item.displayName)]
+            this.ui_card_path = 'src/img/UI_Card_S/UI_Card_' + this.char.imgName +'_S.png'
+            this.skin = this.char.skin0
+            axios.get('src/json/' + this.char.unitData)
+              .then((response) => {
+                console.log(response)
+                this.unitData = response.data.unitData
+                this.unitStatData = response.data.unitStatData
+                this.DamageType = response.data.unitStatData.attackDamage.DamageType
+                this.baseATK = response.data.unitStatData.attackDamage.damageScaling.yIntercept
+                this.baseDEF = response.data.unitStatData.defense.yIntercept
+                this.baseHP = response.data.unitStatData.hp.yIntercept
               })
+            axios.get('src/json/' + this.char.skillActive)
+              .then((response) => {
+                console.log(response)
+                this.activeCooldown = response.data.cooldown
+                console.log(this.activeCooldown)
+              })
+            // 取得小圖與spine動畫
+            // axios.get('src/json/char.json')
+            //   .then((res) => {
+            //     console.log(res)
+            //     const index = this.allChars.findIndex(obj => obj.displayName === item.displayName)
+            //     this.char = res.data[index]
+            //     this.ui_card_path = 'src/img/UI_Card_S/UI_Card_' + this.char.imgName +'_S.png'
+
+            //     axios.get('src/json/' + this.char.unitData)
+            //       .then((response) => {
+            //         console.log(response)
+
+            //       })
+            //     // this.setSpine()
+            //   })
+
             // 取得技能資訊
-            axios.get('src/LanguageSource_Ability.json')
+            axios.get('src/json/LanguageSource_Ability.json')
               .then((res) => {
                 console.log('char:', this.char)
                 this.nameActive = this.skillProcess1(res, this.char.srcName, this.nameActive, 'Names/Ability_', '_Active')
@@ -101,15 +139,17 @@ const app = createApp({
                 this.nameTrait1 = this.skillProcess1(res, this.char.srcName, this.nameTrait1, 'Names/Ability_', '_Trait1')
                 this.nameTrait2 = this.skillProcess1(res, this.char.srcName, this.nameTrait2, 'Names/Ability_', '_Trait2')
                 this.nameTrait3 = this.skillProcess1(res, this.char.srcName, this.nameTrait3, 'Names/Ability_', '_Trait3')
+                this.nameTrait4 = this.skillProcess1(res, this.char.srcName, this.nameTrait4, 'Names/Ability_', '_Trait4')
                 this.descriptionActive = this.skillProcess1(res, this.char.srcName, this.descriptionActive, 'Description/Ability_', '_Active')
                 this.descriptionPassive1 = this.skillProcess1(res, this.char.srcName, this.descriptionPassive1, 'Description/Ability_', '_Passive1')
                 this.descriptionTrait1 = this.skillProcess1(res, this.char.srcName, this.descriptionTrait1, 'Description/Ability_', '_Trait1')
                 this.descriptionTrait2 = this.skillProcess1(res, this.char.srcName, this.descriptionTrait2, 'Description/Ability_', '_Trait2')
                 this.descriptionTrait3 = this.skillProcess1(res, this.char.srcName, this.descriptionTrait3, 'Description/Ability_', '_Trait3')
+                this.descriptionTrait4 = this.skillProcess1(res, this.char.srcName, this.descriptionTrait4, 'Description/Ability_', '_Trait4')
                 this.skillProcess2(this.descriptionActive, this.processedActive)
                 this.skillProcess2(this.descriptionPassive1, this.processedPassive)
-                console.log('active', this.nameActive, this.descriptionActive)
-                console.log('passive', this.namePassive1, this.descriptionPassive1)
+                console.log('active: ', this.nameActive, ': ', this.descriptionActive)
+                console.log('passive: ', this.namePassive1, ': ', this.descriptionPassive1)
               })
         },
         skillProcess1(res, srcName, p, q, r) {
@@ -135,7 +175,6 @@ const app = createApp({
                 q.value1 = this.skillValueProcess(p)
             }
             if (index === p.indexOf('+') && p.indexOf('[') - p.indexOf('+') === 1) {
-                console.log(1234)
                 q.part1 = p.slice(0, p.indexOf('+'))
                 q.part2 = p.slice(p.indexOf(']') + 1, p.length)
                 q.color1 = 'color: currentColor;'
@@ -152,21 +191,18 @@ const app = createApp({
                     q.part3 = p.slice(p.indexOf('</color>') + 8, p.length)
                     q.color2 = 'color: ' + p.slice(p.indexOf('<color') + 7, p.indexOf('>')) + ';'
                     q.value2 = this.skillValueProcess(p)
-                    console.log(1111)
                 }
                 if (index2 === p.indexOf('[')) {
                     q.part2 = p.slice(0, p.indexOf('['))
                     q.part3 = p.slice(p.indexOf(']') + 1, p.length)
                     q.color2 = 'color: currentColor;'
                     q.value2 = this.skillValueProcess(p)
-                    console.log(2222)
                 }
                 if (index2 === p.indexOf('+') && p.indexOf('[') - p.indexOf('+') === 1) {
                     q.part2 = p.slice(0, p.indexOf('+'))
                     q.part3 = p.slice(p.indexOf(']') + 1, p.length)
                     q.color2 = 'color: currentColor;'
                     q.value2 = this.skillValueProcess(p)
-                    console.log(3333)
                 }
                 if (p.indexOf('%') - p.indexOf(']') === 1) {
                     q.part3 = q.part3.replace('%', '')
@@ -235,10 +271,10 @@ const app = createApp({
         setSpine() {
             const node = document.getElementById("spineViewer");
             node.innerHTML = '';
-            const charName = this.char.atlasName ? this.char.atlasName : "Alice";
+            // const charName = this.char.atlasName ? this.char.atlasName : "Alice";
             this.player = new spine.SpinePlayer("spineViewer", {
-                jsonUrl: "src/spine/" + this.body + "_Hero_" + charName + this.skin + ".json",
-                atlasUrl: "src/spine/" + this.body + "_Hero_" + charName + this.skin + ".atlas",
+                jsonUrl: 'src/spine/' + this.skin + ".json",
+                atlasUrl: 'src/spine/' + this.skin + ".atlas",
                 backgroundColor: "#00000000",
                 defaultMix: 0,
                 showControls: false,
@@ -266,7 +302,7 @@ const app = createApp({
                 if (this.searchFilter) {
                     this.classFilter = 'Class'
                     this.elementFilter = 'Element'
-                    return item.name.toLowerCase().includes(this.searchFilter.toLowerCase())
+                    return item.displayName.toLowerCase().includes(this.searchFilter.toLowerCase())
                 }
                 if (this.elementFilter === 'Element') {
                     if (this.classFilter === 'Class') {
@@ -286,13 +322,13 @@ const app = createApp({
             return newData
         },
         atk() {
-            return Math.floor(this.char.atk * (1 + 0.15 * (this.level - 1)))
+            return Math.floor(this.baseATK * (1 + 0.15 * (this.level - 1)))
         },
         def() {
-            return Math.floor(this.char.def * (1 + 0.15 * (this.level - 1)))
+            return Math.floor(this.baseDEF * (1 + 0.15 * (this.level - 1)))
         },
         hp() {
-            return Math.floor(this.char.hp * (1 + 0.15 * (this.level - 1)))
+            return Math.floor(this.baseHP * (1 + 0.15 * (this.level - 1)))
         }
 
     },

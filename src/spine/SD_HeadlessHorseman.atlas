@@ -1,0 +1,474 @@
+
+SD_HeadlessHorseman.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HeadlessHorsman_Charge
+  rotate: false
+  xy: 247, 37
+  size: 174, 187
+  orig: 174, 187
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 379, 227
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 310, 1
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 310, 1
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 224, 3
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+Lshoulderplate
+  rotate: true
+  xy: 421, 14
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 141, 6
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 88, 4
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 0, 2
+  size: 35, 89
+  orig: 35, 89
+  offset: 0, 0
+  index: -1
+Rshoulderplate
+  rotate: false
+  xy: 0, 37
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+Rthumb
+  rotate: false
+  xy: 421, 171
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+blade2
+  rotate: true
+  xy: 379, 1
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+headflame
+  rotate: false
+  xy: 83, 50
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+headflame2
+  rotate: false
+  xy: 166, 105
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+headflame3
+  rotate: false
+  xy: 228, 38
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+headflame4
+  rotate: false
+  xy: 134, 105
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+horseRear
+  rotate: true
+  xy: 210, 87
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+horsehead
+  rotate: false
+  xy: 83, 28
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+horsemane
+  rotate: 270
+  xy: 172, 6
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+horseneck
+  rotate: 180
+  xy: 418, 166
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+horseyeclosed
+  rotate: false
+  xy: 149, 100
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+horseyemid
+  rotate: false
+  xy: 417, 270
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+pumpkinhead
+  rotate: false
+  xy: 421, 80
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: false
+  xy: 379, 283
+  size: 128, 228
+  orig: 130, 230
+  offset: 1, 1
+  index: -1
+slash3
+  rotate: true
+  xy: 0, 113
+  size: 160, 247
+  orig: 162, 249
+  offset: 1, 1
+  index: -1
+slash4
+  rotate: false
+  xy: 0, 273
+  size: 251, 238
+  orig: 253, 242
+  offset: 1, 1
+  index: -1
+slash5
+  rotate: true
+  xy: 251, 224
+  size: 287, 128
+  orig: 289, 132
+  offset: 1, 1
+  index: -1
+
+SD_HeadlessHorseman2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 360, 146
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+Lelbowplate
+  rotate: true
+  xy: 233, 72
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 356, 492
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Lhip
+  rotate: true
+  xy: 201, 104
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+Lhipplate
+  rotate: false
+  xy: 332, 149
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+Lkneeplate
+  rotate: false
+  xy: 44, 82
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Lthumb
+  rotate: false
+  xy: 229, 430
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 78, 179
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+Relbowplate
+  rotate: false
+  xy: 285, 218
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Rhip
+  rotate: true
+  xy: 425, 135
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+Rhipplate
+  rotate: true
+  xy: 334, 337
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Rkneeplate
+  rotate: false
+  xy: 115, 138
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 0, 158
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+blade1
+  rotate: false
+  xy: 171, 145
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+blade3
+  rotate: false
+  xy: 0, 89
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+blade4
+  rotate: true
+  xy: 159, 70
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+blade5
+  rotate: false
+  xy: 83, 81
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+blade6
+  rotate: false
+  xy: 202, 169
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: -1
+bladehilt
+  rotate: false
+  xy: 133, 180
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+cape
+  rotate: 180
+  xy: 145, 317
+  size: 226, 195
+  orig: 226, 195
+  offset: 0, 0
+  index: -1
+headflame5
+  rotate: true
+  xy: 133, 241
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+horseLbackhip
+  rotate: 270
+  xy: 404, 226
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+horseLbackhoof
+  rotate: true
+  xy: 274, 95
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+horseLear
+  rotate: false
+  xy: 110, 250
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+horseLfronthoof
+  rotate: 180
+  xy: 40, 149
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+horseLfrontshoulder
+  rotate: true
+  xy: 234, 245
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+horseRbackhip
+  rotate: 180
+  xy: 165, 408
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+horseRbackhoof
+  rotate: true
+  xy: 17, 121
+  size: 38, 98
+  orig: 38, 98
+  offset: 0, 0
+  index: -1
+horseRfronthoof
+  rotate: true
+  xy: 113, 104
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+horseRfrontshoulder
+  rotate: true
+  xy: 319, 194
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+horsebody
+  rotate: true
+  xy: 371, 283
+  size: 230, 122
+  orig: 230, 122
+  offset: 0, 0
+  index: -1
+horseneckplateback
+  rotate: true
+  xy: 198, 71
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+horseneckplatefront
+  rotate: false
+  xy: 442, 87
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+horsetail1
+  rotate: true
+  xy: 261, 258
+  size: 101, 142
+  orig: 101, 142
+  offset: 0, 0
+  index: -1
+horsetail2
+  rotate: false
+  xy: 368, 89
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+neckguard
+  rotate: false
+  xy: 271, 124
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 425, 182
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 0, 364
+  size: 165, 148
+  orig: 167, 150
+  offset: 1, 1
+  index: -1
+torso
+  rotate: true
+  xy: 0, 240
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
