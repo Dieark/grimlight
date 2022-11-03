@@ -91,11 +91,20 @@ const app = createApp({
                 this.char = this.allChars[0] // 預設Alice
                 this.showChar(this.char)
                 this.haven()
+                
               })
         },
         //中間主畫面取得某一角色
         showChar(item) {
             // 重設
+            this.allChars.forEach((item) => {
+                axios.get(`src/json/UnitData/${item.unitData}`)
+                  .then((res) => {
+                    item.class = this. classType[res.data.unitStatData.classType]
+                    item.element = this.elementType[res.data.unitStatData.unitElement]
+                    item.damage = this.damageType[res.data.unitStatData.attackDamage.DamageType]
+                  })
+              })
             this.level = 80
             this.skillLevel = 5
             this.char = this.allChars[this.allChars.findIndex(obj => obj.displayName === item.displayName)]
