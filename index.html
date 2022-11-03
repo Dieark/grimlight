@@ -20,22 +20,58 @@
     <div id="app">
       <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
         <div class="container px-4 px-lg-5">
-          <button type="button" class="btn fs-1" @click="isNav = !isNav" v-if="isMobile()">
-            <i class="bi bi-list"></i>
+          <button type="button" class="navbar-toggler" @click="isNav = !isNav" v-if="isMobile()">
+            <span class="navbar-toggler-icon"></span>
           </button>
           <a class="navbar-brand mx-0" href="index.html"><img src="src/img/logo_black.png" alt="Grimlight" style="width: 100%;"></a>
-          <!-- <button class="btn btn-primary" type="button" @click="isNav = !isNav">
-              <svg class="svg-inline--fa fa-bars" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"></path></svg>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
+            <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
               <ul class="navbar-nav ms-auto py-4 py-lg-0">
-                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Home</a></li>
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-lg-4" href="#" @click="page = 'Heros'">Heros</a></li>
+                  <hr>
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-lg-4" href="#" @click="page = 'Haven'">Haven</a></li>
               </ul>
-          </div> -->
+          </div>
         </div>
       </nav>
       <div class="container">
-        <div class="row">
+        <div class="row" v-if="page === 'Haven'">
+          <table class="table table-hover table-dark rounded haven-table" style="opacity: 0.9; table-layout:fixed; text-align: center;">
+            <thead>
+              <tr>
+                <th scope="col" style="width: 25%;">
+                  <span>Hero</span>
+                </th>
+                <th scope="col" style="width: 15%;">
+                  <span>Drop_1</span>
+                </th>
+                <th scope="col">
+                  <span>DropRate_1</span>
+                </th>
+                <th scope="col" style="width: 15%;">
+                  <span>Drop_2</span>
+                </th>
+                <th scope="col">
+                  <span>DropRate_2</span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <template v-for="item in havenData">
+                <tr>
+                  <th scope="row">{{ item.hero }}</th>
+                  <td><img :src="'src/img/EquipmentItem/Sprite/' + item.dropItem1" :alt="item.dropItem1" style="width:100%;"></td>
+                  <td>{{ item.dropRate1 }}%</td>
+                  <td><img :src="'src/img/EquipmentItem/Sprite/' + item.dropItem2" :alt="item.dropItem2" style="width:100%;"></td>
+                  <td>{{ item.dropRate2 }}%</td>
+                </tr>
+              </template>
+            </tbody>
+          </table>
+        </div>
+        <div class="row" v-if="page === 'Heros'">
           <!-- 左側欄 -->
           <div class="col-md-2 side-nav" :class="{ in: !isNav, out: isNav}">
             <nav class="nav flex-column my-3" style="position: relative;">
@@ -127,7 +163,7 @@
                         <div class="input-group input-group-sm w-50">
                           <input type="number" aria-label="level" class="form-control" 
                           style="background: transparent; font-weight: bold;" 
-                          :value="level" max="70" min="1" v-model="level">
+                          :value="level" min="1" v-model="level">
                         </div>
                       </td>
                     </tr>
@@ -333,11 +369,10 @@
         <hr class="my-6 mx-sm-auto">
         <div class="flex items-center justify-between">
           <div>
-            <span class="text-sm text-center">any suggestion or problem or issue please @Dieark in 
+            <span class="text-sm text-center">any suggestion or issue report please @Dieark in 
               <a class="btn btn-outline-secondary border-0" href="https://discord.gg/2wh4Yr5dNg" target="_blank">
                 <i class="bi bi-discord"></i>
               </a>
-
             </span>
             <br>
             <span class="text-sm text-center"> Images and data: © Gaudium Inc. &amp; EIGHT STUDIO Inc.</span>

@@ -1,11 +1,12 @@
 import { createApp } from 'https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.40/vue.esm-browser.min.js'
 
 const app = createApp({
-    created(){
+    created() {
         this.isMobile()
     },
     data() {
         return {
+            page:'Heros',
             allChars:[],
             char:{},
             unitData:{},
@@ -21,7 +22,7 @@ const app = createApp({
             baseDEF:0,
             activeCooldown:0,
 
-            level:70,
+            level:80,
             
             isNav:true && !this.isMobile,
             searchFilter:'', // 搜尋篩選
@@ -70,7 +71,8 @@ const app = createApp({
                 value3:0
             },
             ui_card_path:'src/img/UI_Card_S/UI_Card_Alice_S.png',
-            player:null
+            player:null,
+            havenData:[]
         }
     },
     methods: {
@@ -88,17 +90,18 @@ const app = createApp({
                 this.allChars = res.data
                 this.char = this.allChars[0] // 預設Alice
                 this.showChar(this.char)
+                this.haven()
               })
         },
         //中間主畫面取得某一角色
         showChar(item) {
             // 重設
-            this.level = 70
+            this.level = 80
             this.skillLevel = 5
             this.char = this.allChars[this.allChars.findIndex(obj => obj.displayName === item.displayName)]
             this.ui_card_path = 'src/img/UI_Card_S/UI_Card_' + this.char.imgName +'_S.png'
             this.skin = this.char.skin0
-            axios.get('src/json/' + this.char.unitData)
+            axios.get('src/json/UnitData/' + this.char.unitData)
               .then((response) => {
                 console.log(response)
                 this.unitData = response.data.unitData
@@ -108,7 +111,7 @@ const app = createApp({
                 this.baseDEF = response.data.unitStatData.defense.yIntercept
                 this.baseHP = response.data.unitStatData.hp.yIntercept
               })
-            axios.get('src/json/' + this.char.skillActive)
+            axios.get('src/json/Ability_Active/' + this.char.skillActive)
               .then((response) => {
                 console.log(response)
                 this.activeCooldown = response.data.cooldown
@@ -293,6 +296,55 @@ const app = createApp({
                     // padLeft: "5%"
                 }
             })
+        },
+        affinityFilter(item) {
+            axios.get('src/json/UnitData/' + item.unitData)
+              .then((response) => {
+                console.log(response)
+                
+              })
+        },
+        haven() {
+            const havenObj = {
+                "Nature":"UI_Icon_LifeAffinity.png",
+                "Water":"UI_Icon_MindAffinity.png",
+                "Fire":"UI_Icon_HeartAffinity.png",
+                "Light":"UI_Icon_DayAffinity.png",
+                "Dark":"UI_Icon_NightAffinity.png",
+                "MaterialItem_ClassMat_Guardian":"UI_Icon_Item_Anvil.png",
+                "MaterialItem_ClassMat_Mage":"UI_Icon_Item_CrystalBall.png",
+                "MaterialItem_ClassMat_Sage":"UI_Icon_Item_MagicalElixir.png",
+                "MaterialItem_ClassMat_Assassin":"UI_Icon_Item_GoldenApple.png",
+                "MaterialItem_ClassMat_Ranger":"UI_Icon_Item_Silvercoin.png",
+                "MaterialItem_ClassMat_Warrior":"UI_Icon_Item_MagicalPowder.png",
+                "ExpItem_Basic":"UI_Icon_Item_Exp1.png"
+            }
+            for (const item of this.allChars) {
+                axios.get('src/json/UnitData/' + item.unitData)
+                    .then((response) => {
+                        var obj = {
+                            'hero':item.displayName,
+                            'dropItem1':havenObj[(response.data.unitData.havenRewards[0].objectReference.objectID).replace("MaterialItem_HavenElementAffinity", "")],
+                            'dropRate1':response.data.unitData.havenRewards[0].dropOptionExtension.individualDropPercent,
+                            'maxDrop1':response.data.unitData.havenRewards[0].dropOptionExtension.maxDrop,
+                            'minDrop1':response.data.unitData.havenRewards[0].dropOptionExtension.minDrop,
+                            'dropItem2':'',
+                            'dropRate2':response.data.unitData.havenRewards[1].dropOptionExtension.individualDropPercent,
+                            'maxDrop2':response.data.unitData.havenRewards[1].dropOptionExtension.maxDrop,
+                            'minDrop2':response.data.unitData.havenRewards[1].dropOptionExtension.minDrop
+                        }
+                        if (havenObj[response.data.unitData.havenRewards[1].objectReference.objectID]) {
+                            obj.dropItem2 = havenObj[response.data.unitData.havenRewards[1].objectReference.objectID]
+                        }else {
+                            axios.get('src/json/EquipmentItem/MonoBehaviour/' + response.data.unitData.havenRewards[1].objectReference.objectID + '.json')
+                                .then((response2) => {
+                                    obj.dropItem2 = response2.data.itemSpriteName + '.png'
+                                })
+                        }
+                        this.havenData.push(obj)
+                });
+            }
+            console.log(this.havenData)
         }
     },
     computed: {
@@ -335,8 +387,7 @@ const app = createApp({
     //初始化
     mounted() {
         this.setDefault()
-        // this.setSpine()
-        
     }
 });
+
 app.mount('#app');

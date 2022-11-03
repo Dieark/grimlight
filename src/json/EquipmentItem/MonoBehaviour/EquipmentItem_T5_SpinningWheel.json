@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T5_SpinningWheel",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 6,
+    "day": 3,
+    "hour": 15,
+    "minute": 24,
+    "second": 11
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T5_SpinningWheel",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Accessory",
+    "equipmentRarity": 5,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 5,
+    "startingStats": [],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Accessory_SpinningWheel",
+  "primaryStats": [
+    {
+      "statID": "defenceUpPercent",
+      "baseValue": 45.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": -3673866560002271354
+  }
+}

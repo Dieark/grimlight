@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T5_BlossomwindDress",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 9,
+    "day": 13,
+    "hour": 14,
+    "minute": 23,
+    "second": 41
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T5_BlossomwindDress",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Armor",
+    "equipmentRarity": 5,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 5,
+    "startingStats": [],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Armor_BlossomwindDress",
+  "primaryStats": [
+    {
+      "statID": "hpUpPercent",
+      "baseValue": 58.0
+    },
+    {
+      "statID": "defenceUpPercent",
+      "baseValue": 80.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": 8723450481656812601
+  }
+}

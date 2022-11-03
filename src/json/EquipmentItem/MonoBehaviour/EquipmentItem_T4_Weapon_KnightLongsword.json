@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T4_Weapon_KnightLongsword",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 8,
+    "day": 18,
+    "hour": 20,
+    "minute": 23,
+    "second": 51
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T4_Weapon_KnightLongsword",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Weapon",
+    "equipmentRarity": 4,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 0,
+    "startingStats": [
+      {
+        "statID": "hpUpPercent",
+        "stackCount": 6
+      },
+      {
+        "statID": "defenceUpPercent",
+        "stackCount": 4
+      }
+    ],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Weapon_KnightLongsword",
+  "primaryStats": [
+    {
+      "statID": "flatDmg",
+      "baseValue": 185.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": 1238523674580646878
+  }
+}

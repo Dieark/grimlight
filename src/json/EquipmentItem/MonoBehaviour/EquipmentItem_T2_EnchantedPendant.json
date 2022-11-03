@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T2_EnchantedPendant",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 5,
+    "day": 16,
+    "hour": 14,
+    "minute": 24,
+    "second": 27
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T2_EnchantedPendant",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Accessory",
+    "equipmentRarity": 2,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 0,
+    "startingStats": [
+      {
+        "statID": "attackUpPercent",
+        "stackCount": 0
+      }
+    ],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Accessory_SilverPendant",
+  "primaryStats": [
+    {
+      "statID": "hpUpPercent",
+      "baseValue": 16.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

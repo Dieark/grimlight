@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T3_SilverNecklace",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 3,
+    "day": 16,
+    "hour": 20,
+    "minute": 14,
+    "second": 22
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T3_MysticChoker",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Accessory",
+    "equipmentRarity": 3,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 1,
+    "startingStats": [],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Accessory_SilverlightNecklace",
+  "primaryStats": [
+    {
+      "statID": "critDamagePercentAdd",
+      "baseValue": 35.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": 667329101517807341
+  }
+}

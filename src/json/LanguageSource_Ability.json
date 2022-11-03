@@ -2805,6 +2805,81 @@
         "Languages_Touch": []
       },
       {
+        "Term": "AbilityNames/Ability_YukiOnna_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Frost Strike",
+          "서리 일격",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_YukiOnna_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Snow Maiden",
+          "스노우 메이든",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_YukiOnna_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Ice Curse",
+          "눈의 저주",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_YukiOnna_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Crystal Dance",
+          "눈꽃 결정",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityNames/Ability_YukiOnna_Active",
+        "TermType": 0,
+        "Languages": [
+          "Snow Blind",
+          "스노우 블라인드",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
         "Term": "AbilityDescription/Ability_Alice_Active",
         "TermType": 0,
         "Languages": [
@@ -5374,7 +5449,7 @@
         "TermType": 0,
         "Languages": [
           "Deals +10% additional damage against Dark enemies.",
-          "어둠 속성 적에게 주는 데미지가 10% 증가합니다.",
+          "어둠 속성 적에게 주는 피해가 10% 증가합니다.",
           ""
         ],
         "Flags": [
@@ -5464,7 +5539,7 @@
         "TermType": 0,
         "Languages": [
           "Summons Bob at the beginning of each wave. Bob gains 100% of Frankenstein's ATK, HP, and DEF. The monster is immune to Stun, Silence, and Knockback. Has 20% DMG Reduction.",
-          "웨이브가 시작할 때 밥을 소환합니다. 밥은 프랑켄슈타인의 생명력, 공격력, 방어력의 100%를 가집니다. 또한 밥은 기절과 침묵, 넉백에 면역입니다. 또한 기절과 침묵, 넉백에 면역 및 20% 물리,마법 저항력을 가지고 있습니다.",
+          "웨이브가 시작할 때 밥을 소환합니다. 밥은 프랑켄슈타인의 생명력, 공격력, 방어력의 100%를 가집니다. 또한 기절과 침묵, 넉백에 면역 및 20% 물리,마법 저항력을 가지고 있습니다.",
           ""
         ],
         "Flags": [
@@ -5593,6 +5668,81 @@
           0
         ],
         "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_YukiOnna_Trait1",
+        "TermType": 0,
+        "Languages": [
+          "Basic attacks inflict Frost (-15% MOVSPD and -15% ATKSPD) for 6 sec.",
+          "기본 공격 적중 시, 6초간 서리 디버프를 부여합니다. (이동 속도 -15%, 공격 속도 -15%)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_YukiOnna_Trait2",
+        "TermType": 0,
+        "Languages": [
+          "Takes 10% less damage from non-Nature element attacks.",
+          "자연 속성 외 공격에 대해 10% 경감된 피해를 받습니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_YukiOnna_Trait3",
+        "TermType": 0,
+        "Languages": [
+          "Yuki-Onna's first attack each wave will Freeze the target for 5 seconds.",
+          "설녀의 첫 공격은 대상을 5초 동안 빙결시킵니다. (웨이브당 최대 1회)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_YukiOnna_Passive1",
+        "TermType": 0,
+        "Languages": [
+          "Every 3 hits, heal nearby allies <color=#91E489>[150*1.1]%</color> ATK and apply a DEF buff of +80% of Yuki-Onna's DEF for 5 seconds. (Stacks 1 times)",
+          "매 3번 공격마다 가까운 거리에 있는 아군들을 공격력의 <color=#91E489>[150*1.1]%</color> 만큼 치유하고 설녀의 기본 방어력의 80% 만큼 추가 방어력 버프를 부여합니다. (최대 1스택 중첩)",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
+      },
+      {
+        "Term": "AbilityDescription/Ability_YukiOnna_Active",
+        "TermType": 0,
+        "Languages": [
+          "Deal <color=#3BE5EA>[300*1.1]%</color> Magic DMG in a small area. Enemies are Blinded (-50% Accuracy) for 5 seconds.",
+          "좁은 범위에 <color=#3BE5EA>[300*1.1]%</color> 마법 피해를 입히고 피해를 입힌 적에게 5초간 명중률 50% 감소 디버프를 부여합니다.",
+          ""
+        ],
+        "Flags": [
+          0,
+          0,
+          0
+        ],
+        "Languages_Touch": []
       }
     ],
     "CaseInsensitiveTerms": 0,
@@ -5620,7 +5770,7 @@
     "Google_WebServiceURL": "https://script.google.com/macros/s/AKfycbwFv2D9sGfFquY8SX2dnWIyPhy-awtf603LGDXVkE_OhcCx3VJFXuu9RGlNhWcBWrJt/exec",
     "Google_SpreadsheetKey": "1S_LOC54ZpJyTCGCShdBicGEwV7FBWPFXH79PORFX7MI",
     "Google_SpreadsheetName": "I2Loc ProjectR Abilities",
-    "Google_LastUpdatedVersion": "1666220440525",
+    "Google_LastUpdatedVersion": "1667118078816",
     "GoogleUpdateFrequency": 1,
     "GoogleInEditorCheckFrequency": 2,
     "GoogleUpdateSynchronization": 0,

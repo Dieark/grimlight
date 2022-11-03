@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T5_Weapon_CarrotHammer",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 7,
+    "day": 18,
+    "hour": 20,
+    "minute": 31,
+    "second": 54
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T5_Weapon_CarrotHammer",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Weapon",
+    "equipmentRarity": 5,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 0,
+    "startingStats": [
+      {
+        "statID": "critDamagePercentAdd",
+        "stackCount": 8
+      },
+      {
+        "statID": "attackUpPercent",
+        "stackCount": 4
+      }
+    ],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Weapon_CarrotHammer",
+  "primaryStats": [
+    {
+      "statID": "flatDmg",
+      "baseValue": 230.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": -1332999278118445473
+  }
+}

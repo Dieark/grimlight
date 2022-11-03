@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T5_CitrusHarmonica",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 8,
+    "day": 18,
+    "hour": 19,
+    "minute": 36,
+    "second": 45
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T5_CitrusHarmonica",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Accessory",
+    "equipmentRarity": 5,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 5,
+    "startingStats": [],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Accessory_CitrusHarmonica",
+  "primaryStats": [
+    {
+      "statID": "hpUpPercent",
+      "baseValue": 30.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": 8154762896562428307
+  }
+}

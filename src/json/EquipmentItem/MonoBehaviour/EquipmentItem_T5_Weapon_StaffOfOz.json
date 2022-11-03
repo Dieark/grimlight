@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3111628910464320072
+  },
+  "m_Name": "EquipmentItem_T5_Weapon_StaffOfOz",
+  "contentLocations": [],
+  "CreationTime": {
+    "year": 2022,
+    "month": 8,
+    "day": 11,
+    "hour": 18,
+    "minute": 44,
+    "second": 17
+  },
+  "equipmentItemData": {
+    "itemID": "EquipmentItem_T5_Weapon_StaffOfOz",
+    "sellReward": {
+      "objectReference": {
+        "objectType": 0,
+        "objectID": ""
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "equipmentItemType": "Weapon",
+    "equipmentRarity": 5,
+    "maxUniqueSecondaryStats": 3,
+    "levelPerStack": 10,
+    "startingSubStatsCount": 0,
+    "startingStats": [
+      {
+        "statID": "attackUpPercent",
+        "stackCount": 4
+      },
+      {
+        "statID": "critRatePercentAdd",
+        "stackCount": 4
+      },
+      {
+        "statID": "flatDef",
+        "stackCount": 4
+      }
+    ],
+    "possibleSecondaryStats": []
+  },
+  "itemSpriteName": "UI_Icon_Weapon_StaffofOz",
+  "primaryStats": [
+    {
+      "statID": "flatDmg",
+      "baseValue": 215.0
+    }
+  ],
+  "setData": {
+    "m_FileID": 0,
+    "m_PathID": 71065779139567207
+  }
+}

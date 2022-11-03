@@ -156,7 +156,8 @@
         "imgName":"Goldilocks",
         "unitData":"UnitData_CHAR0036_Goldilocks.json",
         "skillActive":"Ability_Goldilocks_Active_Scatter.json",
-        "skin0":"Fullbody_Hero_Goldilocks"
+        "skin0":"Fullbody_Hero_Goldilocks",
+        "skin1":"Fullbody_Hero_Goldilocks_Skin1"
     },
     {
         "displayName":"Gretel",
@@ -322,7 +323,8 @@
         "imgName":"QueenOfHearts",
         "unitData":"UnitData_CHAR0011_QueenOfHearts.json",
         "skillActive":"Ability_QueenOfHearts_Active_ExplosiveRage.json",
-        "skin0":"Fullbody_Hero_QueenofHearts"
+        "skin0":"Fullbody_Hero_QueenofHearts",
+        "skin2":"Fullbody_Hero_QueenofHearts_Skin2"
     },
     {
         "displayName":"Rapunzel",
@@ -473,7 +475,8 @@
         "unitData":"UnitData_CHAR0022_WhiteRabbit.json",
         "skillActive":"Ability_WhiteRabbit_Active_TimeWarp.json",
         "skin0":"Fullbody_Hero_WhiteRabbit",
-        "skin2":"Fullbody_Hero_WhiteRabbit_Skin2"
+        "skin2":"Fullbody_Hero_WhiteRabbit_Skin2",
+        "skin3":"Fullbody_Hero_WhiteRabbit_Skin3"
     },
     {
         "displayName":"Winter Queen",
@@ -483,5 +486,13 @@
         "skillActive":"Ability_WinterQueen_Active_Blizzard.json",
         "skin0":"Fullbody_Hero_WinterQueen",
         "skin1":"Fullbody_Hero_WinterQueen_Skin1"
+    },
+    {
+        "displayName":"Yuki-Onna",
+        "srcName":"YukiOnna",
+        "imgName":"YukiOnna",
+        "unitData":"UnitData_CHAR0060_YukiOnna.json",
+        "skillActive":"Ability_YukiOnna_Active_SnowBlind.json",
+        "skin0":"Fullbody_Hero_YukiOnna"
     }
 ]

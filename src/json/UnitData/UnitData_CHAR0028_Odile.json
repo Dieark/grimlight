@@ -1,0 +1,747 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6839594166661548410
+  },
+  "m_Name": "UnitData_CHAR0028_Odile",
+  "removeFromGame": 0,
+  "unitData": {
+    "unitID": "CHAR0028",
+    "startingTier": 4,
+    "levelLimitBreakCosts": [
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 7800
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardNight_Tier1"
+            },
+            "itemCount": 15
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Sage"
+            },
+            "itemCount": 5
+          }
+        ],
+        "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 12450
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardNight_Tier1"
+            },
+            "itemCount": 30
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Sage"
+            },
+            "itemCount": 10
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat30"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 18150
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardNight_Tier2"
+            },
+            "itemCount": 10
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Sage"
+            },
+            "itemCount": 20
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat40"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 24900
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardNight_Tier2"
+            },
+            "itemCount": 15
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Sage"
+            },
+            "itemCount": 35
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat50"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 32850
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardNight_Tier3"
+            },
+            "itemCount": 20
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Sage"
+            },
+            "itemCount": 50
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat60"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
+      },
+      {
+        "primaryCosts": [
+          {
+            "objectReference": {
+              "objectType": 2,
+              "objectID": "Coin"
+            },
+            "itemCount": 42000
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ElementShardNight_Tier3"
+            },
+            "itemCount": 30
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_ClassMat_Sage"
+            },
+            "itemCount": 70
+          },
+          {
+            "objectReference": {
+              "objectType": 1,
+              "objectID": "MaterialItem_LimitBreakMat70"
+            },
+            "itemCount": 1
+          }
+        ],
+        "replacementCost": []
+      }
+    ],
+    "duplicateReplacement": {
+      "objectReference": {
+        "objectType": 4,
+        "objectID": "UnitToken_CHAR0028"
+      },
+      "itemCount": 1,
+      "dropOptionExtension": {
+        "applyExtensions": 0,
+        "individualDropPercent": 0,
+        "maxDrop": 0,
+        "minDrop": 0
+      },
+      "activateAllExtensions": 0,
+      "equipmentDataExtension": {
+        "levelSelector": 0,
+        "fixedLevel": 1,
+        "contentLevelModulus": 1,
+        "accountLevelOffset": 0
+      }
+    },
+    "randomStatGridOverride": {
+      "totalSlotCount": -1,
+      "statGroup": [],
+      "unlockCost": [
+        {
+          "levelRequirement": 5,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 1000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 10,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 2000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 15,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 3000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 20,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 4000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 25,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 6000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 30,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 9000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 35,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 13000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 40,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 20000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        },
+        {
+          "levelRequirement": 45,
+          "cost": {
+            "primaryCosts": [
+              {
+                "objectReference": {
+                  "objectType": 2,
+                  "objectID": "Coin"
+                },
+                "itemCount": 28000
+              },
+              {
+                "objectReference": {
+                  "objectType": 4,
+                  "objectID": "UnitToken_CHAR0028"
+                },
+                "itemCount": 1
+              }
+            ],
+            "replacementCost": []
+          }
+        }
+      ],
+      "resetCost": [],
+      "bonusStats": []
+    },
+    "skillComponentData": {
+      "skillDataList": [
+        {
+          "skillID": "Ability_Odile_Active",
+          "maxLevel": 0,
+          "upgradeRequirements": [
+            {
+              "levelRequirement": 15,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 10
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 1000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 30,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 20
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 2500
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 45,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier2"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 5000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 60,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier3"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 10000
+                  }
+                ],
+                "replacementCost": []
+              }
+            }
+          ]
+        },
+        {
+          "skillID": "Ability_Odile_Passive1",
+          "maxLevel": 0,
+          "upgradeRequirements": [
+            {
+              "levelRequirement": 15,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 10
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 1000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 30,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier1"
+                    },
+                    "itemCount": 20
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 2500
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 45,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier2"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 5000
+                  }
+                ],
+                "replacementCost": []
+              }
+            },
+            {
+              "levelRequirement": 60,
+              "costData": {
+                "primaryCosts": [
+                  {
+                    "objectReference": {
+                      "objectType": 1,
+                      "objectID": "MaterialItem_ElementShardNight_Tier3"
+                    },
+                    "itemCount": 15
+                  },
+                  {
+                    "objectReference": {
+                      "objectType": 2,
+                      "objectID": "Coin"
+                    },
+                    "itemCount": 10000
+                  }
+                ],
+                "replacementCost": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "havenRewards": [
+      {
+        "objectReference": {
+          "objectType": 1,
+          "objectID": "MaterialItem_HavenElementAffinityDark"
+        },
+        "itemCount": 1,
+        "dropOptionExtension": {
+          "applyExtensions": 1,
+          "individualDropPercent": 30,
+          "maxDrop": 1,
+          "minDrop": 1
+        },
+        "activateAllExtensions": 1,
+        "equipmentDataExtension": {
+          "levelSelector": 0,
+          "fixedLevel": 1,
+          "contentLevelModulus": 1,
+          "accountLevelOffset": 0
+        }
+      },
+      {
+        "objectReference": {
+          "objectType": 1,
+          "objectID": "MaterialItem_ClassMat_Sage"
+        },
+        "itemCount": 1,
+        "dropOptionExtension": {
+          "applyExtensions": 1,
+          "individualDropPercent": 10,
+          "maxDrop": 1,
+          "minDrop": 1
+        },
+        "activateAllExtensions": 1,
+        "equipmentDataExtension": {
+          "levelSelector": 0,
+          "fixedLevel": 1,
+          "contentLevelModulus": 1,
+          "accountLevelOffset": 0
+        }
+      }
+    ]
+  },
+  "skinAssetNames": [
+    "UnitSkinAssets_Char0028_Odile",
+    "UnitSkinAssets_Char0028_Odile_Skin2"
+  ],
+  "storyDatas": [],
+  "unitStatData": {
+    "id": "CHAR0028",
+    "displayName": "Odile",
+    "portrait": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "unitElement": 4,
+    "classType": 2,
+    "deployCost": 3,
+    "hp": {
+      "statType": 1,
+      "yIntercept": 650.0,
+      "hasExponentialScale": 0
+    },
+    "attackDamage": {
+      "DamageType": 1,
+      "damageScaling": {
+        "statType": 1,
+        "yIntercept": 45.0,
+        "hasExponentialScale": 0
+      }
+    },
+    "defense": {
+      "statType": 1,
+      "yIntercept": 20.0,
+      "hasExponentialScale": 0
+    },
+    "critChance": 1.0,
+    "critDamage": 50.0,
+    "hpAbsorb": 0.0,
+    "physResist": 0.0,
+    "magicResist": 0.0,
+    "baseEvasionPercent": 10.0,
+    "baseAccuracyPercent": 0.0,
+    "resilience": 0.0,
+    "attackSpeed": 1.0,
+    "attackRange": 40.0,
+    "energyGainPerAttack": 15,
+    "moveSpeed": 15.0,
+    "laneSearch": 5,
+    "aggroRange": 50.0,
+    "pushRadius": 0.0,
+    "knockbackImmune": 0,
+    "healReduction": 0,
+    "healBonus": 0,
+    "cooldownReduction": 0
+  },
+  "awakeningRareMat": {
+    "objectType": 0,
+    "objectID": ""
+  },
+  "talkData": {
+    "m_FileID": 0,
+    "m_PathID": 1965066021989591024
+  },
+  "traits": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5220690230642754396
+    }
+  ],
+  "passiveAbility": {
+    "m_FileID": 0,
+    "m_PathID": 7164825467002136848
+  },
+  "activeAbility": {
+    "m_FileID": 0,
+    "m_PathID": 2048594388200236715
+  },
+  "Gender": 0,
+  "Age": 21
+}

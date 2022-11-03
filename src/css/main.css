@@ -19,6 +19,11 @@ table {
 tbody>tr, thead>tr>th {
     vertical-align: middle;
 }
+.haven-table {
+    opacity: 0.9; 
+    table-layout:fixed; 
+    text-align: center;
+}
 #spine-div {
     position: absolute;
     top: 5vh ;
@@ -41,6 +46,9 @@ footer {
 @media screen and (max-width: 768px) {
     .navbar-brand {
         width: 25%;
+    }
+    .haven-table>thead>tr>th {
+        font-size: xx-small;
     }
     .side-nav{
         position:fixed;
